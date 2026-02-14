@@ -1,0 +1,216 @@
+email_id,subject,body,category,module,priority,multi_intent
+EXT_001,Extension Request - KV6003 Project,"Dear Dr Smith,
+
+I am writing to request an extension for my KV6003 project submission. My mother was admitted to hospital last week with a serious illness and I have been travelling home to care for her. I have medical evidence from the hospital which I can provide.
+
+I have completed approximately 70% of my project but I need an additional two weeks to finish the remaining work. I hope you can understand the situation.
+
+Kind regards,
+Sarah Thompson",extenuating_circumstances,KV6003,high,FALSE
+EXT_002,cant submit on time,"hi dr smith
+
+i know the kv5002 assignment is due friday but i genuinely cant get it done in time. ive had really bad anxiety this semester and ive fallen behind on everything. i dont have a doctors note yet but im going to try and get one this week
+
+is there anything u can do to help
+
+sorry
+katie",extenuating_circumstances,KV5002,high,FALSE
+EXT_003,Bereavement - Requesting Consideration,"Dear Dr Smith,
+
+I'm writing to inform you that my grandfather passed away last Thursday. The funeral is this week and I will need to travel to Scotland for several days. This will affect my attendance and my ability to complete the KV4006 coursework which is due next Monday.
+
+I have a copy of the death certificate if needed. Could you advise on the process for requesting an extension or deferral under these circumstances?
+
+Thank you for your understanding.
+
+Regards,
+Alex Turner",extenuating_circumstances,KV4006,high,FALSE
+EXT_004,been really ill,"hi
+
+ive had really bad flu for the past week and havent been able to do any work. the kv6003 interim report is due in 3 days and ive barely started it. i know i should have started earlier but i was fine until last monday
+
+do i need to apply for extenuating circumstances or can u just give me an extension??
+
+thx
+josh",extenuating_circumstances,KV6003,high,FALSE
+EXT_005,Mental Health Support and Extension,"Dear Dr Smith,
+
+This is quite difficult to write but I wanted to be honest with you. I have been struggling significantly with my mental health this semester and it has severely impacted my ability to engage with my studies. I am currently receiving support from the university wellbeing service and my GP.
+
+I am concerned about the upcoming KV5002 deadline as I have not been able to make the progress I had planned. I would like to discuss whether an extension or alternative arrangement might be possible. I can provide documentation from my counsellor if required.
+
+I appreciate your support.
+
+Best wishes,
+Nathan Brooks",extenuating_circumstances,KV5002,high,FALSE
+EXT_006,Extenuating Circumstances Form - Where to Find It?,"Dear Dr Smith,
+
+I need to submit an extenuating circumstances claim but I can't find the form on the student portal. Could you send me the link or tell me where to find it? Also, do I submit it to you directly or to the faculty office?
+
+I need to get this in before the KV4006 deadline on Friday.
+
+Thanks,
+Sophie Green",extenuating_circumstances,KV4006,high,TRUE
+EXT_007,car accident,"hi dr smith
+
+i was in a car accident on saturday and ive broken my wrist. im right handed so i cant type properly and im struggling to do any work on my kv6003 project. the hospital gave me a sick note for 3 weeks
+
+what should i do about my deadlines?? i have the kv6003 submission and the kv5002 assignment both coming up
+
+sorry
+liam",extenuating_circumstances,,high,TRUE
+EXT_008,Pregnancy Related Absence,"Dear Dr Smith,
+
+I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
+
+I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility.
+
+Thank you for your understanding.
+
+Kind regards,
+Chloe Martinez",extenuating_circumstances,KV5002,high,FALSE
+EXT_009,internet issues at home,"hi
+
+my internet has been down at home for nearly 2 weeks now and the provider keeps saying theyll fix it but they dont. ive been going to the library to work but its not open late enough for me to get everything done because i work part time during the day
+
+i know this probably doesnt count as extenuating circumstances but its seriously affecting my kv4006 assignment. is there anything u can do
+
+cheers
+dan",extenuating_circumstances,KV4006,medium,FALSE
+EXT_010,Disability Flare-Up,"Dear Dr Smith,
+
+I have a diagnosed chronic condition (fibromyalgia) which is registered with Disability Services. I've been experiencing a significant flare-up over the past two weeks which has made it very difficult to sit at a computer for extended periods.
+
+My Disability Adviser has recommended I request adjusted deadlines for the current assessment period. This affects both my KV6003 project and KV4006 coursework. I have an updated medical letter which I can forward.
+
+Could you advise on how best to proceed?
+
+Best regards,
+Rebecca Lawrence",extenuating_circumstances,,high,TRUE
+EXT_011,NEED EXTENSION PLEASE,"HI DR SMITH
+
+I KNOW THE DEADLINE IS TOMORROW BUT I REALLY NEED AN EXTENSION FOR KV5002. I HAVE HAD SO MANY DEADLINES THIS WEEK AND I CANT COPE WITH THEM ALL. I HAVENT SLEPT IN 3 DAYS AND IM REALLY STRUGGLING.
+
+PLEASE CAN I HAVE EVEN JUST 48 HOURS EXTRA??
+
+MICHAEL",extenuating_circumstances,KV5002,high,FALSE
+EXT_012,Part-Time Job Conflict,"Dear Dr Smith,
+
+I know this may not qualify as extenuating circumstances but I wanted to explain my situation. My employer has increased my hours significantly this month and I'm working nearly full-time alongside my studies. This has left me with very little time to work on the KV6003 project.
+
+I'm not asking for special treatment but I wondered if there was any flexibility or advice you could offer.
+
+Thank you,
+Tom Wilson",extenuating_circumstances,KV6003,medium,FALSE
+EXT_013,family emergency back home,"hi dr smith
+
+im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline
+
+i dont know what to do. what are my options??
+
+thanks
+james",extenuating_circumstances,,high,TRUE
+EXT_014,Extenuating Circumstances Rejected - Appeal,"Dear Dr Smith,
+
+I submitted an extenuating circumstances claim for my KV5002 late submission but it was rejected because the panel said my evidence was insufficient. I provided a self-certification form but apparently they needed a GP letter.
+
+I've now obtained a letter from my doctor. Can I appeal the decision? If so, what is the process and the deadline for the appeal?
+
+I feel this is very unfair as I was genuinely unwell.
+
+Regards,
+Isla Ferguson",extenuating_circumstances,KV5002,high,FALSE
+EXT_015,covid and isolation,"hi
+
+ive tested positive for covid and im isolating at home. i feel awful and cant concentrate on anything. the kv6003 report is due next week and theres no way ill be well enough to finish it
+
+do i still need to apply for an extension formally or can u just note it down?? i can send a photo of my test result
+
+thx
+megan",extenuating_circumstances,KV6003,high,TRUE
+EXT_016,Housing Issues Affecting Studies,"Dear Dr Smith,
+
+I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month.
+
+I have documentation from the Citizens Advice Bureau. Would this be accepted as evidence for an extenuating circumstances claim?
+
+Thank you for any guidance.
+
+Kind regards,
+David Kim",extenuating_circumstances,KV4006,high,FALSE
+EXT_017,injured my hand in football,"hi dr smith
+
+bit of an awkward one but i injured my hand playing football at the weekend and its in a splint for 2 weeks. i can still type a bit with my left hand but its really slow and painful. the kv5002 coding assignment is going to be really hard to do like this
+
+is there any way i can get extra time?? happy to show u the hospital letter
+
+cheers
+ryan",extenuating_circumstances,KV5002,high,FALSE
+EXT_018,Caring Responsibilities,"Dear Dr Smith,
+
+I wanted to make you aware that I have recently become a primary carer for my younger sibling following a change in family circumstances. This has significantly impacted my study time and I'm finding it very difficult to keep up with the KV6003 project milestones.
+
+I've spoken to the Student Wellbeing team and they've recommended I contact my module leaders about potential adjustments. Is there any flexibility with the project timeline?
+
+I can provide a letter from my social worker if needed.
+
+Best wishes,
+Fatima Al-Rashid",extenuating_circumstances,KV6003,high,FALSE
+EXT_019,panic attacks before exams,"hi dr smith
+
+i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long
+
+im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety??
+
+sorry for oversharing
+hannah",extenuating_circumstances,KV4006,high,TRUE
+EXT_020,Multiple Deadlines Overwhelm,"Dear Dr Smith,
+
+I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling.
+
+I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position.
+
+Thank you,
+Emily Chen",extenuating_circumstances,,medium,TRUE
+EXT_021,just got out of hospital,"hi
+
+i was admitted to hospital on monday with appendicitis and had emergency surgery. ive only just been discharged today. obviously i havent been able to work on anything and the kv6003 deadline was yesterday
+
+i have all the hospital paperwork. what do i do now??
+
+thanks
+ben",extenuating_circumstances,KV6003,high,FALSE
+EXT_022,Witness in Court Case,"Dear Dr Smith,
+
+I have been called as a witness in a court case and the hearing date coincides with the KV4006 exam on 15th March. I have a summons letter which I can provide as evidence. This is not something I can reschedule.
+
+Could you advise on what options are available — either an alternative exam date or a deferral?
+
+Kind regards,
+Priya Patel",extenuating_circumstances,KV4006,high,FALSE
+EXT_023,feeling really overwhelmed,"hi dr smith
+
+i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant
+
+i dont know what to ask for i just wanted someone to know
+
+sorry
+connor",extenuating_circumstances,KV5002,high,FALSE
+EXT_024,Late Evidence Submission for EC Claim,"Dear Dr Smith,
+
+I submitted an extenuating circumstances claim for my KV6003 project last month but I only received my medical evidence yesterday — my GP surgery had a long delay in processing the letter. The EC office says they can't accept late evidence without module leader approval.
+
+Would you be willing to support the late submission of my evidence? I can forward the letter to you directly.
+
+Thank you,
+Zara Ahmed",extenuating_circumstances,KV6003,high,FALSE
+EXT_025,Religious Observance and Deadline,"Dear Dr Smith,
+
+I wanted to raise that the KV5002 submission deadline on Friday 14th April falls during Eid al-Fitr, which is an important religious observance for me. I will be attending prayers and spending time with family and it would be very difficult for me to submit on that day.
+
+Could the deadline be adjusted by a day or two, or is there a formal process for requesting this?
+
+I appreciate your consideration.
+
+Best regards,
+Amir Hussain",extenuating_circumstances,KV5002,medium,FALSE

@@ -1,0 +1,174 @@
+email_id,subject,body,category,module,priority,multi_intent
+TIM_001,Timetable Clash - KV5002 and KV4006,"Dear Dr Smith,
+
+I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions.
+
+Could you advise on what I should do? Is there an alternative session for either module?
+
+Thank you,
+Sarah Thompson",timetabling,,high,FALSE
+TIM_002,is there a lecture tomorrow?,"hi
+
+just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled
+
+cheers
+jake",timetabling,KV6003,medium,FALSE
+TIM_003,Room Change for KV4006?,"Dear Dr Smith,
+
+I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything.
+
+Could you confirm the correct room?
+
+Thanks,
+David Kim",timetabling,KV4006,high,FALSE
+TIM_004,lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",timetabling,KV5002,low,FALSE
+TIM_005,KV6003 Supervision Meeting Availability,"Dear Dr Smith,
+
+I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day.
+
+Could you also let me know where the meeting will take place — is it your office or on Teams?
+
+Kind regards,
+Olivia Hughes",timetabling,KV6003,medium,TRUE
+TIM_006,MISSED LECTURE,"HI DR SMITH
+
+I MISSED TODAYS KV5002 LECTURE BECAUSE MY BUS WAS LATE. WILL THE LECTURE BE RECORDED? I DONT WANT TO FALL BEHIND.
+
+ALSO IS THERE ANYTHING IMPORTANT I MISSED THAT WONT BE ON THE SLIDES?
+
+THANKS
+MICHAEL",timetabling,KV5002,medium,TRUE
+TIM_007,Lecture cancellation??,"hi
+
+i heard the kv4006 lecture on friday is cancelled is this true?? no one has posted anything on blackboard about it and i dont want to travel in for nothing
+
+pls confirm
+connor",timetabling,KV4006,medium,FALSE
+TIM_008,Part-Time Student Timetabling Issue,"Dear Dr Smith,
+
+I'm a part-time student on the KV5002 module. The timetable has all sessions scheduled during the daytime but I work full-time until 4pm. I understood there would be evening or flexible options available for part-time students.
+
+Could you advise on whether there are alternative session times or if recordings are available?
+
+Many thanks,
+Nathan Brooks",timetabling,KV5002,high,FALSE
+TIM_009,when do lectures start back after easter,"hi
+
+sorry if this is a stupid question but when do lectures start back after the easter break?? is it week 1 of semester 2 or do we have an extra week off
+
+cheers
+ben",timetabling,,low,FALSE
+TIM_010,Workshop Location - KV6003,"Dear Dr Smith,
+
+The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor?
+
+Sorry for the basic question.
+
+Thanks,
+Fatima Al-Rashid",timetabling,KV6003,low,FALSE
+TIM_011,Re: Timetable Change,"Hi Dr Smith,
+
+Thanks for letting us know about the room change for KV4006. Just to confirm — is this permanent for the rest of the semester or just this week? I want to make sure I update my calendar correctly.
+
+Regards,
+Sophie Green",timetabling,KV4006,low,FALSE
+TIM_012,cant make wednesday lecture,"hi
+
+i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
+
+thx
+ryan",timetabling,KV5002,medium,TRUE
+TIM_013,Extra Revision Sessions Before Exam?,"Dear Dr Smith,
+
+With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
+
+If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks?
+
+Best regards,
+Rebecca Lawrence",timetabling,KV4006,medium,FALSE
+TIM_014,wrong timetable i think,"hi dr smith
+
+so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real
+
+lol sorry
+josh",timetabling,KV6003,medium,FALSE
+TIM_015,Placement Year - Module Timetabling Query,"Dear Dr Smith,
+
+I'm returning from my placement year in September and need to complete KV6003 and KV5002. I've been told there may be timetable conflicts for returning placement students as some modules have moved to different semesters.
+
+Could you confirm which semester each module runs in for the upcoming academic year? I need to plan around my remaining placement commitments.
+
+Kind regards,
+Isla Ferguson",timetabling,,high,FALSE
+TIM_016,no lecture slides posted for today,"hi
+
+the kv5002 lecture just finished but the slides havent been put on blackboard yet. are you going to upload them today?? i want to go over them while its still fresh
+
+also is next weeks lecture in the same room
+
+thx
+katie",timetabling,KV5002,low,TRUE
+TIM_017,Guest Lecture Details,"Dear Dr Smith,
+
+You mentioned in the last KV6003 session that there would be a guest lecture in Week 11 from someone in industry. Could you confirm the date, time, and whether attendance is mandatory? I want to make sure I don't book anything else.
+
+Thank you,
+Zara Ahmed",timetabling,KV6003,medium,FALSE
+TIM_018,kv4006 exam timetable,"when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap
+
+dan",timetabling,KV4006,high,FALSE
+TIM_019,Online or In Person?,"Hi,
+
+Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action.
+
+Could you clarify?
+
+Thanks,
+Alex Turner",timetabling,KV5002,medium,FALSE
+TIM_020,Reading Week Confusion,"Dear Dr Smith,
+
+I'm a bit confused about reading week. The university calendar says it's Week 7 but someone in my seminar group said KV6003 still has a session that week. Could you confirm whether there's any teaching during reading week for KV6003?
+
+I was planning to use the week for project work but I don't want to miss anything.
+
+Best wishes,
+Emily Chen",timetabling,KV6003,medium,FALSE
+TIM_021,lecture times changing??,"hi
+
+heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem
+
+please let me know
+liam",timetabling,KV4006,high,FALSE
+TIM_022,Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith,
+
+Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes.
+
+Additionally, are the session times the same as Semester 1?
+
+Thank you for clarifying.
+
+Regards,
+Priya Patel",timetabling,KV5002,medium,TRUE
+TIM_023,supervision rescheduling,"hi dr smith
+
+is it ok to move my kv6003 supervision from tuesday to thursday this week?? i have a group presentation for another module on tuesday that i cant miss
+
+sorry for the short notice
+tom",timetabling,KV6003,medium,FALSE
+TIM_024,Bank Holiday Monday - Is There a Lecture?,"Hi,
+
+Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it.
+
+Thanks,
+Hannah Wright",timetabling,KV6003,medium,FALSE
+TIM_025,timetable is blank,"hi
+
+my entire timetable is showing as blank on the student portal for this semester. i think its a glitch but i dont know what sessions i should be going to for kv4006 and kv5002. can u send me the times and rooms pls??
+
+cheers
+james",timetabling,,high,FALSE

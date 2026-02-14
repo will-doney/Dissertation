@@ -1,0 +1,57 @@
+# Email Corpus Generation Prompt
+
+Use this prompt (adapt the category and count per batch). Generate in batches of ~20-30 per category to keep quality high.
+
+Prompt
+
+You are generating a synthetic dataset of student emails sent to a university lecturer. These emails must be realistic and reflect the diversity of real student communication.
+
+Category for this batch: [INSERT CATEGORY]
+Number of emails to generate: [INSERT COUNT]
+Module codes to use: KV6003 (Computing Project), KV5002 (Software Engineering), KV4006 (Databases)
+
+Categories and descriptions:
+assessment — Questions about assignments, deadlines, submission, marking, resits
+timetabling — Lecture times, room changes, schedule clashes, cancellations
+resources — Requests for lecture slides, reading lists, software access, links
+admin — Enrolment, module registration, student records, general admin
+extenuating_circumstances — Extensions, illness, personal issues, mitigating circumstances
+feedback — Requests for feedback on grades, asking about marks, appealing results
+
+Requirements:
+Vary the writing quality — include emails that are:
+Professional and well-structured
+Casual/informal with text speak or abbreviations (e.g. "u", "pls", "thx")
+Poorly written with spelling/grammar errors
+Overly long and rambling
+Very short/terse
+Some emails should contain multiple intents (e.g. asking about a deadline AND requesting lecture slides). Flag these.
+Include varied subject lines — some vague ("Quick question"), some specific ("KV6003 Assignment 2 Deadline Extension")
+Vary the student tone — polite, anxious, frustrated, demanding, apologetic
+Include realistic details — references to Blackboard/Turnitin, specific weeks, assignment numbers
+Some emails should be duplicates or near-duplicates of common questions (e.g. multiple students asking about the same deadline) — this supports your duplicate detection deliverable
+
+Output format (CSV-ready):
+Return as a markdown table with these columns:
+| email_id | subject | body | category | module | priority | multi_intent |
+
+Use `[BATCH_PREFIX]_001`, `[BATCH_PREFIX]_002` etc. for email_id.
+Priority: high = urgent/time-sensitive, medium = needs response within days, low = already answered elsewhere or trivial.
+
+---
+
+Suggested batch plan:
+| Batch | Category | Count | Prefix |
+|-------|----------|---------------|
+| 1 | assessment | 30 | ASS |
+| 2 | timetabling | 25 | TIM |
+| 3 | resources | 25 | RES |
+| 4 | admin | 25 | ADM |
+| 5 | extenuating_circumstances | 25 | EXT |
+| 6 | feedback | 20 | FDB |
+| 7 | mixed/multi-intent | 20 | MIX |
+| 8 | near-duplicates | 15 | DUP |
+
+Total: ~185 emails
+
+This gives you a balanced dataset with enough for train/test splits. Scale up if needed — aim for 300+ if you want stronger model performance

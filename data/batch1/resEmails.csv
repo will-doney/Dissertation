@@ -1,0 +1,169 @@
+email_id,subject,body,category,module,priority,multi_intent
+RES_001,Lecture Slides - Week 6 KV5002,"Dear Dr Smith,
+
+I noticed that the lecture slides for Week 6 of KV5002 haven't been uploaded to Blackboard yet. Could you let me know when they'll be available? I'd like to review them before next week's session.
+
+Thank you,
+Emily Chen",resources,KV5002,low,FALSE
+RES_002,cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+cheers
+jake",resources,KV4006,high,FALSE
+RES_003,Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+Kind regards,
+Olivia Hughes",resources,KV6003,medium,FALSE
+RES_004,recording of last lecture,"hi dr smith
+
+i was ill last week and missed the kv5002 lecture on software testing. is there a recording on panopto?? i cant find it anywhere on blackboard
+
+thx
+ryan",resources,KV5002,medium,FALSE
+RES_005,Software Installation Help - Python,"Dear Dr Smith,
+
+I'm trying to install Python and Jupyter Notebook on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
+
+Also, is there a specific version of Python we need to be using for the module?
+
+Thanks,
+Fatima Al-Rashid",resources,KV6003,medium,TRUE
+RES_006,where is the module handbook,"hi
+
+where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
+
+pls help
+megan",resources,KV5002,low,FALSE
+RES_007,GitHub Classroom Access,"Dear Dr Smith,
+
+I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22.
+
+Could you resend the invite or check if there's an issue with the link?
+
+Regards,
+David Kim",resources,KV5002,high,FALSE
+RES_008,past exam papers kv4006,"hi
+
+are there any past exam papers for kv4006 available anywhere?? ive checked the library and the module page but cant find any. would be really helpful for revision
+
+ta
+ben",resources,KV4006,low,FALSE
+RES_009,Database Software for KV4006,"Dear Dr Smith,
+
+In the last lecture you mentioned we'd need MySQL Workbench for the practical sessions. Is this available on the university lab computers or do we need to install it ourselves? If we need to install it, is there a student licence or should we use the community edition?
+
+Thank you,
+Priya Patel",resources,KV4006,medium,FALSE
+RES_010,CANT FIND ANYTHING ON BLACKBOARD,"HI DR SMITH
+
+I CANT FIND ANY OF THE RESOURCES FOR KV6003 ON BLACKBOARD. THE MODULE PAGE JUST HAS THE ASSIGNMENT BRIEF AND NOTHING ELSE. WHERE ARE THE LECTURE SLIDES AND THE READING LIST AND THE PROJECT GUIDELINES??
+
+AM I LOOKING IN THE WRONG PLACE??
+
+MICHAEL",resources,KV6003,medium,FALSE
+RES_011,Additional Resources for Machine Learning Topic,"Dear Dr Smith,
+
+I've been going through the KV5002 content on machine learning algorithms and I'm finding the lecture material quite high-level. Are there any additional resources you'd recommend — YouTube channels, online courses, or supplementary textbooks — that might help me understand the concepts in more depth?
+
+I learn better with worked examples if that helps narrow it down.
+
+Best wishes,
+Rebecca Lawrence",resources,KV5002,low,FALSE
+RES_012,slides from week 3??,"hi
+
+i know this is ages ago but is there any chance u could reupload the week 3 slides for kv4006?? the link on blackboard is broken and just takes me to a blank page. ive asked a few others and they have the same problem
+
+sorry
+liam",resources,KV4006,medium,FALSE
+RES_013,Access to University Software Remotely,"Dear Dr Smith,
+
+I'm a commuter student and I do most of my work from home. Is there a way to access the university's software remotely — specifically the tools we use for KV4006 like MySQL and the Oracle database? I heard there's a virtual desktop but I'm not sure how to set it up.
+
+Any guidance would be appreciated.
+
+Thanks,
+Nathan Brooks",resources,KV4006,medium,FALSE
+RES_014,reading list not working,"the reading list link on blackboard for kv5002 takes me to the library page but all the links to the actual books and papers say 'access denied'. i think the library subscriptions might have expired or something??
+
+can u send the pdfs directly or tell me how to access them
+
+thx
+katie",resources,KV5002,medium,FALSE
+RES_015,KV6003 Project Template,"Dear Dr Smith,
+
+Is there a report template we should be using for the KV6003 project submission? I want to make sure I'm following the correct formatting and structure. If there isn't a template, could you advise on the expected format — font size, line spacing, heading structure etc.?
+
+Thank you,
+Zara Ahmed",resources,KV6003,low,FALSE
+RES_016,sample code from lecture,"hi dr smith
+
+in the kv5002 lecture on wednesday you showed some sample code for the observer pattern. are you going to upload that code to blackboard or github?? i tried to copy it down during the lecture but i missed some of it
+
+cheers
+josh",resources,KV5002,medium,FALSE
+RES_017,Lecture Recording Quality Issue,"Dear Dr Smith,
+
+I've been watching the KV4006 Panopto recordings and the audio quality on the last three recordings has been very poor — there's a constant buzzing sound and your voice cuts out frequently. It's quite difficult to follow.
+
+Is there anything that can be done to fix this? Could you perhaps upload the slides with audio notes as an alternative?
+
+Thanks,
+Sophie Green",resources,KV4006,medium,FALSE
+RES_018,need the dataset,"hi
+
+where can i download the dataset we need for the kv5002 assignment?? i cant see it on blackboard and the link in the brief doesnt work
+
+this is urgent because the assignment is due next week
+
+dan",resources,KV5002,high,FALSE
+RES_019,Textbook Recommendation,"Dear Dr Smith,
+
+I'm looking to buy a textbook for KV4006 to supplement my studies. The reading list has several options — which one would you personally recommend as the most useful? I can only afford one so I want to make sure I pick the right one.
+
+Many thanks,
+Alex Turner",resources,KV4006,low,FALSE
+RES_020,cant open the files,"hi
+
+the files u uploaded for kv6003 week 9 are in a .ipynb format and i dont know how to open them. i dont have jupyter installed yet. is there a way to view them without installing anything?? or can u upload them as pdfs too
+
+thx
+connor",resources,KV6003,medium,TRUE
+RES_021,Week 8 Slides Still Missing,"Hi Dr Smith,
+
+Just following up on this — the Week 8 slides for KV5002 still haven't been uploaded. A few of us have been waiting as we need them for the assignment. Could you let us know when they'll be available?
+
+Thanks,
+James",resources,KV5002,medium,FALSE
+RES_022,Tutorial Solutions,"Dear Dr Smith,
+
+Are you planning to release the solutions for the KV4006 tutorial worksheets? We've been working through them in study groups but we'd like to check our answers. Even if it's just for the first few weeks that would be helpful.
+
+Best regards,
+Isla Ferguson",resources,KV4006,low,FALSE
+RES_023,kv6003 tools and software list,"hi
+
+is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else??
+
+also do we need a specific version of scikit-learn
+
+thx
+tom",resources,KV6003,medium,TRUE
+RES_024,Library Access for External Journals,"Dear Dr Smith,
+
+I'm trying to access some IEEE and ACM papers for my KV6003 literature review but the library portal keeps asking me to pay. I thought we had institutional access to these databases? Am I doing something wrong or do I need to request access separately?
+
+Thank you,
+Hannah Wright",resources,KV6003,medium,FALSE
+RES_025,Blackboard App Not Syncing,"hi dr smith
+
+the blackboard app on my phone isnt syncing properly for any of my modules. kv5002 and kv4006 both show old content from last semester. ive tried logging out and back in but nothing changes. i know this is probably an IT thing but do u know if anyone else has reported it??
+
+sorry to bother u with this
+chloe",resources,,low,FALSE

@@ -1,0 +1,93 @@
+email_id,subject,body,category,module,priority,multi_intent
+DUP_001,KV6003 Deadline Confirmation,"Dear Dr Smith,
+
+Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late.
+
+Thank you,
+Hannah Wright",assessment,KV6003,medium,FALSE
+DUP_002,kv6003 deadline??,"hi
+
+when is the kv6003 project due?? blackboard and the brief have different dates and i dont know which one is right. is it the 6th or 7th of may??
+
+thx
+josh",assessment,KV6003,medium,FALSE
+DUP_003,Clarification on KV6003 Submission Date,"Dear Dr Smith,
+
+I'm a bit confused about the KV6003 submission date. The assignment brief states 7th May but I've seen 6th May mentioned on Blackboard. Several of us in the cohort are unsure which is correct. Could you clarify?
+
+Best regards,
+Isla Ferguson",assessment,KV6003,medium,FALSE
+DUP_004,KV5002 Slides Not on Blackboard,"Dear Dr Smith,
+
+I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
+
+Thank you,
+Emily Chen",resources,KV5002,low,FALSE
+DUP_005,week 8 slides?,"hi
+
+are the kv5002 week 8 slides going to be uploaded?? they still arent on blackboard and its been a week since the lecture
+
+cheers
+ryan",resources,KV5002,low,FALSE
+DUP_006,Missing Lecture Slides - KV5002 Week 8,"Hi Dr Smith,
+
+Just wanted to flag that the slides from the Week 8 KV5002 lecture still haven't appeared on Blackboard. A few of us need them for the assignment. Any idea when they'll be up?
+
+Thanks,
+James",resources,KV5002,low,FALSE
+DUP_007,KV4006 Marks - When?,"Dear Dr Smith,
+
+We submitted the KV4006 coursework over four weeks ago and we still haven't received our grades. The module handbook states a three-week turnaround for feedback. Could you provide an update on when we can expect our results?
+
+Thank you,
+Priya Patel",feedback,KV4006,medium,FALSE
+DUP_008,still no kv4006 marks,"hi
+
+any update on the kv4006 marks?? its been over a month now. some of us need them for placement applications and the wait is getting ridiculous
+
+sorry but its frustrating
+dan",feedback,KV4006,medium,FALSE
+DUP_009,KV4006 Coursework Results?,"Hi Dr Smith,
+
+Apologies if you've already been asked this but do you have an ETA on the KV4006 coursework marks? I know the marking period has passed and a few of us are eager to see how we did.
+
+Thanks,
+Sophie Green",feedback,KV4006,medium,FALSE
+DUP_010,Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
+
+I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
+
+Thank you,
+Alex Turner",timetabling,KV4006,medium,FALSE
+DUP_011,kv4006 friday lecture,"hi
+
+is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it
+
+pls let us know
+connor",timetabling,KV4006,medium,FALSE
+DUP_012,Friday Lecture - KV4006,"Hi Dr Smith,
+
+Sorry to add to what I'm sure is a pile of emails about this — is the KV4006 lecture still on this Friday? There's been confusion in the group chat and no announcement on Blackboard.
+
+Cheers,
+Tom",timetabling,KV4006,medium,FALSE
+DUP_013,Do I Need to Declare ChatGPT Use?,"Dear Dr Smith,
+
+I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools?
+
+Thank you,
+Olivia Hughes",assessment,KV6003,medium,FALSE
+DUP_014,chatgpt referencing,"hi dr smith
+
+quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol
+
+thx
+megan",assessment,KV6003,medium,FALSE
+DUP_015,AI Tool Declaration - KV6003,"Dear Dr Smith,
+
+Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies.
+
+Is there a recommended way to reference these tools in the report?
+
+Kind regards,
+Zara Ahmed",assessment,KV6003,medium,FALSE

@@ -1,0 +1,210 @@
+email_id,subject,body,category,module,priority,multi_intent
+ASS_001,KV6003 Assignment 2 Deadline,"Dear Dr Smith,
+
+I hope this email finds you well. I am writing to enquire about the deadline for Assignment 2 in KV6003. I have checked Blackboard but I can only see the brief and not a confirmed submission date. Could you please clarify when this is due?
+
+Thank you for your time.
+
+Kind regards,
+Sarah Thompson",assessment,KV6003,medium,FALSE
+ASS_002,assignment help,"hi
+
+just wondering when the assignment is due?? i think its next week but not sure lol
+
+cheers",assessment,,medium,FALSE
+ASS_003,KV5002 Coursework Submission Query,"Dear Lecturer,
+
+I wanted to check — do we submit the KV5002 coursework through Turnitin on Blackboard or is there a separate submission link? I remember you mentioned something in the lecture but I wasn't sure.
+
+Also what is the file format? Can I submit a .zip or does it need to be a PDF?
+
+Thanks,
+James",assessment,KV5002,medium,TRUE
+ASS_004,URGENT - Extension Needed for Assignment,"Hi,
+
+I'm really struggling with the KV6003 assignment and I don't think I'll be able to submit on time. I've been working on it but I've had issues with my laptop breaking and I lost some of my work. Is there any way I can get an extension? Even a couple of days would help.
+
+Sorry for the late notice.
+
+Thanks,
+Amir Hussain",assessment,KV6003,high,FALSE
+ASS_005,Re: Assignment 2,"hi miss
+
+sorry to bother u again but i still dont understand what we need to do for section 3 of the assignment. i looked at the brief but its confusing. can u explain it simpler pls
+
+thx
+jake",assessment,,medium,FALSE
+ASS_006,Resit Information KV4006,"Dear Dr Smith,
+
+I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
+
+1. When is the resit submission deadline?
+2. Is it the same assignment brief or a new one?
+3. Do I need to re-register for the module?
+
+I would appreciate any guidance you can offer.
+
+Best regards,
+Priya Patel",assessment,KV4006,high,FALSE
+ASS_007,word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+ty",assessment,,medium,FALSE
+ASS_008,KV5002 Assignment Feedback Request and Deadline Query,"Good afternoon,
+
+I was wondering whether feedback for Assignment 1 in KV5002 has been released yet? I submitted three weeks ago and haven't received anything on Turnitin.
+
+Additionally, I wanted to confirm the deadline for Assignment 2 — is it still Week 12 Friday at 2pm?
+
+Many thanks,
+Emily Chen",assessment,KV5002,medium,TRUE
+ASS_009,Plagiarism concern,"Dear Dr Smith,
+
+I have a concern about my submission for KV6003. After submitting, my Turnitin similarity score came back at 34% and I'm worried this will be flagged as plagiarism. Most of the matches seem to be from the reference list and some common phrases. Should I be concerned? Is there someone I can speak to about this?
+
+I'm quite anxious about it.
+
+Regards,
+Tom Wilson",assessment,KV6003,high,FALSE
+ASS_010,can i change my topic,"hey
+
+so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
+
+let me know
+dan",assessment,KV6003,high,FALSE
+ASS_011,Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is W21038475.
+
+Thanks,
+Fatima Al-Rashid",assessment,KV4006,medium,FALSE
+ASS_012,Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+Best wishes,
+Hannah Wright",assessment,KV5002,medium,FALSE
+ASS_013,late submission,"hi i submitted my kv4006 assignment 2 days late because i was ill. i didnt apply for extenuating circumstances because i didnt know i had to. is there anything i can do now or will i just get capped?
+
+sorry
+liam",assessment,KV4006,high,FALSE
+ASS_014,Group Project Concerns,"Dear Dr Smith,
+
+I'm writing about the group project for KV5002. Unfortunately, one of our group members has not contributed anything and is not responding to our messages. We've tried contacting them through WhatsApp and email but they haven't replied in two weeks.
+
+I don't want to get a lower mark because of this situation. What should we do? Is there a process for reporting non-contributing members?
+
+Thank you,
+Chloe Martinez
+(Group 7)",assessment,KV5002,high,FALSE
+ASS_015,Quick Q about referencing,"hi
+
+do we need to use harvard referencing or can we use APA? the brief doesnt say
+
+cheers
+ben",assessment,,low,FALSE
+ASS_016,KV6003 Project Interim Report,"Dear Dr Smith,
+
+Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground.
+
+If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush.
+
+Kind regards,
+Olivia Hughes",assessment,KV6003,medium,FALSE
+ASS_017,HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",assessment,,medium,TRUE
+ASS_018,Re: KV4006 Coursework - Additional Question,"Hi Dr Smith,
+
+Thanks for your response earlier about the database schema requirements. I have one more question — do we need to include test data in our submission or just the empty schema with the SQL scripts?
+
+Also, is there a specific naming convention you want us to follow for the tables?
+
+Regards,
+Sophie Green",assessment,KV4006,medium,TRUE
+ASS_019,marking criteria,"where can i find the marking criteria for the kv5002 assignment?? ive looked on blackboard and cant see it anywhere. is it in the module handbook?
+
+ta
+ryan",assessment,KV5002,low,FALSE
+ASS_020,Academic Integrity Query,"Dear Dr Smith,
+
+I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
+
+I want to make sure I'm doing everything correctly.
+
+Many thanks,
+Zara Ahmed",assessment,KV6003,high,FALSE
+ASS_021,kv6003 assignmnet,"hi
+
+sorry i no this has probably been asked before but whats the exact deadline for the kv6003 assignment?? is it the 7th or the 14th because blackboard says one thing and the brief says another
+
+confused lol
+josh",assessment,KV6003,medium,FALSE
+ASS_022,Disability Support for Exams,"Dear Dr Smith,
+
+I'm registered with Disability Services and have a Learning Support Plan that entitles me to 25% extra time in exams. I wanted to check that this has been applied to the KV4006 exam. Could you also confirm whether the exam is in person or online this year?
+
+I'd appreciate your help with this.
+
+Kind regards,
+Nathan Brooks",assessment,KV4006,high,TRUE
+ASS_023,can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+thx
+megan",assessment,KV5002,medium,FALSE
+ASS_024,Assignment Resubmission,"Dear Dr Smith,
+
+I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final?
+
+Please advise urgently.
+
+Thanks,
+Alex Turner",assessment,KV4006,high,FALSE
+ASS_025,not sure what im doing,"hiya
+
+honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
+
+sorry to be a pain
+katie",assessment,KV6003,high,FALSE
+ASS_026,Previous Year Papers,"Hi,
+
+Are there any past exam papers available for KV4006? I'd like to use them for revision. I checked the library portal but couldn't find any.
+
+Thanks,
+David Kim",assessment,KV4006,low,FALSE
+ASS_027,Assignment 2 - Can I Use My Own Dataset?,"Dear Dr Smith,
+
+For Assignment 2 in KV5002, the brief mentions using the provided dataset. However, I have access to a more relevant dataset from my part-time job that I think would make for a more interesting analysis. Would it be acceptable to use this instead, or do we strictly need to use the one provided?
+
+I can provide details of the dataset if needed.
+
+Best regards,
+Isla Ferguson",assessment,KV5002,medium,FALSE
+ASS_028,pls help,"dr smith pls i need help with my assignment its due tomorrow and i havent started yet. i know i shouldve started earlier but i had other deadlines. is there any way i can get extra time?? even just a day??
+
+im so stressed rn
+connor",assessment,,high,FALSE
+ASS_029,Formal Request for Assessment Feedback - KV6003,"Dear Dr Smith,
+
+I am writing to formally request detailed feedback on my KV6003 Computing Project interim submission, which was returned to me on 15th March with a grade of 52%. While I appreciate the grade, the written feedback was quite brief and I am struggling to understand specifically where I lost marks.
+
+I would be grateful if you could provide more detailed commentary on:
+- The literature review section
+- My methodology justification
+- The system design diagrams
+
+I believe this will be essential for improving my final submission. I am happy to arrange a meeting at your convenience to discuss this further.
+
+Yours sincerely,
+Rebecca Lawrence
+Student ID: W21045892",assessment,KV6003,medium,FALSE
+ASS_030,Re: Re: Re: Assignment Question,"hi again
+
+sorry to keep emailing but i still dont get it. you said to look at the week 8 lecture slides but i cant find them on blackboard. can u just tell me what format the report needs to be in?? like do u want subheadings or not
+
+sorry
+jake",assessment,,low,FALSE

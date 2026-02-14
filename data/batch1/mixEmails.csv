@@ -1,0 +1,214 @@
+email_id,subject,body,category,module,priority,multi_intent
+MIX_001,Few Things About KV6003,"Dear Dr Smith,
+
+I hope you're well. I have a few things I wanted to ask about KV6003:
+
+1. Could you confirm the deadline for the final project submission? Blackboard says May 7th but the module handbook says May 6th.
+2. I'm struggling to find relevant papers for my literature review — could you recommend any journals or databases I should be searching?
+3. Are we allowed to use ChatGPT to help with debugging our code, and if so, how do we reference it?
+
+Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones.
+
+Kind regards,
+Olivia Hughes",assessment|resources|assessment,KV6003,medium,TRUE
+MIX_002,kv5002 stuff,"hi dr smith
+
+few things:
+- when is the assignment due again?
+- also i cant find the slides from week 5 on blackboard
+- and my attendance is showing wrong can u fix it
+
+thx
+jake",assessment|resources|admin,KV5002,medium,TRUE
+MIX_003,Extension Request and Supervision Rescheduling,"Dear Dr Smith,
+
+I'm writing about two things regarding KV6003. Firstly, I've been unwell with a chest infection for the past week and I'd like to request a short extension on the interim report. I have a GP letter which I can provide.
+
+Secondly, I won't be able to make our supervision meeting on Thursday because of a hospital appointment. Could we reschedule to the following week? I'm available Monday or Wednesday afternoon.
+
+Thank you for understanding.
+
+Best wishes,
+Rebecca Lawrence",extenuating_circumstances|timetabling,KV6003,high,TRUE
+MIX_004,kv4006 questions and mark query,"hi
+
+ive got a few questions about kv4006. first off when are we getting our coursework marks back?? its been ages. also i heard the exam has been moved to a different date is that true?? and lastly where can i find the revision materials u mentioned in the last lecture
+
+sorry for all the questions lol
+ben",feedback|timetabling|resources,KV4006,medium,TRUE
+MIX_005,Module Feedback and Next Year Planning,"Dear Dr Smith,
+
+Now that KV5002 is wrapping up, I wanted to do two things. First, I wanted to say that the module has been really well taught and I've learned a lot — the practical sessions were particularly valuable.
+
+Second, I'm choosing my modules for next year and I was wondering if you could advise on which optional modules would complement KV6003 well? I'm interested in AI and data science.
+
+Thank you,
+Emily Chen",feedback|admin,KV5002,low,TRUE
+MIX_006,URGENT - Multiple Issues,"HI DR SMITH
+
+I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO.
+
+1. I MISSED THE KV5002 SUBMISSION DEADLINE BECAUSE I WAS IN HOSPITAL
+2. I STILL HAVENT GOT MY KV4006 MARK BACK FROM LAST MONTH
+3. MY TIMETABLE IS SHOWING THE WRONG SEMINAR GROUP
+4. I CANT ACCESS THE KV6003 BLACKBOARD PAGE
+
+PLEASE HELP IM SO STRESSED
+
+MICHAEL",extenuating_circumstances|feedback|admin|resources,,high,TRUE
+MIX_007,Quick Update and Questions,"Dear Dr Smith,
+
+Just a quick email with an update and a couple of questions about KV6003.
+
+Update: I've completed the data collection phase and have started preprocessing. The dataset is looking good — 200 emails across 6 categories.
+
+Questions:
+- Should I include the preprocessing code in the appendix or just describe it in the methodology?
+- My Turnitin submission from last week still shows as 'pending' — is this normal?
+- Are we allowed to use spaCy or do you prefer we stick to NLTK?
+
+Thanks,
+Zara Ahmed",assessment|resources,KV6003,medium,TRUE
+MIX_008,worried about everything,"hi dr smith
+
+sorry to dump all this on u but im really struggling atm. i failed the kv4006 coursework and i dont understand the feedback. ive also missed 3 weeks of kv5002 lectures because of personal stuff and i dont know how to catch up. and now my student finance has been delayed so i cant even afford my rent
+
+i know most of this isnt ur problem but i didnt know who else to email. is there someone at the university who can help with all of this??
+
+thanks
+connor",feedback|extenuating_circumstances|admin,,high,TRUE
+MIX_009,KV5002 Group Project - Multiple Concerns,"Dear Dr Smith,
+
+I'm writing about several concerns with the KV5002 group project:
+
+1. One of our group members (I'd rather not name them in email) has not contributed and isn't responding to messages. What's the process for reporting this?
+2. We're unsure whether our project topic has been approved — we submitted the proposal form two weeks ago but haven't heard back.
+3. The group presentation is scheduled for Week 11 but two of us have a clash with a KV4006 lab session. Can we present at a different time?
+
+Apologies for the lengthy email.
+
+Best regards,
+Sophie Green",assessment|admin|timetabling,KV5002,high,TRUE
+MIX_010,catching up after being away,"hi dr smith
+
+ive been off for 3 weeks because of health stuff (i submitted an EC form). im back now and trying to catch up but i dont know where to start. can u tell me:
+
+- what topics did kv5002 cover in weeks 8-10
+- are the lecture recordings available
+- has anything been set that i need to know about
+- do i need to apply for anything else or is my EC form enough
+
+sorry for all the questions
+katie",resources|timetabling|extenuating_circumstances,KV5002,high,TRUE
+MIX_011,End of Year Admin and Project Query,"Dear Dr Smith,
+
+As the academic year is coming to a close, I wanted to check a few things:
+
+1. Is there a formal process for requesting my KV6003 supervisor to be my reference for graduate jobs?
+2. When will final module grades be confirmed and published?
+3. I noticed a discrepancy between my KV4006 grade on Blackboard (58%) and the student portal (55%) — which is correct?
+
+Thank you for your help throughout the year.
+
+Kind regards,
+Isla Ferguson",admin|feedback|admin,,medium,TRUE
+MIX_012,need help with loads of stuff,"hi
+
+ok so basically everything is going wrong with kv6003 right now:
+- my python code keeps crashing and i dont know why
+- i cant find the dataset format requirements anywhere
+- ive been really anxious and havent been sleeping
+- also i think i might have submitted the wrong file for the interim report
+
+can i come see u in office hours this week??
+
+thx
+josh",resources|assessment|extenuating_circumstances,KV6003,high,TRUE
+MIX_013,Placement Preparation and Module Questions,"Dear Dr Smith,
+
+I'm going on placement next year and I wanted to discuss a few things:
+
+1. For my KV6003 project, can I base it on work I'll be doing during placement, or does it need to be independent?
+2. I need a reference letter for my placement application — would you be willing to provide one?
+3. Will I still have access to Blackboard and university resources while on placement?
+
+I appreciate your time.
+
+Thank you,
+Hannah Wright",assessment|admin|resources,KV6003,medium,TRUE
+MIX_014,kv4006 and kv5002 problems,"hi dr smith
+
+two separate things sorry:
+
+for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisation issues' but i thought i normalised it to 3NF. can u explain what was wrong??
+
+for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either
+
+thx
+dan",feedback|resources,,medium,TRUE
+MIX_015,Returning Student - Multiple Queries,"Dear Dr Smith,
+
+I'm returning to university after a year out on interruption. I have several questions:
+
+1. Do I need to re-register for KV6003 formally or does my previous enrolment carry over?
+2. My previous supervisor has left the university — who will be assigned as my new supervisor?
+3. I submitted a partial draft before I left. Is this still on record or do I need to start again?
+4. Are the module learning outcomes the same as last year or has the curriculum changed?
+
+I'd appreciate a meeting to discuss the transition back.
+
+Thank you,
+David Kim",admin|assessment|resources,KV6003,high,TRUE
+MIX_016,Dissertation and Career Advice,"Dear Dr Smith,
+
+I hope this isn't overstepping but I'd value your advice on two things. My KV6003 project is on NLP-based email classification and I'm really enjoying it. I wanted to ask:
+
+1. Do you think the project has potential to be extended into a publishable paper? If so, what would I need to add?
+2. I'm considering a career in NLP/AI research. Based on my work so far, do you think a masters or PhD would be a good next step?
+
+No pressure to answer the career question if you'd rather not — I just respect your opinion.
+
+Best wishes,
+Sarah Thompson",assessment|admin,KV6003,low,TRUE
+MIX_017,complaint and extension request,"hi dr smith
+
+im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified.
+
+because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine
+
+sorry if this comes across as rude im just frustrated
+alex",feedback|extenuating_circumstances|assessment,KV5002,high,TRUE
+MIX_018,International Student - Various Concerns,"Dear Dr Smith,
+
+As an international student I have a few concerns I'd appreciate your help with:
+
+1. The KV4006 exam is scheduled during Ramadan. Will there be any accommodations for fasting students, such as adjusted timing or breaks?
+2. I'm having difficulty understanding some of the British-specific references in the KV5002 case studies. Are there alternative materials available?
+3. My visa requires me to maintain 80% attendance. I missed some sessions due to illness — will my EC claim cover the attendance gap?
+
+Thank you for your understanding.
+
+Regards,
+Amir Hussain",timetabling|resources|extenuating_circumstances,,high,TRUE
+MIX_019,summer resit and next year stuff,"hi dr smith
+
+so i failed kv4006 which is annoying but it is what it is. couple of questions:
+
+1. when is the resit and is it an exam or coursework
+2. if i pass the resit do i still get capped at 40%
+3. can i still take kv5002 next semester while doing the resit or is kv4006 a prerequisite
+4. also unrelated but the kv5002 reading list link is broken
+
+thx
+liam",assessment|admin|resources,,high,TRUE
+MIX_020,Thank You and Final Questions,"Dear Dr Smith,
+
+As we approach the end of the year, I wanted to thank you for your support throughout KV6003. Your feedback on my drafts has been invaluable and the project has genuinely been the highlight of my degree.
+
+A few final questions:
+1. Is there a specific time on May 7th the submission needs to be in, or is it midnight?
+2. Do you have any advice for the viva? I'm quite nervous about presenting.
+3. Would you be open to staying in touch after graduation? I'd like to keep you updated on where I end up.
+
+With sincere thanks,
+Fatima Al-Rashid",assessment|feedback|admin,KV6003,low,TRUE

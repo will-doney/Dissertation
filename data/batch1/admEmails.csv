@@ -1,0 +1,183 @@
+email_id,subject,body,category,module,priority,multi_intent
+ADM_001,Module Registration Issue,"Dear Dr Smith,
+
+I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this?
+
+Thank you,
+Sarah Thompson",admin,KV6003,high,FALSE
+ADM_002,changing modules,"hi
+
+i want to drop kv4006 and switch to a different module. is it too late to do this?? who do i need to speak to about it
+
+cheers
+jake",admin,KV4006,high,FALSE
+ADM_003,Student ID Card Issue,"Dear Dr Smith,
+
+Apologies for emailing you about this but I wasn't sure who else to contact. My student ID card has stopped working and I can't get into the Computing building or the labs. I've been to the student hub but they said it would take a week to replace.
+
+Is there a temporary access solution in the meantime? I have practical sessions this week that I can't miss.
+
+Kind regards,
+Priya Patel",admin,,high,TRUE
+ADM_004,Reference Request,"Dear Dr Smith,
+
+I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities.
+
+If you're happy to do this, I can send you the details of where to submit it.
+
+Many thanks,
+Isla Ferguson",admin,KV5002,medium,FALSE
+ADM_005,wrong module on my transcript,"hi dr smith
+
+ive just checked my transcript and its showing kv4006 as a fail even though i passed it with 58%. i think theres been an admin error. who do i need to contact to get this sorted?? its stressing me out because i need my transcript for a job application
+
+thanks
+liam",admin,KV4006,high,FALSE
+ADM_006,Interruption of Studies,"Dear Dr Smith,
+
+I'm writing to let you know that I'm considering taking an interruption of studies due to personal circumstances. I wanted to discuss this with you first as my module leader before I submit the formal application.
+
+Could we arrange a meeting to talk through the process and what it would mean for my modules? I'm currently enrolled in KV6003 and KV5002.
+
+Regards,
+Nathan Brooks",admin,,high,TRUE
+ADM_007,attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",admin,KV5002,medium,FALSE
+ADM_008,Letter for Visa Application,"Dear Dr Smith,
+
+I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department.
+
+Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive.
+
+Thank you very much,
+Fatima Al-Rashid",admin,,high,FALSE
+ADM_009,graduating this year??,"hi dr smith
+
+stupid question but how do i actually check if im on track to graduate this year?? i think ive done all my modules but i want to make sure i havent missed anything. is there someone i can speak to about this
+
+sorry
+josh",admin,,medium,FALSE
+ADM_010,Re: Module Selection Advice,"Dear Dr Smith,
+
+Thank you for your advice during our meeting last week. I've decided to take KV5002 in Semester 2 as you suggested. However, the online module selection form isn't letting me add it — it says the prerequisite hasn't been met, but I passed KV4006 last year.
+
+Could you approve an override or tell me who can?
+
+Best regards,
+Sophie Green",admin,KV5002,high,FALSE
+ADM_011,PERSONAL TUTOR MEETING,"HI DR SMITH
+
+I NEED TO BOOK A PERSONAL TUTOR MEETING WITH YOU. HOW DO I DO THIS?? IS THERE A BOOKING SYSTEM OR DO I JUST EMAIL YOU??
+
+ALSO I NEED YOU TO SIGN MY LEARNING AGREEMENT FORM BEFORE FRIDAY
+
+THANKS
+MICHAEL",admin,,medium,TRUE
+ADM_012,name change on records,"Dear Dr Smith,
+
+I have recently changed my name by deed poll and I need to update my university records. I've contacted student services but they said my module leaders also need to be informed for assessment purposes.
+
+My previous name was Daniel Morrison and my new legal name is Dani Morrison. My student ID remains W21039284.
+
+Could you update any relevant records on your end?
+
+Thank you,
+Dani Morrison",admin,,medium,FALSE
+ADM_013,Mitigating Circumstances Panel Outcome,"Dear Dr Smith,
+
+I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline?
+
+Could you help me understand what happens next?
+
+Thanks,
+Tom Wilson",admin,KV6003,high,FALSE
+ADM_014,can i audit a module,"hi
+
+im a kv6003 student but im really interested in the databases content from kv4006. is there a way i can sit in on some of the lectures without being formally enrolled?? i just want to learn the material
+
+cheers
+zara",admin,KV4006,low,FALSE
+ADM_015,Graduation Ceremony Information,"Dear Dr Smith,
+
+I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
+
+Also, do you know if guests need tickets?
+
+Kind regards,
+Rebecca Lawrence",admin,,low,TRUE
+ADM_016,Transfer Between Programmes,"Dear Dr Smith,
+
+I'm currently on the BSc Computer Science programme but I'm considering transferring to the BSc Software Engineering programme. I understand there's significant module overlap, including KV5002 and KV6003.
+
+Could you advise on the process and whether my completed credits would transfer? I'd appreciate knowing who the best person to discuss this with formally would be.
+
+Thank you,
+Emily Chen",admin,,high,FALSE
+ADM_017,enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",admin,KV5002,low,FALSE
+ADM_018,Academic Misconduct Allegation,"Dear Dr Smith,
+
+I have received a letter from the university stating that I am being investigated for academic misconduct in relation to my KV5002 submission. I am very worried about this as I did not intentionally plagiarise anything. I used some code from Stack Overflow but I referenced it in my comments.
+
+Could you advise me on what to expect from this process and whether I should attend with any particular documentation?
+
+I'm extremely anxious about the situation.
+
+Regards,
+Alex Turner",admin,KV5002,high,FALSE
+ADM_019,student rep stuff,"hi dr smith
+
+im the student rep for kv4006 and i need to arrange the mid-semester feedback meeting. when are you free in the next couple of weeks?? also do u have a template for the feedback form or do i make my own
+
+thx
+dan",admin,KV4006,medium,TRUE
+ADM_020,Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+Thank you,
+Chloe Martinez",admin,KV4006,high,FALSE
+ADM_021,do i need a DBS check,"hi
+
+for my kv6003 project im planning to do some user testing with school students. someone mentioned i might need a DBS check for this. is that true and if so how do i get one through the university??
+
+cheers
+james",admin,KV6003,medium,FALSE
+ADM_022,Changing Supervisor,"Dear Dr Smith,
+
+This is a difficult email to write but I would like to request a change of supervisor for my KV6003 project. My current supervisor and I have different views on the direction of my project and I feel I would benefit from working with someone whose expertise is more aligned with my topic area.
+
+I want to handle this professionally and I'm not making this decision lightly. Could you advise on the formal process for requesting this?
+
+Kind regards,
+Hannah Wright",admin,KV6003,high,FALSE
+ADM_023,council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+thanks
+ben",admin,,medium,FALSE
+ADM_024,Returning After Interruption,"Dear Dr Smith,
+
+I interrupted my studies last academic year due to health reasons and I'm now returning to complete my final year. I need to re-enrol in KV6003 and KV5002 but I'm unsure whether my previous work still counts or if I need to start fresh.
+
+Could you advise on what the re-entry process looks like and whether we could arrange an initial meeting to discuss my project?
+
+Many thanks,
+David Kim",admin,,high,TRUE
+ADM_025,anonymous marking query,"hi
+
+i noticed my name was visible on my kv4006 assignment when i submitted it through turnitin. isnt marking supposed to be anonymous?? should i resubmit without my name on it or does it not matter
+
+just want to check
+megan",admin,KV4006,low,FALSE

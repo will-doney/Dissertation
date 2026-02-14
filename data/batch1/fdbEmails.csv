@@ -1,0 +1,162 @@
+email_id,subject,body,category,module,priority,multi_intent
+FDB_001,KV5002 Assignment 1 Feedback,"Dear Dr Smith,
+
+I received my grade for KV5002 Assignment 1 and I got 55%. I was hoping to do better as I put a lot of effort into it. The feedback on Turnitin is quite short and I'm not sure exactly where I went wrong.
+
+Could I arrange a meeting to go through the feedback in more detail? I want to understand what I need to improve for Assignment 2.
+
+Thank you,
+Emily Chen",feedback,KV5002,medium,FALSE
+FDB_002,where is my mark??,"hi
+
+i submitted my kv4006 assignment 4 weeks ago and still havent got a mark back. the module handbook says feedback within 3 weeks. when are we getting our results??
+
+cheers
+jake",feedback,KV4006,medium,FALSE
+FDB_003,Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+Kind regards,
+Tom Wilson",feedback,KV6003,high,FALSE
+FDB_004,think my mark is wrong,"hi dr smith
+
+i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again??
+
+thx
+ryan",feedback,KV5002,high,FALSE
+FDB_005,Positive Feedback - Thank You,"Dear Dr Smith,
+
+I just wanted to send a quick email to say thank you for the detailed feedback on my KV6003 project proposal. The comments were really helpful and I feel much more confident about the direction of my project now.
+
+I particularly appreciated the suggested papers for my literature review — they've been very relevant.
+
+Best wishes,
+Zara Ahmed",feedback,KV6003,low,FALSE
+FDB_006,Formal Grade Appeal - KV4006,"Dear Dr Smith,
+
+I am writing to formally query my grade for the KV4006 examination. I received 38% which is a fail, however I am confident I answered the questions correctly based on the lecture material and my revision notes.
+
+I would like to request a remark of my paper. Could you advise on the formal process for appealing a grade? I understand there may be a deadline for this and I want to ensure I don't miss it.
+
+I have kept all my revision materials and practice answers if these would be useful for comparison.
+
+Yours sincerely,
+Priya Patel",feedback,KV4006,high,FALSE
+FDB_007,cant see feedback on turnitin,"hi
+
+it says my kv5002 feedback is available but when i click on the turnitin link it just shows my submission with no comments or grade. is it a turnitin issue or has it not been released yet??
+
+pls help i want to know how i did
+
+katie",feedback,KV5002,medium,FALSE
+FDB_008,Comparing My Mark With Others,"Dear Dr Smith,
+
+I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
+
+I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
+
+Thank you,
+Sophie Green",feedback,KV4006,medium,FALSE
+FDB_009,feedback for group project,"hi dr smith
+
+we got our group project mark back for kv5002 and its 58% but we dont know how the individual marks break down. like did everyone in the group get the same mark or was there individual weighting?? because some people did way more work than others
+
+can u explain how it was marked
+
+thx
+dan",feedback,KV5002,medium,TRUE
+FDB_010,KV6003 Supervisor Feedback Delay,"Dear Dr Smith,
+
+I sent you my draft literature review chapter for KV6003 three weeks ago and I haven't received any feedback yet. I appreciate you're very busy but I'm finding it difficult to progress with the next chapter without knowing if my approach is on the right track.
+
+Could you give me an indication of when I might receive your comments? Even brief feedback would be helpful at this stage.
+
+Thank you for your time.
+
+Regards,
+Olivia Hughes",feedback,KV6003,medium,FALSE
+FDB_011,WHAT DOES THIS FEEDBACK MEAN,"HI DR SMITH
+
+I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH
+
+CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN
+
+MICHAEL",feedback,KV4006,medium,FALSE
+FDB_012,Anonymous Marking Concern and Feedback Query,"Dear Dr Smith,
+
+I received my KV5002 mark and I noticed that the feedback comments reference me by name even though I thought marking was anonymous. I'm a bit concerned about this — does it mean the marker knew whose work they were assessing?
+
+Also, the feedback mentions I should have included unit tests but I couldn't find this requirement anywhere in the brief. Could you clarify?
+
+Best regards,
+Hannah Wright",feedback,KV5002,medium,TRUE
+FDB_013,disappointed with mark,"hi
+
+got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating
+
+i dont even know if its worth requesting feedback because nothing ever changes
+
+whatever
+liam",feedback,KV6003,medium,FALSE
+FDB_014,Second Marker Request,"Dear Dr Smith,
+
+Following receipt of my KV4006 grade (45%), I would like to formally request that my work be reviewed by a second marker. I believe the marking may not have fully reflected the content of my submission, particularly the database normalisation section which I feel was thorough and well-evidenced.
+
+Could you advise on whether a second marking is possible and what the process involves?
+
+Thank you,
+David Kim",feedback,KV4006,high,FALSE
+FDB_015,feedback meeting request,"hi dr smith
+
+is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help
+
+when are u free this week or next
+
+cheers
+james",feedback,KV5002,low,FALSE
+FDB_016,Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+Regards,
+Alex Turner",feedback,KV5002,high,FALSE
+FDB_017,marks still not out for kv4006,"hi
+
+its been over a month since we submitted kv4006 and marks still arent out. loads of people are asking about it in the group chat. do u know when theyll be released??
+
+some of us need the marks for job applications
+
+ta
+ben",feedback,KV4006,medium,FALSE
+FDB_018,Understanding the Marking Rubric,"Dear Dr Smith,
+
+Now that I've received my KV6003 interim feedback, I'd like to better understand the marking rubric. The brief includes a rubric but some of the grade descriptors are quite vague — for example, the difference between 'good critical analysis' (60-69%) and 'excellent critical analysis' (70%+) isn't clear to me.
+
+Could you provide some examples or explain what specifically pushes work from a 2:1 to a first-class level?
+
+Thank you,
+Isla Ferguson",feedback,KV6003,medium,FALSE
+FDB_019,late penalty query,"hi dr smith
+
+i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
+
+thx
+connor",feedback,KV5002,medium,TRUE
+FDB_020,Module Evaluation Feedback,"Dear Dr Smith,
+
+I wanted to share some constructive feedback about KV4006 as a whole. Overall I've found the module well-structured and the lectures clear. However, I think the practical sessions could benefit from more hands-on exercises rather than demonstrations, and the assignment brief could be clearer about expectations for the design section.
+
+I hope this is useful. I thought it was better to share directly rather than just through the anonymous module evaluation form.
+
+Best wishes,
+Rebecca Lawrence",feedback,KV4006,low,FALSE
