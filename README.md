@@ -2,6 +2,11 @@
 
 run notebook = jupyter notebook
 
+# Notes
+
+- add email address/ phone numbers/ student numbers/ full name/ organisation names
+- 
+
 ## Plan for preprocessing
 
 - Step 1: foundations - environment setup + schema validation.✔️
