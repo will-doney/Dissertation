@@ -2,9 +2,9 @@
 
 run notebook = jupyter notebook
 
-before running fresh, delete processed folder 
-run the notebook entries sequentially 
-wasnt pushing to github 
+before running fresh, delete processed folder
+run the notebook entries sequentially
+wasnt pushing to github
 increased epochs 2-4-6
 Threshold search - 0.15 through 0.60
 changed from trainer to weighted trainer
@@ -64,5 +64,5 @@ changed from trainer to weighted trainer
 - scikit-learn precision_score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html
 - scikit-learn recall_score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html
 - scikit-learn classification threshold tuning: https://scikit-learn.org/stable/modules/classification_threshold.html
-- https://www.youtube.com/watch?v=8yrD0hR8OY8&t=61s 
-- https://www.youtube.com/watch?v=ZvsH09XGuZ0
+- https://www.youtube.com/watch?v=8yrD0hR8OY8&t=61s
+- https://www.youtube.com/watch?v=ZvsH09XGuZ0 
