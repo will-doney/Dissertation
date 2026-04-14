@@ -1,0 +1,7 @@
+label,label_id,threshold
+admin,0,0.1
+assessment,1,0.1
+extenuating_circumstances,2,0.1
+feedback,3,0.1
+resources,4,0.1
+timetabling,5,0.1

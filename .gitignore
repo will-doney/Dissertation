@@ -1,0 +1,28 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Training artifacts (large)
+models/*_run/
+models/**/checkpoint-*/
+models/**/optimizer.pt
+models/**/scheduler.pt
+models/**/trainer_state.json
+models/**/rng_state.pth
+models/**/training_args.bin
+
+# Optional: keep final exported models out of git by default.
+# Enabled to keep pushes small.
+models/*/model.safetensors
+models/*/tokenizer.json
+models/*/tokenizer_config.json
+# models/*/special_tokens_map.json
+# models/*/vocab.txt
