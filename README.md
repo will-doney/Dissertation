@@ -21,6 +21,7 @@ changed from trainer to weighted trainer
 - Kept saving model artifacts and thresholds every run so results are reproducible.
 - Git pushes were taking too long so added .gitignore to stop uploading the large model files
 - code wasn't uploading to github due to the size of the model files
+- first run of inferance had a lot of escalations so the code needs tweaking
 
 ### Preprocessing notes
 
@@ -48,6 +49,7 @@ changed from trainer to weighted trainer
 - LIME for local explanations.
 - Confidence thresholds for low-confidence flags.
 - Optional human-in-the-loop decision logic.
+- make inference file
 
 ## sources
 

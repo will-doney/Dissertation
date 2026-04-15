@@ -1,0 +1,82 @@
+You are generating a synthetic dataset of student emails to a university lecturer.
+Goal: produce realistic, diverse, and label-consistent emails for multi-label NLP experiments.
+
+Batch controls:
+- Primary category for this batch: [INSERT CATEGORY]
+- Number of emails: [INSERT COUNT]
+- Batch prefix: [INSERT PREFIX]
+- Split tag: [train | val | test | challenge_test]
+- Module pool: KV6003 (Computing Project), KV5002 (Software Engineering), KV4006 (Databases)
+
+Allowed labels:
+- assessment: assignments, deadlines, submission, resits, marking policy
+- timetabling: lecture/seminar time, room changes, clashes, cancellations
+- resources: slides, recordings, reading lists, software/license access, links
+- admin: enrolment, registration, student records, portal issues
+- extenuating_circumstances: illness/personal issues, mitigation, extension requests
+- feedback: feedback requests, mark breakdown, remarks/appeals
+
+Generation rules:
+- Every email must have at least 1 valid label.
+- Around 20-35% of rows should be multi-intent (2 labels). Up to 5% may have 3 labels.
+- Include linguistic variation:
+	- formal/professional
+	- casual text-speak (u, pls, thx)
+	- typo-heavy or grammar-poor
+	- concise one-liners
+	- long rambling emails
+- Include varied student tone: polite, anxious, confused, frustrated, apologetic, urgent.
+- Include realistic university details: weeks, assignment IDs, submission portals, resit windows.
+- Keep UK university context and wording style.
+
+Difficulty controls (must be present in each batch):
+- At least 15% ambiguous wording (intent not explicit in first sentence).
+- At least 15% hard negatives (surface words from another class but true label is different).
+- At least 10% near-duplicates, but vary wording enough for realism.
+
+Duplicate policy for leakage control:
+- Assign a duplicate_cluster_id.
+- If a row is unique, use "none".
+- Near-duplicates should share the same duplicate_cluster_id.
+- Do not reuse duplicate clusters across different split tags.
+
+Priority guidance:
+- high: urgent/time-sensitive (deadline today, illness near deadline, exam issue)
+- medium: needs reply soon but not critical
+- low: informational or routine query
+
+Output requirements:
+- Output ONLY CSV rows (no markdown table, no code fence, no extra commentary).
+- Columns and order must be exactly:
+	email_id,subject,body,labels,module,priority,multi_intent,split_tag,duplicate_cluster_id,style_tag,noise_tag
+
+Column definitions:
+- email_id: [BATCH_PREFIX]_001 style IDs
+- labels: pipe-separated label names, lowercase (example: assessment|resources)
+- module: one module code from pool
+- multi_intent: true/false
+- split_tag: exactly the provided split tag
+- duplicate_cluster_id: none or dup_xxx
+- style_tag: formal | casual | typo_heavy | terse | rambling
+- noise_tag: none | typo | slang | punctuation | mixed
+
+Hard validation checklist (self-check before final output):
+- Labels are from allowed set only.
+- multi_intent=true iff labels column contains 2+ labels.
+- No empty subject/body.
+- At least 5 words in body for terse rows; at least 40 words for rambling rows.
+- No placeholders like [INSERT], lorem ipsum, or template artifacts.
+- Email text should not be identical across rows unless intentionally duplicated via duplicate_cluster_id.
+
+Suggested generation plan (scale as needed):
+- assessment: 60
+- timetabling: 50
+- resources: 50
+- admin: 50
+- extenuating_circumstances: 60
+- feedback: 45
+- mixed multi-intent batches: 60
+- controlled near-duplicate batches: 40
+
+Recommended total: 350-450 rows minimum.
+Better target for stronger evaluation: 600+ rows, plus a fixed challenge_test split.
