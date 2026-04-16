@@ -56,7 +56,7 @@ def build_text_clean(subject: object, body: object) -> str:
 
 
 def preprocess_records(records: list[dict[str, object]]) -> list[dict[str, str]]:
-    """Apply the notebook preprocessing pipeline to a list of CSV records."""
+    # processes a list of records, applying PII masking and text cleaning, and returns a new list with additional columns
     processed: list[dict[str, str]] = []
 
     for row in records:
