@@ -1,22 +1,26 @@
 from __future__ import annotations
 
 import argparse
+import csv
 from pathlib import Path
 
 import numpy as np
-import pandas as pd
 import torch
 from transformers import DistilBertForSequenceClassification, DistilBertTokenizerFast
 
-from preprocessing import preprocess_dataframe
+from preprocessing import preprocess_records
 
 
 def _resolve_project_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 
+def _resolve_path(project_root: Path, value: str) -> Path:
+    path = Path(value)
+    return path if path.is_absolute() else project_root / path
+
+
 def _resolve_model_dir(project_root: Path, model_dir_arg: str | None) -> Path:
-    # Use an explicit model path to keep runtime behavior predictable.
     model_dir = Path(model_dir_arg) if model_dir_arg else project_root / "models" / "3.distilbert_multilabel"
     if not model_dir.is_absolute():
         model_dir = project_root / model_dir
@@ -26,18 +30,19 @@ def _resolve_model_dir(project_root: Path, model_dir_arg: str | None) -> Path:
 
 
 def _load_labels_and_thresholds(processed_dir: Path) -> tuple[list[str], np.ndarray]:
-    # loads label names from taxonomy and thresholds from CSV
-    taxonomy_df = pd.read_csv(processed_dir / "label_taxonomy.csv")
-    labels = taxonomy_df["label"].astype(str).tolist()
+    with (processed_dir / "label_taxonomy.csv").open("r", newline="", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        labels = [row["label"] for row in reader]
 
     threshold_map = {label: 0.5 for label in labels}
     thresholds_path = processed_dir / "label_thresholds.csv"
     if thresholds_path.exists():
-        threshold_df = pd.read_csv(thresholds_path)
-        for _, row in threshold_df.iterrows():
-            label = str(row["label"])
-            if label in threshold_map:
-                threshold_map[label] = float(row["threshold"])
+        with thresholds_path.open("r", newline="", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                label = str(row["label"])
+                if label in threshold_map:
+                    threshold_map[label] = float(row["threshold"])
 
     thresholds = np.array([threshold_map[label] for label in labels], dtype=np.float32)
     return labels, thresholds
@@ -51,7 +56,6 @@ def _predict_probabilities(
     max_len: int,
     batch_size: int,
 ) -> np.ndarray:
-    # predicts probabilities for the input texts
     model.eval()
     all_probs = []
 
@@ -72,21 +76,46 @@ def _predict_probabilities(
     return np.vstack(all_probs) if all_probs else np.empty((0, model.num_labels), dtype=np.float32)
 
 
+def _format_explanation(labels: list[str], probs_row: np.ndarray, preds_row: np.ndarray) -> str:
+    predicted = [labels[i] for i, value in enumerate(preds_row) if value == 1]
+    ranked = sorted(
+        ((labels[i], float(probs_row[i])) for i in range(len(labels))),
+        key=lambda item: item[1],
+        reverse=True,
+    )
+
+    if predicted:
+        top_bits = ", ".join(f"{label}={score:.2f}" for label, score in ranked[:2])
+        return f"Predicted {', '.join(predicted)} with top confidences {top_bits}."
+
+    top_bits = ", ".join(f"{label}={score:.2f}" for label, score in ranked[:3])
+    return f"No label passed threshold; highest probabilities were {top_bits}."
+
+
+def _escalation_reason(preds_row: np.ndarray) -> str:
+    if not np.any(preds_row):
+        return "no_label_above_threshold"
+
+    return ""
+
+
 def run_inference(
     input_csv: Path,
     output_csv: Path,
+    escalation_csv: Path,
     model_dir: Path,
     processed_dir: Path,
     max_len: int,
     batch_size: int,
 ) -> None:
-    # loads data, model and thresholds then runs inference and saves results
-    df = pd.read_csv(input_csv)
-    if "text_clean" not in df.columns:
-        df = preprocess_dataframe(df)
+    with input_csv.open("r", newline="", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        rows = list(reader)
+
+    if rows and "text_clean" not in rows[0]:
+        rows = preprocess_records(rows)
     else:
-        df = df.copy()
-        df["text_clean"] = df["text_clean"].fillna("").astype(str)
+        rows = [{**row, "text_clean": row.get("text_clean", "") or ""} for row in rows]
 
     labels, thresholds = _load_labels_and_thresholds(processed_dir)
 
@@ -96,7 +125,7 @@ def run_inference(
     model.to(device)
 
     probs = _predict_probabilities(
-        texts=df["text_clean"].tolist(),
+        texts=[row["text_clean"] for row in rows],
         tokenizer=tokenizer,
         model=model,
         device=device,
@@ -105,27 +134,64 @@ def run_inference(
     )
 
     preds = (probs >= thresholds.reshape(1, -1)).astype(int)
-    output = df.copy()
+    output = [dict(row) for row in rows]
 
     for i, label in enumerate(labels):
-        output[f"prob_{label}"] = probs[:, i]
-        output[f"pred_{label}"] = preds[:, i]
+        for row, prob, pred in zip(output, probs[:, i], preds[:, i]):
+            row[f"prob_{label}"] = float(prob)
+            row[f"pred_{label}"] = int(pred)
 
-    output["predicted_labels"] = [
+    predicted_labels = [
         "|".join(labels[i] for i, value in enumerate(row) if value == 1)
         for row in preds
     ]
 
+    explanations = [
+        _format_explanation(labels, probs_row, preds_row)
+        for probs_row, preds_row in zip(probs, preds)
+    ]
+
+    escalation_reasons = [
+        _escalation_reason(preds_row)
+        for preds_row in preds
+    ]
+    low_confidence = [reason != "" for reason in escalation_reasons]
+
+    for row, predicted, explanation, reason, low in zip(
+        output,
+        predicted_labels,
+        explanations,
+        escalation_reasons,
+        low_confidence,
+    ):
+        row["predicted_labels"] = predicted
+        row["explanation"] = explanation
+        row["escalation_reason"] = reason
+        row["low_confidence"] = low
+
     output_csv.parent.mkdir(parents=True, exist_ok=True)
-    output.to_csv(output_csv, index=False)
+    fieldnames = list(output[0].keys()) if output else []
+    with output_csv.open("w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(output)
+
+    escalation = [row for row in output if row["low_confidence"]]
+    escalation_csv.parent.mkdir(parents=True, exist_ok=True)
+    with escalation_csv.open("w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(escalation)
 
     print(f"Saved predictions: {output_csv}")
+    print(f"Saved escalations: {escalation_csv} ({len(escalation)} rows)")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run local email inference")
     parser.add_argument("--input-csv", default="data/raw_batch1/emails.csv")
     parser.add_argument("--output-csv", default="data/processed/inference/predictions.csv")
+    parser.add_argument("--escalation-csv", default="data/processed/inference/escalations.csv")
     parser.add_argument("--processed-dir", default="data/processed")
     parser.add_argument("--model-dir", default="models/3.distilbert_multilabel")
     parser.add_argument("--max-len", type=int, default=256)
@@ -134,23 +200,17 @@ def main() -> None:
 
     project_root = _resolve_project_root()
 
-    input_csv = Path(args.input_csv)
-    if not input_csv.is_absolute():
-        input_csv = project_root / input_csv
-
-    output_csv = Path(args.output_csv)
-    if not output_csv.is_absolute():
-        output_csv = project_root / output_csv
-
-    processed_dir = Path(args.processed_dir)
-    if not processed_dir.is_absolute():
-        processed_dir = project_root / processed_dir
+    input_csv = _resolve_path(project_root, args.input_csv)
+    output_csv = _resolve_path(project_root, args.output_csv)
+    escalation_csv = _resolve_path(project_root, args.escalation_csv)
+    processed_dir = _resolve_path(project_root, args.processed_dir)
 
     model_dir = _resolve_model_dir(project_root, args.model_dir)
 
     run_inference(
         input_csv=input_csv,
         output_csv=output_csv,
+        escalation_csv=escalation_csv,
         model_dir=model_dir,
         processed_dir=processed_dir,
         max_len=args.max_len,

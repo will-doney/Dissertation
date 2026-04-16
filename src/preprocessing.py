@@ -1,9 +1,8 @@
 from __future__ import annotations
 
+import csv
 import re
 from pathlib import Path
-
-import pandas as pd
 
 # Step 1 source: copied from notebooks/01_preprocessing.ipynb
 PII_PATTERNS = {
@@ -24,7 +23,7 @@ def _safe_text(value: object) -> str:
     # converts non-string inputs to empty strings
     if value is None:
         return ""
-    if pd.isna(value):
+    if value != value:
         return ""
     return str(value)
 
@@ -56,25 +55,45 @@ def build_text_clean(subject: object, body: object) -> str:
     return f"{subject_clean} [SEP] {body_clean}".strip()
 
 
-def preprocess_dataframe(df: pd.DataFrame) -> pd.DataFrame:
-    # applies preprocessing pipeline and adds new columns for masked and cleaned text
-    required_cols = ["subject", "body"]
-    missing_cols = [column for column in required_cols if column not in df.columns]
-    if missing_cols:
-        raise ValueError(f"Missing required columns: {missing_cols}")
+def preprocess_records(records: list[dict[str, object]]) -> list[dict[str, str]]:
+    """Apply the notebook preprocessing pipeline to a list of CSV records."""
+    processed: list[dict[str, str]] = []
 
-    out = df.copy()
-    out["subject_masked"] = out["subject"].apply(mask_pii)
-    out["body_masked"] = out["body"].apply(mask_pii)
-    out["subject_clean"] = out["subject_masked"].apply(clean_email_text)
-    out["body_clean"] = out["body_masked"].apply(clean_email_text)
-    out["text_clean"] = (out["subject_clean"] + " [SEP] " + out["body_clean"]).str.strip()
-    return out
+    for row in records:
+        if "subject" not in row or "body" not in row:
+            raise ValueError("Missing required columns: subject/body")
+
+        subject = _safe_text(row.get("subject"))
+        body = _safe_text(row.get("body"))
+        subject_masked = mask_pii(subject)
+        body_masked = mask_pii(body)
+        subject_clean = clean_email_text(subject_masked)
+        body_clean = clean_email_text(body_masked)
+
+        processed.append(
+            {
+                **{key: _safe_text(value) for key, value in row.items()},
+                "subject_masked": subject_masked,
+                "body_masked": body_masked,
+                "subject_clean": subject_clean,
+                "body_clean": body_clean,
+                "text_clean": f"{subject_clean} [SEP] {body_clean}".strip(),
+            }
+        )
+
+    return processed
 
 
 def preprocess_csv(input_csv: Path, output_csv: Path) -> None:
     # reads the input CSV, applies preprocessing, and saves the output CSV with new columns
-    df = pd.read_csv(input_csv)
-    out = preprocess_dataframe(df)
+    with input_csv.open("r", newline="", encoding="utf-8") as source_file:
+        reader = csv.DictReader(source_file)
+        records = list(reader)
+
+    out = preprocess_records(records)
     output_csv.parent.mkdir(parents=True, exist_ok=True)
-    out.to_csv(output_csv, index=False)
+    fieldnames = list(out[0].keys()) if out else []
+    with output_csv.open("w", newline="", encoding="utf-8") as target_file:
+        writer = csv.DictWriter(target_file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(out)

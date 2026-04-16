@@ -22,6 +22,8 @@ changed from trainer to weighted trainer
 - Git pushes were taking too long so added .gitignore to stop uploading the large model files
 - code wasn't uploading to github due to the size of the model files
 - first run of inferance had a lot of escalations so the code needs tweaking
+- struggling to get high confidence results (lowered escalation rule)
+- the system only flags no_label_above threshold
 
 ### Preprocessing notes
 
