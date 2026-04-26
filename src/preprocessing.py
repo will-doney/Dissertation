@@ -4,7 +4,7 @@ import csv
 import re
 from pathlib import Path
 
-# Step 1 source: copied from notebooks/01_preprocessing.ipynb
+# copied from notebooks/01_preprocessing.ipynb
 PII_PATTERNS = {
     "EMAIL": r"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b",
     "PHONE": r"\b(?:\+44\s?7\d{3}|07\d{3})\s?\d{3}\s?\d{3}\b",

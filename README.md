@@ -31,7 +31,7 @@ changed from trainer to weighted trainer
 - Kept text cleaning and masking outputs in processed files to separate preprocessing from modelling.
 - Built the multi-label target columns and taxonomy file for consistent label mapping.
 - Generated train, validation, and test split files so training runs are repeatable.
-- Used the cleaned text field only for tokenization to avoid mixing raw and processed inputs.
+- The pipeline can load either raw subject/body records or preprocessed datasets with text_clean.
 
 ## Plan for preprocessing
 

@@ -1,82 +1,59 @@
-You are generating a synthetic dataset of student emails to a university lecturer.
-Goal: produce realistic, diverse, and label-consistent emails for multi-label NLP experiments.
+# Email Corpus Generation Prompt
 
-Batch controls:
-- Primary category for this batch: [INSERT CATEGORY]
-- Number of emails: [INSERT COUNT]
-- Batch prefix: [INSERT PREFIX]
-- Split tag: [train | val | test | challenge_test]
-- Module pool: KV6003 (Computing Project), KV5002 (Software Engineering), KV4006 (Databases)
+Use this prompt (adapt the category and count per batch). Generate in batches of ~20-30 per category to keep quality high.
 
-Allowed labels:
-- assessment: assignments, deadlines, submission, resits, marking policy
-- timetabling: lecture/seminar time, room changes, clashes, cancellations
-- resources: slides, recordings, reading lists, software/license access, links
-- admin: enrolment, registration, student records, portal issues
-- extenuating_circumstances: illness/personal issues, mitigation, extension requests
-- feedback: feedback requests, mark breakdown, remarks/appeals
+---
 
-Generation rules:
-- Every email must have at least 1 valid label.
-- Around 20-35% of rows should be multi-intent (2 labels). Up to 5% may have 3 labels.
-- Include linguistic variation:
-	- formal/professional
-	- casual text-speak (u, pls, thx)
-	- typo-heavy or grammar-poor
-	- concise one-liners
-	- long rambling emails
-- Include varied student tone: polite, anxious, confused, frustrated, apologetic, urgent.
-- Include realistic university details: weeks, assignment IDs, submission portals, resit windows.
-- Keep UK university context and wording style.
+## Prompt
 
-Difficulty controls (must be present in each batch):
-- At least 15% ambiguous wording (intent not explicit in first sentence).
-- At least 15% hard negatives (surface words from another class but true label is different).
-- At least 10% near-duplicates, but vary wording enough for realism.
+You are generating a synthetic dataset of student emails sent to a university lecturer. These emails must be realistic and reflect the diversity of real student communication.
 
-Duplicate policy for leakage control:
-- Assign a duplicate_cluster_id.
-- If a row is unique, use "none".
-- Near-duplicates should share the same duplicate_cluster_id.
-- Do not reuse duplicate clusters across different split tags.
+**Category for this batch:** [INSERT CATEGORY]
+**Number of emails to generate:** [INSERT COUNT]
+**Module codes to use:** KV6003 (Computing Project), KV5002 (Software Engineering), KV4006 (Databases)
 
-Priority guidance:
-- high: urgent/time-sensitive (deadline today, illness near deadline, exam issue)
-- medium: needs reply soon but not critical
-- low: informational or routine query
+### Categories and descriptions:
+- **assessment** — Questions about assignments, deadlines, submission, marking, resits
+- **timetabling** — Lecture times, room changes, schedule clashes, cancellations
+- **resources** — Requests for lecture slides, reading lists, software access, links
+- **admin** — Enrolment, module registration, student records, general admin
+- **extenuating_circumstances** — Extensions, illness, personal issues, mitigating circumstances
+- **feedback** — Requests for feedback on grades, asking about marks, appealing results
 
-Output requirements:
-- Output ONLY CSV rows (no markdown table, no code fence, no extra commentary).
-- Columns and order must be exactly:
-	email_id,subject,body,labels,module,priority,multi_intent,split_tag,duplicate_cluster_id,style_tag,noise_tag
+### Requirements:
+1. Vary the writing quality — include emails that are:
+   - Professional and well-structured
+   - Casual/informal with text speak or abbreviations (e.g. "u", "pls", "thx")
+   - Poorly written with spelling/grammar errors
+   - Overly long and rambling
+   - Very short/terse
+2. Some emails should contain **multiple intents** (e.g. asking about a deadline AND requesting lecture slides). Flag these.
+3. Include varied subject lines — some vague ("Quick question"), some specific ("KV6003 Assignment 2 Deadline Extension")
+4. Vary the student tone — polite, anxious, frustrated, demanding, apologetic
+5. Include realistic details — references to Blackboard/Turnitin, specific weeks, assignment numbers
+6. Some emails should be **duplicates or near-duplicates** of common questions (e.g. multiple students asking about the same deadline) — this supports your duplicate detection deliverable
 
-Column definitions:
-- email_id: [BATCH_PREFIX]_001 style IDs
-- labels: pipe-separated label names, lowercase (example: assessment|resources)
-- module: one module code from pool
-- multi_intent: true/false
-- split_tag: exactly the provided split tag
-- duplicate_cluster_id: none or dup_xxx
-- style_tag: formal | casual | typo_heavy | terse | rambling
-- noise_tag: none | typo | slang | punctuation | mixed
+### Output format (CSV-ready):
+Return as a markdown table with these columns:
+| email_id | subject | body | category | module | priority | multi_intent |
 
-Hard validation checklist (self-check before final output):
-- Labels are from allowed set only.
-- multi_intent=true iff labels column contains 2+ labels.
-- No empty subject/body.
-- At least 5 words in body for terse rows; at least 40 words for rambling rows.
-- No placeholders like [INSERT], lorem ipsum, or template artifacts.
-- Email text should not be identical across rows unless intentionally duplicated via duplicate_cluster_id.
+Use `[BATCH_PREFIX]_001`, `[BATCH_PREFIX]_002` etc. for email_id.
+Priority: high = urgent/time-sensitive, medium = needs response within days, low = already answered elsewhere or trivial.
 
-Suggested generation plan (scale as needed):
-- assessment: 60
-- timetabling: 50
-- resources: 50
-- admin: 50
-- extenuating_circumstances: 60
-- feedback: 45
-- mixed multi-intent batches: 60
-- controlled near-duplicate batches: 40
+---
 
-Recommended total: 350-450 rows minimum.
-Better target for stronger evaluation: 600+ rows, plus a fixed challenge_test split.
+## Suggested batch plan:
+| Batch | Category | Count | Prefix |
+|-------|----------|-------|--------|
+| 1 | assessment | 30 | ASS |
+| 2 | timetabling | 25 | TIM |
+| 3 | resources | 25 | RES |
+| 4 | admin | 25 | ADM |
+| 5 | extenuating_circumstances | 25 | EXT |
+| 6 | feedback | 20 | FDB |
+| 7 | mixed/multi-intent | 20 | MIX |
+| 8 | near-duplicates | 15 | DUP |
+
+**Total: ~185 emails**
+
+This gives you a balanced dataset with enough for train/test splits. Scale up if needed — aim for 300+ if you want stronger model performance.
