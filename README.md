@@ -31,9 +31,9 @@ changed from trainer to weighted trainer
 - Kept text cleaning and masking outputs in processed files to separate preprocessing from modelling.
 - Built the multi-label target columns and taxonomy file for consistent label mapping.
 - Generated train, validation, and test split files so training runs are repeatable.
-- The pipeline can load either raw subject/body records or preprocessed datasets with text_clean.
+- Used the cleaned text field only for tokenization to avoid mixing raw and processed inputs.
 
-## Plan for preprocessing
+## Plan
 
 - Step 1: foundations - environment setup + schema validation.✔️
 - Step 2: normalisation - PII masking + text cleaning✔️
@@ -52,6 +52,14 @@ changed from trainer to weighted trainer
 - Confidence thresholds for low-confidence flags.
 - Optional human-in-the-loop decision logic.
 - make inference file
+
+## testing plan
+
+- add multiple models for comparison
+- add preprocessing and training results to files
+- add testing for preprocessing and inferance
+- benchmarking notebook for comparisons 
+- ADD LIME
 
 ## sources
 
