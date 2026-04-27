@@ -2,12 +2,16 @@
 
 run notebook = jupyter notebook
 
-before running fresh, delete processed folder
-run the notebook entries sequentially
-wasnt pushing to github
-increased epochs 2-4-6
-Threshold search - 0.15 through 0.60
-changed from trainer to weighted trainer
+before running fresh:
+
+- delete processed folder
+- run the 01_preprocessing.ipymb and 02_model_training.ipynb
+- run inferance
+
+- wasnt pushing to github
+- increased epochs 2-4-6
+- Threshold search - 0.15 through 0.60
+- changed from trainer to weighted trainer
 
 # Notes
 
@@ -58,8 +62,7 @@ changed from trainer to weighted trainer
 - add multiple models for comparison
 - add preprocessing and training results to files
 - add testing for preprocessing and inferance
-- benchmarking notebook for comparisons 
-- ADD LIME
+- benchmarking notebook for comparisons
 
 ## sources
 

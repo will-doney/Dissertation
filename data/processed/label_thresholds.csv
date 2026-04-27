@@ -1,7 +1,0 @@
-label,label_id,threshold
-admin,0,0.53
-assessment,1,0.51
-extenuating_circumstances,2,0.60
-feedback,3,0.53
-resources,4,0.54
-timetabling,5,0.51
