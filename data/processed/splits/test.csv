@@ -1,0 +1,387 @@
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids
+Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+Kind regards,
+Olivia Hughes",Recommended Reading for Literature Review,"[ORGANIZATION],
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using [ORGANIZATION]. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+[SIGN_OFF]
+[PERSON]",Recommended Reading for Literature Review,"[ORGANIZATION], I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using [ORGANIZATION]. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]","Recommended Reading for Literature Review [SEP] [ORGANIZATION], I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using [ORGANIZATION]. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+ty",word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+ty",word count???,does the 3000 word count include references and appendices or not?? need to know asap as im nearly done ty,word count??? [SEP] does the 3000 word count include references and appendices or not?? need to know asap as im nearly done ty,['assessment'],1,0,1,0,0,0,0,[1]
+enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,enrolled in wrong seminar group [SEP] hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,['admin'],1,1,0,0,0,0,0,[0]
+Academic Integrity Query,"Dear Dr Smith,
+
+I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
+
+I want to make sure I'm doing everything correctly.
+
+Many thanks,
+Zara Ahmed",Academic Integrity Query,"[ORGANIZATION],
+
+I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
+
+I want to make sure I'm doing everything correctly.
+
+[SIGN_OFF]
+[PERSON]",Academic Integrity Query,"[ORGANIZATION], I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report? I want to make sure I'm doing everything correctly. [SIGN_OFF] [PERSON]","Academic Integrity Query [SEP] [ORGANIZATION], I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report? I want to make sure I'm doing everything correctly. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Extra Revision Sessions Before Exam?,"Dear Dr Smith,
+
+With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
+
+If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks?
+
+Best regards,
+Rebecca Lawrence",[ORGANIZATION]?,"[ORGANIZATION],
+
+With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
+
+If there's nothing formal, would you be open to running a [ORGANIZATION] session during one of the remaining weeks?
+
+Best regards,
+[PERSON]",[ORGANIZATION]?,"[ORGANIZATION], With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support. If there's nothing formal, would you be open to running a [ORGANIZATION] session during one of the remaining weeks? Best regards, [PERSON]","[ORGANIZATION]? [SEP] [ORGANIZATION], With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support. If there's nothing formal, would you be open to running a [ORGANIZATION] session during one of the remaining weeks? Best regards, [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+can i change my topic,"hey
+
+so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
+
+let me know
+dan",can i change my topic,"hey
+
+so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
+
+let me know
+dan",can i change my topic,hey so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature let me know dan,can i change my topic [SEP] hey so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature let me know dan,['assessment'],1,0,1,0,0,0,0,[1]
+Resit Information KV4006,"Dear Dr Smith,
+
+I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
+
+1. When is the resit submission deadline?
+2. Is it the same assignment brief or a new one?
+3. Do I need to re-register for the module?
+
+I would appreciate any guidance you can offer.
+
+Best regards,
+Priya Patel",Resit Information KV4006,"[ORGANIZATION],
+
+I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
+
+1. When is the resit submission deadline?
+2. Is it the same assignment brief or a new one?
+3. Do I need to re-register for the module?
+
+I would appreciate any guidance you can offer.
+
+Best regards,
+[PERSON]",Resit Information KV4006,"[ORGANIZATION], I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically: 1. When is the resit submission deadline? 2. Is it the same assignment brief or a new one? 3. Do I need to re-register for the module? I would appreciate any guidance you can offer. Best regards, [PERSON]","Resit Information KV4006 [SEP] [ORGANIZATION], I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically: 1. When is the resit submission deadline? 2. Is it the same assignment brief or a new one? 3. Do I need to re-register for the module? I would appreciate any guidance you can offer. Best regards, [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+KV5002 Slides Not on Blackboard,"Dear Dr Smith,
+
+I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
+
+Thank you,
+Emily Chen",KV5002 Slides Not on Blackboard,"[ORGANIZATION],
+
+I was looking for the Week 8 lecture slides for KV5002 on [PERSON] but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
+
+Thank you,
+[PERSON]",KV5002 Slides Not on Blackboard,"[ORGANIZATION], I was looking for the Week 8 lecture slides for KV5002 on [PERSON] but they don't appear to have been uploaded yet. Could you let me know when they'll be available? Thank you, [PERSON]","KV5002 Slides Not on Blackboard [SEP] [ORGANIZATION], I was looking for the Week 8 lecture slides for KV5002 on [PERSON] but they don't appear to have been uploaded yet. Could you let me know when they'll be available? Thank you, [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is W21038475.
+
+Thanks,
+Fatima Al-Rashid",Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from [ORGANIZATION]. Can you check if it went through? My student ID is [STUDENT_ID].
+
+[SIGN_OFF]",Submission Confirmation,"Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from [ORGANIZATION]. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF]","Submission Confirmation [SEP] Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from [ORGANIZATION]. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF]",['assessment'],1,0,1,0,0,0,0,[1]
+Pregnancy Related Absence,"Dear Dr Smith,
+
+I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
+
+I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility.
+
+Thank you for your understanding.
+
+Kind regards,
+Chloe Martinez",Pregnancy Related Absence,"[ORGANIZATION],
+
+I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
+
+I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility.
+
+Thank you for your understanding.
+
+[SIGN_OFF]
+[PERSON]",Pregnancy Related Absence,"[ORGANIZATION], I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload. I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility. Thank you for your understanding. [SIGN_OFF] [PERSON]","Pregnancy Related Absence [SEP] [ORGANIZATION], I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload. I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility. Thank you for your understanding. [SIGN_OFF] [PERSON]",['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+not sure what im doing,"hiya
+
+honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
+
+sorry to be a pain
+katie",not sure what im doing,"hiya
+
+honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
+
+sorry to be a pain
+katie",not sure what im doing,hiya honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit sorry to be a pain katie,not sure what im doing [SEP] hiya honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit sorry to be a pain katie,['assessment'],1,0,1,0,0,0,0,[1]
+attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",[PERSON],"hi
+
+i got an email from student services saying my attendance is below 70% for [ORGANIZATION]. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",[PERSON],hi i got an email from student services saying my attendance is below 70% for [ORGANIZATION]. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records thx connor,[PERSON] [SEP] hi i got an email from student services saying my attendance is below 70% for [ORGANIZATION]. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records thx connor,['admin'],1,1,0,0,0,0,0,[0]
+Comparing My Mark With Others,"Dear Dr Smith,
+
+I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
+
+I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
+
+Thank you,
+Sophie Green",Comparing My Mark With Others,"[ORGANIZATION],
+
+I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
+
+I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
+
+Thank you,
+[ORGANIZATION]",Comparing My Mark With Others,"[ORGANIZATION], I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality. I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better. Thank you, [ORGANIZATION]","Comparing My Mark With Others [SEP] [ORGANIZATION], I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality. I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better. Thank you, [ORGANIZATION]",['feedback'],1,0,0,0,1,0,0,[3]
+Software Installation Help - Python,"Dear Dr Smith,
+
+I'm trying to install Python and Jupyter Notebook on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
+
+Also, is there a specific version of Python we need to be using for the module?
+
+Thanks,
+Fatima Al-Rashid",Software Installation Help - Python,"[ORGANIZATION],
+
+I'm trying to install [PERSON] and [PERSON] on my personal laptop for [PERSON] but I'm running into errors. I followed the instructions on [PERSON] but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
+
+Also, is there a specific version of Python we need to be using for the module?
+
+[SIGN_OFF]
+[PERSON]",Software Installation Help - Python,"[ORGANIZATION], I'm trying to install [PERSON] and [PERSON] on my personal laptop for [PERSON] but I'm running into errors. I followed the instructions on [PERSON] but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide? Also, is there a specific version of Python we need to be using for the module? [SIGN_OFF] [PERSON]","Software Installation Help - Python [SEP] [ORGANIZATION], I'm trying to install [PERSON] and [PERSON] on my personal laptop for [PERSON] but I'm running into errors. I followed the instructions on [PERSON] but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide? Also, is there a specific version of Python we need to be using for the module? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+cant make wednesday lecture,"hi
+
+i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
+
+thx
+ryan",cant make wednesday lecture,"hi
+
+i have a doctors appointment on wednesday so i cant make the [ORGANIZATION] lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
+
+thx
+ryan",cant make wednesday lecture,hi i have a doctors appointment on wednesday so i cant make the [ORGANIZATION] lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording thx ryan,cant make wednesday lecture [SEP] hi i have a doctors appointment on wednesday so i cant make the [ORGANIZATION] lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording thx ryan,['timetabling'],1,0,0,0,0,0,1,[5]
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+[SIGN_OFF]
+[PERSON]",HELP WITH ASSIGNMENT,HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] [PERSON],HELP WITH ASSIGNMENT [SEP] HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] [PERSON],['assessment'],1,0,1,0,0,0,0,[1]
+Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+Regards,
+Alex Turner",Peer Assessment Unfair,"[ORGANIZATION],
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including [PERSON] commit history and [ORGANIZATION] messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+[SIGN_OFF]
+[PERSON]",Peer Assessment Unfair,"[ORGANIZATION], The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including [PERSON] commit history and [ORGANIZATION] messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]","Peer Assessment Unfair [SEP] [ORGANIZATION], The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including [PERSON] commit history and [ORGANIZATION] messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3]
+council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+thanks
+ben",council tax exemption letter,"hi [PERSON]
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+[SIGN_OFF]
+[PERSON]",council tax exemption letter,hi [PERSON] my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] [PERSON],council tax exemption letter [SEP] hi [PERSON] my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] [PERSON],['admin'],1,1,0,0,0,0,0,[0]
+Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+Thank you,
+Chloe Martinez",Joint Honours Module Confusion,"[ORGANIZATION],
+
+I'm a Joint Honours student studying [ORGANIZATION]. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+Thank you,
+[PERSON]",Joint Honours Module Confusion,"[ORGANIZATION], I'm a Joint Honours student studying [ORGANIZATION]. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? Thank you, [PERSON]","Joint Honours Module Confusion [SEP] [ORGANIZATION], I'm a Joint Honours student studying [ORGANIZATION]. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? Thank you, [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,lab session times [SEP] hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,['timetabling'],1,0,0,0,0,0,1,[5]
+Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
+
+I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
+
+Thank you,
+Alex Turner",Is Friday's KV4006 Lecture Cancelled?,"[ORGANIZATION],
+
+I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
+
+Thank you,
+[PERSON]",Is Friday's KV4006 Lecture Cancelled?,"[ORGANIZATION], I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on. Thank you, [PERSON]","Is Friday's KV4006 Lecture Cancelled? [SEP] [ORGANIZATION], I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on. Thank you, [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+thx
+megan",can i use external libraries,"hi dr smith
+
+for the [ORGANIZATION] coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+thx
+megan",can i use external libraries,hi dr smith for the [ORGANIZATION] coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries thx megan,can i use external libraries [SEP] hi dr smith for the [ORGANIZATION] coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries thx megan,['assessment'],1,0,1,0,0,0,0,[1]
+late penalty query,"hi dr smith
+
+i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
+
+thx
+connor",late penalty query,"hi [PERSON]
+
+i got 45% for my [ORGANIZATION] assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
+
+thx
+connor",late penalty query,hi [PERSON] i got 45% for my [ORGANIZATION] assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something thx connor,late penalty query [SEP] hi [PERSON] i got 45% for my [ORGANIZATION] assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something thx connor,['feedback'],1,0,0,0,1,0,0,[3]
+where is the module handbook,"hi
+
+where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
+
+pls help
+megan",where is the module handbook,"hi
+
+where can i find the module handbook for [PERSON]?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
+
+pls help
+megan",where is the module handbook,hi where can i find the module handbook for [PERSON]?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder pls help megan,where is the module handbook [SEP] hi where can i find the module handbook for [PERSON]?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder pls help megan,['resources'],1,0,0,0,0,1,0,[4]
+Graduation Ceremony Information,"Dear Dr Smith,
+
+I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
+
+Also, do you know if guests need tickets?
+
+Kind regards,
+Rebecca Lawrence",Graduation Ceremony Information,"[ORGANIZATION],
+
+I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
+
+Also, do you know if guests need tickets?
+
+[SIGN_OFF]
+[PERSON]",Graduation Ceremony Information,"[ORGANIZATION], I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department. Also, do you know if guests need tickets? [SIGN_OFF] [PERSON]","Graduation Ceremony Information [SEP] [ORGANIZATION], I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department. Also, do you know if guests need tickets? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+GitHub Classroom Access,"Dear Dr Smith,
+
+I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22.
+
+Could you resend the invite or check if there's an issue with the link?
+
+Regards,
+David Kim",GitHub Classroom Access,"[ORGANIZATION],
+
+I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from [PERSON] gives me a 404 error. I've tried on both [PERSON] and [PERSON]. My GitHub username is dkim_dev22.
+
+Could you resend the invite or check if there's an issue with the link?
+
+[SIGN_OFF]
+[PERSON]",GitHub Classroom Access,"[ORGANIZATION], I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from [PERSON] gives me a 404 error. I've tried on both [PERSON] and [PERSON]. My GitHub username is dkim_dev22. Could you resend the invite or check if there's an issue with the link? [SIGN_OFF] [PERSON]","GitHub Classroom Access [SEP] [ORGANIZATION], I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from [PERSON] gives me a 404 error. I've tried on both [PERSON] and [PERSON]. My GitHub username is dkim_dev22. Could you resend the invite or check if there's an issue with the link? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+Best wishes,
+Hannah Wright",Assignment Brief Clarification KV5002,"[ORGANIZATION],
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+Best wishes,
+[PERSON]",Assignment Brief Clarification KV5002,"[ORGANIZATION], Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. Best wishes, [PERSON]","Assignment Brief Clarification KV5002 [SEP] [ORGANIZATION], Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. Best wishes, [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+Kind regards,
+Tom Wilson",[PERSON],"[ORGANIZATION],
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+[SIGN_OFF]
+[PERSON]",[PERSON],"[ORGANIZATION], I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]","[PERSON] [SEP] [ORGANIZATION], I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3]
+cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+cheers
+jake",cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+cheers
+jake",cant access blackboard,hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff cheers jake,cant access blackboard [SEP] hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff cheers jake,['resources'],1,0,0,0,0,1,0,[4]
