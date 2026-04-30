@@ -48,13 +48,6 @@ def clean_email_text(text: object) -> str:
     return cleaned
 
 
-def build_text_clean(subject: object, body: object) -> str:
-    # applies full cleaning pipeline to the subject and body
-    subject_clean = clean_email_text(mask_pii(subject))
-    body_clean = clean_email_text(mask_pii(body))
-    return f"{subject_clean} [SEP] {body_clean}".strip()
-
-
 def preprocess_records(records: list[dict[str, object]]) -> list[dict[str, str]]:
     # processes a list of records, applying PII masking and text cleaning, and returns a new list with additional columns
     processed: list[dict[str, str]] = []

@@ -1,0 +1,388 @@
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids,prob_admin,pred_admin,prob_assessment,pred_assessment,prob_extenuating_circumstances,pred_extenuating_circumstances,prob_feedback,pred_feedback,prob_resources,pred_resources,prob_timetabling,pred_timetabling,predicted_labels,explanation,escalation_reason,low_confidence
+Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+Kind regards,
+Olivia Hughes",Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+[SIGN_OFF]
+[PERSON]",Recommended Reading for Literature Review,"Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]","Recommended Reading for Literature Review [SEP] Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4],0.4856060743331909,0,0.5027980208396912,0,0.44938910007476807,0,0.48911768198013306,0,0.5476433038711548,0,0.42531919479370117,0,,"No label passed threshold; highest probabilities were resources=0.55, assessment=0.50, feedback=0.49.",no_label_above_threshold,True
+word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+ty",word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+[SIGN_OFF]",word count???,does the 3000 word count include references and appendices or not?? need to know asap as im nearly done [SIGN_OFF],word count??? [SEP] does the 3000 word count include references and appendices or not?? need to know asap as im nearly done [SIGN_OFF],['assessment'],1,0,1,0,0,0,0,[1],0.475231409072876,0,0.5395802855491638,1,0.3966657519340515,0,0.47963955998420715,0,0.5782996416091919,1,0.44597217440605164,0,assessment|resources,"Predicted assessment, resources with top confidences resources=0.58, assessment=0.54.",,False
+enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,enrolled in wrong seminar group [SEP] hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,['admin'],1,1,0,0,0,0,0,[0],0.5097916126251221,0,0.4670488238334656,0,0.4691386818885803,0,0.4944067895412445,0,0.4622398018836975,0,0.48663729429244995,0,,"No label passed threshold; highest probabilities were admin=0.51, feedback=0.49, timetabling=0.49.",no_label_above_threshold,True
+Academic Integrity Query,"Dear Dr Smith,
+
+I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
+
+I want to make sure I'm doing everything correctly.
+
+Many thanks,
+Zara Ahmed",Academic Integrity Query,"Dear Dr Smith,
+
+I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
+
+I want to make sure I'm doing everything correctly.
+
+[SIGN_OFF]
+[PERSON]",Academic Integrity Query,"Dear Dr Smith, I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report? I want to make sure I'm doing everything correctly. [SIGN_OFF] [PERSON]","Academic Integrity Query [SEP] Dear Dr Smith, I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report? I want to make sure I'm doing everything correctly. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1],0.5224983096122742,0,0.548369288444519,1,0.39332887530326843,0,0.49561306834220886,0,0.5415920615196228,0,0.3686799108982086,0,assessment,"Predicted assessment with top confidences assessment=0.55, resources=0.54.",,False
+Extra Revision Sessions Before Exam?,"Dear Dr Smith,
+
+With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
+
+If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks?
+
+Best regards,
+Rebecca Lawrence",Extra Revision Sessions Before Exam?,"Dear Dr Smith,
+
+With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
+
+If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks?
+
+Best regards,
+[PERSON]",Extra Revision Sessions Before Exam?,"Dear Dr Smith, With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support. If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks? Best regards, [PERSON]","Extra Revision Sessions Before Exam? [SEP] Dear Dr Smith, With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support. If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks? Best regards, [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5],0.5252712368965149,0,0.46526408195495605,0,0.5213202834129333,0,0.5171037912368774,0,0.42929187417030334,0,0.5129599571228027,1,timetabling,"Predicted timetabling with top confidences admin=0.53, extenuating_circumstances=0.52.",,False
+can i change my topic,"hey
+
+so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
+
+let me know
+dan",can i change my topic,"hey
+
+so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
+
+let me know
+dan",can i change my topic,hey so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature let me know dan,can i change my topic [SEP] hey so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature let me know dan,['assessment'],1,0,1,0,0,0,0,[1],0.4399687647819519,0,0.47876259684562683,0,0.5968886613845825,1,0.508738100528717,0,0.43565425276756287,0,0.37869322299957275,0,extenuating_circumstances,"Predicted extenuating_circumstances with top confidences extenuating_circumstances=0.60, feedback=0.51.",,False
+Resit Information KV4006,"Dear Dr Smith,
+
+I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
+
+1. When is the resit submission deadline?
+2. Is it the same assignment brief or a new one?
+3. Do I need to re-register for the module?
+
+I would appreciate any guidance you can offer.
+
+Best regards,
+Priya Patel",Resit Information KV4006,"Dear Dr Smith,
+
+I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
+
+1. When is the resit submission deadline?
+2. Is it the same assignment brief or a new one?
+3. Do I need to re-register for the module?
+
+I would appreciate any guidance you can offer.
+
+Best regards,
+[PERSON]",Resit Information KV4006,"Dear Dr Smith, I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically: 1. When is the resit submission deadline? 2. Is it the same assignment brief or a new one? 3. Do I need to re-register for the module? I would appreciate any guidance you can offer. Best regards, [PERSON]","Resit Information KV4006 [SEP] Dear Dr Smith, I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically: 1. When is the resit submission deadline? 2. Is it the same assignment brief or a new one? 3. Do I need to re-register for the module? I would appreciate any guidance you can offer. Best regards, [PERSON]",['assessment'],1,0,1,0,0,0,0,[1],0.5544588565826416,1,0.5413376092910767,1,0.44910934567451477,0,0.5031289458274841,0,0.4820587933063507,0,0.3765381872653961,0,admin|assessment,"Predicted admin, assessment with top confidences admin=0.55, assessment=0.54.",,False
+KV5002 Slides Not on Blackboard,"Dear Dr Smith,
+
+I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
+
+Thank you,
+Emily Chen",KV5002 Slides Not on Blackboard,"Dear Dr Smith,
+
+I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
+
+[SIGN_OFF]
+[PERSON]",KV5002 Slides Not on Blackboard,"Dear Dr Smith, I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available? [SIGN_OFF] [PERSON]","KV5002 Slides Not on Blackboard [SEP] Dear Dr Smith, I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4],0.5127014517784119,0,0.500903844833374,0,0.4106486737728119,0,0.49495357275009155,0,0.622378945350647,1,0.46206483244895935,0,resources,"Predicted resources with top confidences resources=0.62, admin=0.51.",,False
+Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is W21038475.
+
+Thanks,
+Fatima Al-Rashid",Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID].
+
+[SIGN_OFF]
+[PERSON]",Submission Confirmation,"Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF] [PERSON]","Submission Confirmation [SEP] Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1],0.5581143498420715,1,0.5193504095077515,0,0.4792541563510895,0,0.4805710017681122,0,0.4383403956890106,0,0.3591400384902954,0,admin,"Predicted admin with top confidences admin=0.56, assessment=0.52.",,False
+Pregnancy Related Absence,"Dear Dr Smith,
+
+I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
+
+I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility.
+
+Thank you for your understanding.
+
+Kind regards,
+Chloe Martinez",Pregnancy Related Absence,"Dear Dr Smith,
+
+I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
+
+I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility.
+
+[SIGN_OFF]
+
+[SIGN_OFF]
+[PERSON]",Pregnancy Related Absence,"Dear Dr Smith, I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload. I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility. [SIGN_OFF] [SIGN_OFF] [PERSON]","Pregnancy Related Absence [SEP] Dear Dr Smith, I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload. I would like to discuss what support is available and whether deadline adjustments can be made. I am committed to completing the module but I need some flexibility. [SIGN_OFF] [SIGN_OFF] [PERSON]",['extenuating_circumstances'],1,0,0,1,0,0,0,[2],0.5175933837890625,0,0.4638065695762634,0,0.6215948462486267,1,0.4895205497741699,0,0.37115907669067383,0,0.4376238286495209,0,extenuating_circumstances,"Predicted extenuating_circumstances with top confidences extenuating_circumstances=0.62, admin=0.52.",,False
+not sure what im doing,"hiya
+
+honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
+
+sorry to be a pain
+katie",not sure what im doing,"hiya
+
+honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
+
+sorry to be a pain
+katie",not sure what im doing,hiya honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit sorry to be a pain katie,not sure what im doing [SEP] hiya honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit sorry to be a pain katie,['assessment'],1,0,1,0,0,0,0,[1],0.45594334602355957,0,0.47674816846847534,0,0.6346280574798584,1,0.4862038493156433,0,0.40841928124427795,0,0.38012564182281494,0,extenuating_circumstances,"Predicted extenuating_circumstances with top confidences extenuating_circumstances=0.63, feedback=0.49.",,False
+attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+[SIGN_OFF]
+connor",attendance query,hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,attendance query [SEP] hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,['admin'],1,1,0,0,0,0,0,[0],0.5029915571212769,0,0.49254992604255676,0,0.4861694574356079,0,0.47829875349998474,0,0.49061185121536255,0,0.4854793846607208,0,,"No label passed threshold; highest probabilities were admin=0.50, assessment=0.49, resources=0.49.",no_label_above_threshold,True
+Comparing My Mark With Others,"Dear Dr Smith,
+
+I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
+
+I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
+
+Thank you,
+Sophie Green",Comparing My Mark With Others,"Dear Dr Smith,
+
+I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
+
+I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
+
+[SIGN_OFF]
+Sophie Green",Comparing My Mark With Others,"Dear Dr Smith, I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality. I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better. [SIGN_OFF] Sophie Green","Comparing My Mark With Others [SEP] Dear Dr Smith, I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality. I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better. [SIGN_OFF] Sophie Green",['feedback'],1,0,0,0,1,0,0,[3],0.5480498671531677,1,0.5007928609848022,0,0.46738097071647644,0,0.588533341884613,1,0.4315442740917206,0,0.439862459897995,0,admin|feedback,"Predicted admin, feedback with top confidences feedback=0.59, admin=0.55.",,False
+Software Installation Help - Python,"Dear Dr Smith,
+
+I'm trying to install Python and Jupyter Notebook on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
+
+Also, is there a specific version of Python we need to be using for the module?
+
+Thanks,
+Fatima Al-Rashid",Software Installation Help - Python,"Dear Dr Smith,
+
+I'm trying to install Python and [PERSON] on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
+
+Also, is there a specific version of Python we need to be using for the module?
+
+[SIGN_OFF]
+[PERSON]",Software Installation Help - Python,"Dear Dr Smith, I'm trying to install Python and [PERSON] on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide? Also, is there a specific version of Python we need to be using for the module? [SIGN_OFF] [PERSON]","Software Installation Help - Python [SEP] Dear Dr Smith, I'm trying to install Python and [PERSON] on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide? Also, is there a specific version of Python we need to be using for the module? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4],0.5241005420684814,0,0.5156166553497314,0,0.38638415932655334,0,0.5015588998794556,0,0.61562579870224,1,0.39336147904396057,0,resources,"Predicted resources with top confidences resources=0.62, admin=0.52.",,False
+cant make wednesday lecture,"hi
+
+i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
+
+thx
+ryan",cant make wednesday lecture,"hi
+
+i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
+
+[SIGN_OFF]
+ryan",cant make wednesday lecture,hi i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording [SIGN_OFF] ryan,cant make wednesday lecture [SEP] hi i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording [SIGN_OFF] ryan,['timetabling'],1,0,0,0,0,0,1,[5],0.45930325984954834,0,0.47824549674987793,0,0.5221607089042664,0,0.45774829387664795,0,0.48952704668045044,0,0.5395824909210205,1,timetabling,"Predicted timetabling with top confidences timetabling=0.54, extenuating_circumstances=0.52.",,False
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+[SIGN_OFF]
+MICHAEL",HELP WITH ASSIGNMENT,HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,HELP WITH ASSIGNMENT [SEP] HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,['assessment'],1,0,1,0,0,0,0,[1],0.4724583625793457,0,0.5005151629447937,0,0.5054746866226196,0,0.4767773747444153,0,0.4763084948062897,0,0.4396734833717346,0,,"No label passed threshold; highest probabilities were extenuating_circumstances=0.51, assessment=0.50, feedback=0.48.",no_label_above_threshold,True
+Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+Regards,
+Alex Turner",Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+[SIGN_OFF]
+[PERSON]",Peer Assessment Unfair,"Dear Dr Smith, The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]","Peer Assessment Unfair [SEP] Dear Dr Smith, The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3],0.5859482884407043,1,0.5226253867149353,1,0.46254098415374756,0,0.5564318299293518,1,0.4154938757419586,0,0.42162004113197327,0,admin|assessment|feedback,"Predicted admin, assessment, feedback with top confidences admin=0.59, feedback=0.56.",,False
+council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+thanks
+ben",council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+[SIGN_OFF]
+ben",council tax exemption letter,hi dr smith my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] ben,council tax exemption letter [SEP] hi dr smith my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] ben,['admin'],1,1,0,0,0,0,0,[0],0.47651737928390503,0,0.4874599277973175,0,0.5572042465209961,0,0.44810977578163147,0,0.39243996143341064,0,0.4128585159778595,0,,"No label passed threshold; highest probabilities were extenuating_circumstances=0.56, assessment=0.49, admin=0.48.",no_label_above_threshold,True
+Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+Thank you,
+Chloe Martinez",Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+[SIGN_OFF]
+[PERSON]",Joint Honours Module Confusion,"Dear Dr Smith, I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? [SIGN_OFF] [PERSON]","Joint Honours Module Confusion [SEP] Dear Dr Smith, I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0],0.5633915662765503,1,0.44559407234191895,0,0.4679768681526184,0,0.4966627359390259,0,0.40843650698661804,0,0.49915504455566406,0,admin,"Predicted admin with top confidences admin=0.56, timetabling=0.50.",,False
+lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,lab session times [SEP] hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,['timetabling'],1,0,0,0,0,0,1,[5],0.4570372998714447,0,0.4618764817714691,0,0.46835631132125854,0,0.49334821105003357,0,0.49237576127052307,0,0.5757436752319336,1,timetabling,"Predicted timetabling with top confidences timetabling=0.58, feedback=0.49.",,False
+Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
+
+I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
+
+Thank you,
+Alex Turner",Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
+
+I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
+
+[SIGN_OFF]
+[PERSON]",Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith, I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on. [SIGN_OFF] [PERSON]","Is Friday's KV4006 Lecture Cancelled? [SEP] Dear Dr Smith, I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on. [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5],0.45439836382865906,0,0.4441441297531128,0,0.4828301966190338,0,0.48027852177619934,0,0.44710633158683777,0,0.575541079044342,1,timetabling,"Predicted timetabling with top confidences timetabling=0.58, extenuating_circumstances=0.48.",,False
+can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+thx
+megan",can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+[SIGN_OFF]
+megan",can i use external libraries,hi dr smith for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries [SIGN_OFF] megan,can i use external libraries [SEP] hi dr smith for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries [SIGN_OFF] megan,['assessment'],1,0,1,0,0,0,0,[1],0.5083248615264893,0,0.5208169221878052,1,0.3940618932247162,0,0.49017253518104553,0,0.6168165802955627,1,0.42760300636291504,0,assessment|resources,"Predicted assessment, resources with top confidences resources=0.62, assessment=0.52.",,False
+late penalty query,"hi dr smith
+
+i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
+
+thx
+connor",late penalty query,"hi dr smith
+
+i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
+
+[SIGN_OFF]
+connor",late penalty query,hi dr smith i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something [SIGN_OFF] connor,late penalty query [SEP] hi dr smith i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something [SIGN_OFF] connor,['feedback'],1,0,0,0,1,0,0,[3],0.5004414916038513,0,0.5490226745605469,1,0.514870822429657,0,0.5036988854408264,0,0.36282065510749817,0,0.40243005752563477,0,assessment,"Predicted assessment with top confidences assessment=0.55, extenuating_circumstances=0.51.",,False
+where is the module handbook,"hi
+
+where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
+
+pls help
+megan",where is the module handbook,"hi
+
+where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
+
+pls help
+megan",where is the module handbook,hi where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder pls help megan,where is the module handbook [SEP] hi where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder pls help megan,['resources'],1,0,0,0,0,1,0,[4],0.48671063780784607,0,0.4969598054885864,0,0.4144591689109802,0,0.48521339893341064,0,0.6026199460029602,1,0.3809944689273834,0,resources,"Predicted resources with top confidences resources=0.60, assessment=0.50.",,False
+Graduation Ceremony Information,"Dear Dr Smith,
+
+I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
+
+Also, do you know if guests need tickets?
+
+Kind regards,
+Rebecca Lawrence",Graduation Ceremony Information,"Dear Dr Smith,
+
+I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
+
+Also, do you know if guests need tickets?
+
+[SIGN_OFF]
+[PERSON]",Graduation Ceremony Information,"Dear Dr Smith, I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department. Also, do you know if guests need tickets? [SIGN_OFF] [PERSON]","Graduation Ceremony Information [SEP] Dear Dr Smith, I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department. Also, do you know if guests need tickets? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0],0.528084397315979,0,0.4658571779727936,0,0.5180016756057739,0,0.4776795506477356,0,0.4334524869918823,0,0.510077953338623,1,timetabling,"Predicted timetabling with top confidences admin=0.53, extenuating_circumstances=0.52.",,False
+GitHub Classroom Access,"Dear Dr Smith,
+
+I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22.
+
+Could you resend the invite or check if there's an issue with the link?
+
+Regards,
+David Kim",GitHub Classroom Access,"Dear Dr Smith,
+
+I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22.
+
+Could you resend the invite or check if there's an issue with the link?
+
+[SIGN_OFF]
+[PERSON]",GitHub Classroom Access,"Dear Dr Smith, I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22. Could you resend the invite or check if there's an issue with the link? [SIGN_OFF] [PERSON]","GitHub Classroom Access [SEP] Dear Dr Smith, I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22. Could you resend the invite or check if there's an issue with the link? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4],0.5253249406814575,0,0.5039765238761902,0,0.3839903771877289,0,0.49765831232070923,0,0.5877980589866638,1,0.3988743722438812,0,resources,"Predicted resources with top confidences resources=0.59, admin=0.53.",,False
+Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+Best wishes,
+Hannah Wright",Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+[SIGN_OFF]
+[PERSON]",Assignment Brief Clarification KV5002,"Dear Dr Smith, Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. [SIGN_OFF] [PERSON]","Assignment Brief Clarification KV5002 [SEP] Dear Dr Smith, Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1],0.5085058212280273,0,0.5685150027275085,1,0.4556266665458679,0,0.5394135117530823,0,0.47714391350746155,0,0.374236524105072,0,assessment,"Predicted assessment with top confidences assessment=0.57, feedback=0.54.",,False
+Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+Kind regards,
+Tom Wilson",Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+[SIGN_OFF]
+[PERSON]",Grade Query - KV6003 Interim Report,"Dear Dr Smith, I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]","Grade Query - KV6003 Interim Report [SEP] Dear Dr Smith, I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3],0.5395501852035522,1,0.5599624514579773,1,0.47293174266815186,0,0.565545380115509,1,0.4482628107070923,0,0.37245893478393555,0,admin|assessment|feedback,"Predicted admin, assessment, feedback with top confidences feedback=0.57, assessment=0.56.",,False
+cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+cheers
+jake",cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+[SIGN_OFF]
+jake",cant access blackboard,hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff [SIGN_OFF] jake,cant access blackboard [SEP] hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff [SIGN_OFF] jake,['resources'],1,0,0,0,0,1,0,[4],0.4905274510383606,0,0.5123345851898193,0,0.4499572515487671,0,0.467180073261261,0,0.5632822513580322,1,0.3529629409313202,0,resources,"Predicted resources with top confidences resources=0.56, assessment=0.51.",,False

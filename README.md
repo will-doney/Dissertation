@@ -7,6 +7,7 @@ before running fresh:
 - delete processed folder
 - run the 01_preprocessing.ipymb and 02_model_training.ipynb
 - run inferance
+- run tests .venv\Scripts\python.exe -m pytest -q
 
 - wasnt pushing to github
 - increased epochs 2-4-6

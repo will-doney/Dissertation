@@ -1,0 +1,56 @@
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids,prob_admin,pred_admin,prob_assessment,pred_assessment,prob_extenuating_circumstances,pred_extenuating_circumstances,prob_feedback,pred_feedback,prob_resources,pred_resources,prob_timetabling,pred_timetabling,predicted_labels,explanation,escalation_reason,low_confidence
+Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+Kind regards,
+Olivia Hughes",Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+[SIGN_OFF]
+[PERSON]",Recommended Reading for Literature Review,"Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]","Recommended Reading for Literature Review [SEP] Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4],0.4856060743331909,0,0.5027980208396912,0,0.44938910007476807,0,0.48911768198013306,0,0.5476433038711548,0,0.42531919479370117,0,,"No label passed threshold; highest probabilities were resources=0.55, assessment=0.50, feedback=0.49.",no_label_above_threshold,True
+enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,"hi
+
+ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
+
+pls
+katie",enrolled in wrong seminar group,hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,enrolled in wrong seminar group [SEP] hi ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself pls katie,['admin'],1,1,0,0,0,0,0,[0],0.5097916126251221,0,0.4670488238334656,0,0.4691386818885803,0,0.4944067895412445,0,0.4622398018836975,0,0.48663729429244995,0,,"No label passed threshold; highest probabilities were admin=0.51, feedback=0.49, timetabling=0.49.",no_label_above_threshold,True
+attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+[SIGN_OFF]
+connor",attendance query,hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,attendance query [SEP] hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,['admin'],1,1,0,0,0,0,0,[0],0.5029915571212769,0,0.49254992604255676,0,0.4861694574356079,0,0.47829875349998474,0,0.49061185121536255,0,0.4854793846607208,0,,"No label passed threshold; highest probabilities were admin=0.50, assessment=0.49, resources=0.49.",no_label_above_threshold,True
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+[SIGN_OFF]
+MICHAEL",HELP WITH ASSIGNMENT,HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,HELP WITH ASSIGNMENT [SEP] HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,['assessment'],1,0,1,0,0,0,0,[1],0.4724583625793457,0,0.5005151629447937,0,0.5054746866226196,0,0.4767773747444153,0,0.4763084948062897,0,0.4396734833717346,0,,"No label passed threshold; highest probabilities were extenuating_circumstances=0.51, assessment=0.50, feedback=0.48.",no_label_above_threshold,True
+council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+thanks
+ben",council tax exemption letter,"hi dr smith
+
+my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
+
+[SIGN_OFF]
+ben",council tax exemption letter,hi dr smith my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] ben,council tax exemption letter [SEP] hi dr smith my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week [SIGN_OFF] ben,['admin'],1,1,0,0,0,0,0,[0],0.47651737928390503,0,0.4874599277973175,0,0.5572042465209961,0,0.44810977578163147,0,0.39243996143341064,0,0.4128585159778595,0,,"No label passed threshold; highest probabilities were extenuating_circumstances=0.56, assessment=0.49, admin=0.48.",no_label_above_threshold,True

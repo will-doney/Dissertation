@@ -8,25 +8,11 @@ import numpy as np
 import torch
 from transformers import DistilBertForSequenceClassification, DistilBertTokenizerFast
 
-from preprocessing import preprocess_records
+from src.preprocessing import preprocess_records
 
 
 def _resolve_project_root() -> Path:
     return Path(__file__).resolve().parents[1]
-
-
-def _resolve_path(project_root: Path, value: str) -> Path:
-    path = Path(value)
-    return path if path.is_absolute() else project_root / path
-
-
-def _resolve_model_dir(project_root: Path, model_dir_arg: str | None) -> Path:
-    model_dir = Path(model_dir_arg) if model_dir_arg else project_root / "models" / "3.distilbert_multilabel"
-    if not model_dir.is_absolute():
-        model_dir = project_root / model_dir
-    if not model_dir.exists():
-        raise FileNotFoundError(f"Model directory not found: {model_dir}")
-    return model_dir
 
 
 def _load_labels_and_thresholds(processed_dir: Path) -> tuple[list[str], np.ndarray]:
@@ -57,7 +43,7 @@ def _predict_probabilities(
     batch_size: int,
 ) -> np.ndarray:
     model.eval()
-    all_probs = []
+    all_probabilities = []
 
     with torch.no_grad():
         for start in range(0, len(texts), batch_size):
@@ -71,15 +57,15 @@ def _predict_probabilities(
             )
             enc = {key: value.to(device) for key, value in enc.items()}
             logits = model(**enc).logits
-            all_probs.append(torch.sigmoid(logits).cpu().numpy())
+            all_probabilities.append(torch.sigmoid(logits).cpu().numpy())
 
-    return np.vstack(all_probs) if all_probs else np.empty((0, model.num_labels), dtype=np.float32)
+    return np.vstack(all_probabilities) if all_probabilities else np.empty((0, model.num_labels), dtype=np.float32)
 
 
-def _format_explanation(labels: list[str], probs_row: np.ndarray, preds_row: np.ndarray) -> str:
-    predicted = [labels[i] for i, value in enumerate(preds_row) if value == 1]
+def _format_explanation(labels: list[str], probabilities_row: np.ndarray, predictions_row: np.ndarray) -> str:
+    predicted = [labels[i] for i, value in enumerate(predictions_row) if value == 1]
     ranked = sorted(
-        ((labels[i], float(probs_row[i])) for i in range(len(labels))),
+        ((labels[i], float(probabilities_row[i])) for i in range(len(labels))),
         key=lambda item: item[1],
         reverse=True,
     )
@@ -90,13 +76,6 @@ def _format_explanation(labels: list[str], probs_row: np.ndarray, preds_row: np.
 
     top_bits = ", ".join(f"{label}={score:.2f}" for label, score in ranked[:3])
     return f"No label passed threshold; highest probabilities were {top_bits}."
-
-
-def _escalation_reason(preds_row: np.ndarray) -> str:
-    if not np.any(preds_row):
-        return "no_label_above_threshold"
-
-    return ""
 
 
 def run_inference(
@@ -124,7 +103,7 @@ def run_inference(
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device)
 
-    probs = _predict_probabilities(
+    probabilities = _predict_probabilities(
         texts=[row["text_clean"] for row in rows],
         tokenizer=tokenizer,
         model=model,
@@ -133,27 +112,26 @@ def run_inference(
         batch_size=batch_size,
     )
 
-    preds = (probs >= thresholds.reshape(1, -1)).astype(int)
+    predictions = (probabilities >= thresholds.reshape(1, -1)).astype(int)
     output = [dict(row) for row in rows]
 
     for i, label in enumerate(labels):
-        for row, prob, pred in zip(output, probs[:, i], preds[:, i]):
-            row[f"prob_{label}"] = float(prob)
-            row[f"pred_{label}"] = int(pred)
-
+        for row, probability, prediction in zip(output, probabilities[:, i], predictions[:, i]):
+            row[f"prob_{label}"] = float(probability)
+            row[f"pred_{label}"] = int(prediction)
     predicted_labels = [
         "|".join(labels[i] for i, value in enumerate(row) if value == 1)
-        for row in preds
+        for row in predictions
     ]
 
     explanations = [
-        _format_explanation(labels, probs_row, preds_row)
-        for probs_row, preds_row in zip(probs, preds)
+        _format_explanation(labels, probabilities_row, predictions_row)
+        for probabilities_row, predictions_row in zip(probabilities, predictions)
     ]
 
     escalation_reasons = [
-        _escalation_reason(preds_row)
-        for preds_row in preds
+        "" if np.any(predictions_row) else "no_label_above_threshold"
+        for predictions_row in predictions
     ]
     low_confidence = [reason != "" for reason in escalation_reasons]
 
@@ -200,12 +178,27 @@ def main() -> None:
 
     project_root = _resolve_project_root()
 
-    input_csv = _resolve_path(project_root, args.input_csv)
-    output_csv = _resolve_path(project_root, args.output_csv)
-    escalation_csv = _resolve_path(project_root, args.escalation_csv)
-    processed_dir = _resolve_path(project_root, args.processed_dir)
+    input_csv = Path(args.input_csv)
+    if not input_csv.is_absolute():
+        input_csv = project_root / input_csv
 
-    model_dir = _resolve_model_dir(project_root, args.model_dir)
+    output_csv = Path(args.output_csv)
+    if not output_csv.is_absolute():
+        output_csv = project_root / output_csv
+
+    escalation_csv = Path(args.escalation_csv)
+    if not escalation_csv.is_absolute():
+        escalation_csv = project_root / escalation_csv
+
+    processed_dir = Path(args.processed_dir)
+    if not processed_dir.is_absolute():
+        processed_dir = project_root / processed_dir
+
+    model_dir = Path(args.model_dir)
+    if not model_dir.is_absolute():
+        model_dir = project_root / model_dir
+    if not model_dir.exists():
+        raise FileNotFoundError(f"Model directory not found: {model_dir}")
 
     run_inference(
         input_csv=input_csv,
