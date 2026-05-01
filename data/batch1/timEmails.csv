@@ -172,3 +172,70 @@ my entire timetable is showing as blank on the student portal for this semester.
 
 cheers
 james",timetabling,,high,FALSE
+TIM_026,KV5002 Lab Session Cancelled?,"Dear Dr Smith,
+
+A few of us turned up to the KV5002 lab this afternoon but the room was locked and there was no notice on the door. Was the session cancelled? We didn't see any announcement on Blackboard.
+
+Could you confirm whether next week's session is going ahead as normal?
+
+Thank you,
+Grace Li",timetabling,KV5002,medium,TRUE
+TIM_027,teaching week numbers,"hi
+
+im so confused by the week numbers. the university calendar says were in week 22 but the module schedule says week 9. which one do i follow for kv4006?? everyone keeps referring to different weeks and its doing my head in
+
+thx
+sam",timetabling,KV4006,low,FALSE
+TIM_028,Industrial Action and Lectures,"Dear Dr Smith,
+
+I understand there's planned industrial action next week. Could you let us know whether KV6003 sessions will be affected? I rely on the weekly supervisions to keep my project on track and I'd like to plan ahead if they won't be running.
+
+Kind regards,
+Amara Okafor",timetabling,KV6003,medium,FALSE
+TIM_029,can i attend a different seminar group,"hi dr smith
+
+i cant make the tuesday 2pm seminar for kv5002 this week because of a dentist appointment. is it ok if i go to the wednesday 10am group instead just for this week??
+
+cheers
+poppy",timetabling,KV5002,low,FALSE
+TIM_030,Exam Venue Confirmation,"Dear Dr Smith,
+
+The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration?
+
+Thank you,
+Ellie Saunders",timetabling,KV4006,medium,TRUE
+TIM_031,kv6003 sessions after submission,"hi
+
+do we still need to attend kv6003 sessions after we submit the project?? or is the viva the only thing left. i want to know if i can book a train home
+
+thx
+will",timetabling,KV6003,low,FALSE
+TIM_032,Lecture Clash With Work Placement Interview,"Dear Dr Smith,
+
+I have a job interview on Thursday which clashes with the KV5002 lecture. This is a really important opportunity and I can't reschedule it. Will I be marked as absent? Is there anything I need to do formally to excuse the absence?
+
+Thank you for understanding.
+
+Regards,
+Marcus Johnson",timetabling,KV5002,medium,TRUE
+TIM_033,when is the viva,"hi dr smith
+
+when exactly is the kv6003 viva?? the module handbook says week 27 but doesnt give a specific date or time. do we get to choose a slot or is it assigned to us??
+
+im nervous already lol
+tyler",timetabling,KV6003,medium,FALSE
+TIM_034,Saturday Make-Up Session?,"Dear Dr Smith,
+
+Someone mentioned there might be a make-up session for KV4006 on Saturday to cover the content missed during the strike. Is this confirmed? Saturdays are difficult for me as I have childcare commitments and I'd need to arrange cover.
+
+Could you let me know as soon as possible?
+
+Thanks,
+Nina Patel",timetabling,KV4006,high,FALSE
+TIM_035,double booked rooms??,"hi
+
+i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us
+
+can this be communicated better in future pls
+
+sam",timetabling,KV5002,medium,FALSE

@@ -167,3 +167,70 @@ the blackboard app on my phone isnt syncing properly for any of my modules. kv50
 
 sorry to bother u with this
 chloe",resources,,low,FALSE
+RES_026,KV6003 Example Projects,"Dear Dr Smith,
+
+Are there any example projects or past student submissions for KV6003 that we can look at? It would be really helpful to see what a first-class project looks like in terms of structure and scope. I'm not looking to copy anything — I just want to calibrate my expectations.
+
+Thank you,
+Marcus Johnson",resources,KV6003,low,FALSE
+RES_027,video tutorials for sql,"hi
+
+im really struggling with the sql stuff in kv4006. the lectures go too fast for me. do u know any good youtube channels or online tutorials that explain sql for beginners?? ive tried w3schools but i need something more detailed
+
+thx
+tyler",resources,KV4006,medium,FALSE
+RES_028,Panopto Recording Missing - Week 10,"Dear Dr Smith,
+
+The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded?
+
+This was the session on design patterns which I need to revise for the assignment.
+
+Thanks,
+Ellie Saunders",resources,KV5002,medium,FALSE
+RES_029,printing credits for poster,"hi dr smith
+
+for the kv6003 poster presentation do we have to pay for the printing ourselves or does the department cover it?? also what size does the poster need to be and is there a template
+
+cheers
+will",resources,KV6003,medium,TRUE
+RES_030,Access to Kaggle Datasets,"Dear Dr Smith,
+
+For my KV6003 project I want to use a dataset from Kaggle to supplement my AI-generated emails. Is there any issue with using external datasets? Do I need to check licensing or reference it in a particular way?
+
+Also, is there university guidance on storing third-party data in my GitHub repository?
+
+Kind regards,
+Amara Okafor",resources,KV6003,medium,TRUE
+RES_031,week 7 workshop handout,"hi
+
+did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard??
+
+ta
+poppy",resources,KV4006,low,FALSE
+RES_032,LaTeX or Word?,"Dear Dr Smith,
+
+Is there a preference for whether we write the KV6003 report in LaTeX or Microsoft Word? I'm comfortable with both but I want to make sure there isn't a required format. Some modules insist on Word for Turnitin compatibility.
+
+Thank you,
+Grace Li",resources,KV6003,low,FALSE
+RES_033,SPACY INSTALLATION NOT WORKING,"HI DR SMITH
+
+IM TRYING TO INSTALL SPACY FOR MY KV6003 PROJECT BUT IT KEEPS FAILING WITH AN ERROR ABOUT VISUAL C++ BUILD TOOLS. IVE BEEN TRYING FOR 2 DAYS AND NOTHING WORKS. IVE TRIED PIP INSTALL AND CONDA AND NEITHER WORK.
+
+CAN U HELP OR IS THERE AN IT PERSON WHO CAN
+
+MICHAEL",resources,KV6003,high,FALSE
+RES_034,recommended IDE,"hi dr smith
+
+what IDE do u recommend for kv5002?? ive been using notepad++ but i think i need something better. is pycharm free for students or should i use vs code
+
+cheers
+sam",resources,KV5002,low,FALSE
+RES_035,Annotated Bibliography Template,"Dear Dr Smith,
+
+For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help.
+
+If there isn't a template, could you recommend a format?
+
+Best wishes,
+Nina Patel",resources,KV6003,low,FALSE

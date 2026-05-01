@@ -212,3 +212,114 @@ A few final questions:
 
 With sincere thanks,
 Fatima Al-Rashid",assessment|feedback|admin,KV6003,low,TRUE
+MIX_021,KV6003 Project Update and Admin Query,"Dear Dr Smith,
+
+Quick update — I've finished training my classification model and initial results are looking promising (F1 around 0.82). I'm now working on the evaluation chapter.
+
+Two things:
+1. For the viva, do I need to prepare slides or is it more of a discussion?
+2. I've been offered a graduate job starting July and they want a confirmed graduation date. Who do I contact for that?
+
+Thank you,
+Nina Patel",assessment|admin,KV6003,medium,TRUE
+MIX_022,everything is broken,"hi dr smith
+
+im having a nightmare week honestly:
+- the kv4006 slides from weeks 9 and 10 still arent on blackboard
+- i think ive been marked absent for the kv5002 lecture i definitely attended
+- also my kv6003 supervisor still hasnt replied to my last 2 emails about my draft
+
+i dont know who else to email about all this. sorry for the rant
+
+tyler",resources|admin|feedback,,medium,TRUE
+MIX_023,Resit Preparation and Timetable Query,"Dear Dr Smith,
+
+I'm preparing for the KV4006 resit and I have two questions:
+
+1. Is the resit exam the same format as the original (2-hour written exam with SQL questions)? Or has it changed?
+2. The resit timetable hasn't been published yet. Do you know approximately when it will be available?
+
+I want to start revising effectively.
+
+Thank you,
+Marcus Johnson",assessment|timetabling,KV4006,medium,TRUE
+MIX_024,coming back after illness and need help,"hi dr smith
+
+ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002
+
+i need to know:
+- whats been covered in lectures since week 6
+- is the assignment deadline still the same or did it change
+- are the recordings on panopto available for the sessions i missed
+
+also my attendance is going to look bad — does the EC form cover that??
+
+thx
+poppy",extenuating_circumstances|resources|assessment|admin,KV5002,high,TRUE
+MIX_025,Group Project Mess,"Dear Dr Smith,
+
+Our KV5002 group project has several issues I need your help with:
+
+1. One member has dropped out of the module entirely and we don't know if we should redistribute their section or wait for confirmation from admin.
+2. The datasets we need are on a shared Google Drive that the dropped member owned and we've lost access.
+3. Our presentation is in Week 11 but we're now a team of 3 instead of 4. Do we get less time or the same?
+
+Sorry for the complex email.
+
+Regards,
+Ellie Saunders",admin|resources|timetabling,KV5002,high,TRUE
+MIX_026,kv4006 and kv6003 stuff,"hi
+
+couple of things from me:
+
+for kv4006 — i got 51% on the coursework and the feedback says my normalisation was wrong. can u explain what 3NF actually requires because the lecture slides dont make sense to me
+
+for kv6003 — ive been trying to install tensorflow for my project but its not working on my laptop. is there an alternative library i can use instead??
+
+thx
+sam",feedback|resources,,medium,TRUE
+MIX_027,Final Year Stress and Deadline Concerns,"Dear Dr Smith,
+
+I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well.
+
+I've spoken to the wellbeing team and they've suggested I talk to my module leaders about staggering deadlines. Is there any flexibility at all?
+
+I also wanted to ask whether the KV6003 viva can be done remotely — I have severe social anxiety and the thought of presenting in person is making everything worse.
+
+Thank you for listening.
+
+Amara",extenuating_circumstances|timetabling|assessment,,high,TRUE
+MIX_028,quick questions before submission,"hi dr smith
+
+submitting kv6003 this week and just have a few last minute things:
+
+1. does the report need to be submitted as PDF or Word
+2. do i submit the code separately or include it in the appendix
+3. can u confirm the turnitin submission link is the one on the main kv6003 page
+4. also i never got feedback on my draft chapter i sent 4 weeks ago — any chance u could take a quick look before i submit
+
+thx
+eleanor",assessment|resources|feedback,KV6003,high,TRUE
+MIX_029,Late Module Registration and Catching Up,"Dear Dr Smith,
+
+I've just been approved to take KV4006 as a late addition after switching programmes. I'm joining in Week 5 so I've missed four weeks of content.
+
+Could you advise on:
+- Where to find the materials for Weeks 1-4?
+- Are there recordings I can watch?
+- Is any of the missed content assessed, or does assessment start later?
+- Do I need to register on Blackboard separately or will it appear automatically?
+
+Thank you for your patience.
+
+Grace Li",resources|timetabling|assessment|admin,KV4006,high,TRUE
+MIX_030,End of Module Thanks and Practical Questions,"Dear Dr Smith,
+
+As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview.
+
+A couple of remaining things:
+1. When will the final exam grades be published?
+2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK?
+
+Best wishes,
+Will",feedback|admin,KV4006,low,TRUE

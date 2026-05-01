@@ -160,3 +160,78 @@ I hope this is useful. I thought it was better to share directly rather than jus
 
 Best wishes,
 Rebecca Lawrence",feedback,KV4006,low,FALSE
+email_id,subject,body,category,module,priority,multi_intent
+FDB_021,KV6003 Proposal Feedback - Confused,"Dear Dr Smith,
+
+I received feedback on my KV6003 project proposal and I'm a bit confused by some of the comments. The feedback says my scope is 'too ambitious' but also that I need to 'demonstrate more depth.' These seem contradictory to me — should I narrow my focus or go deeper with what I have?
+
+Could we discuss this in our next supervision?
+
+Thank you,
+Amara Okafor",feedback,KV6003,medium,FALSE
+FDB_022,mark seems low compared to effort,"hi dr smith
+
+i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected
+
+can u look at it again or explain what i missed
+
+thx
+sam",feedback,KV5002,medium,FALSE
+FDB_023,Turnitin Feedback Not Visible,"Dear Dr Smith,
+
+I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache.
+
+Is there an alternative way to access my feedback?
+
+Thanks,
+Grace Li",feedback,KV4006,medium,FALSE
+FDB_024,why did i lose marks for formatting,"hi
+
+got my kv6003 interim back and lost 8 marks for formatting apparently. nobody told us there were marks for formatting?? the brief only mentions content and analysis. can u explain what the formatting issues were because the feedback just says 'poor presentation'
+
+this is ridiculous tbh
+tyler",feedback,KV6003,medium,FALSE
+FDB_025,Grade Distribution Query,"Dear Dr Smith,
+
+Without asking for specific individuals' grades, could you share the overall grade distribution for the KV5002 assignment? I'd like to understand where my mark (62%) sits relative to the cohort average. This would help me gauge whether my approach was on the right track.
+
+Thank you,
+Nina Patel",feedback,KV5002,low,FALSE
+FDB_026,supervisor never gives feedback,"hi dr smith
+
+i know ur not my kv6003 supervisor but i dont know who else to ask. ive sent my supervisor three draft chapters over the past 6 weeks and havent received any feedback on any of them. ive emailed twice to chase and got nothing back
+
+im running out of time and i cant improve my work without feedback. what should i do??
+
+thanks
+eleanor",feedback,KV6003,high,FALSE
+FDB_027,Moderation Outcome Changed My Grade,"Dear Dr Smith,
+
+I originally received 72% for KV4006 but I've just noticed it's been changed to 65% on the student portal with a note saying 'post-moderation adjustment.' Nobody informed me this was happening and I'm quite upset as this changes my module average significantly.
+
+Can you explain why the grade was changed and whether I have any recourse?
+
+Regards,
+Ellie Saunders",feedback,KV4006,high,FALSE
+FDB_028,feedback on draft pls,"hi dr smith
+
+i know the deadline isnt for a while but ive finished a first draft of my kv5002 report. is there any chance u could have a quick look and tell me if im on the right track?? even just the first couple of pages would be helpful
+
+no rush obviously
+
+cheers
+poppy",feedback,KV5002,low,FALSE
+FDB_029,Generic Feedback Not Helpful,"Dear Dr Smith,
+
+I appreciate you providing feedback on the KV4006 coursework but I found the comments quite generic. Phrases like 'needs more detail' and 'could be improved' don't give me enough information to know what specifically to change.
+
+I don't mean to be critical and I understand you have many students to mark. Could I book a short meeting to get more specific guidance?
+
+Thank you,
+Marcus Johnson",feedback,KV4006,medium,FALSE
+FDB_030,happy with my mark!,"hi dr smith
+
+just wanted to say thanks — got 78% on the kv6003 interim and im really pleased!! your suggestion to restructure the literature review made a huge difference. feeling much more confident about the final submission now
+
+cheers
+will",feedback,KV6003,low,FALSE

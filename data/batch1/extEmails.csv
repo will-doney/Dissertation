@@ -214,3 +214,89 @@ I appreciate your consideration.
 
 Best regards,
 Amir Hussain",extenuating_circumstances,KV5002,medium,FALSE
+EXT_026,Domestic Abuse Situation,"Dear Dr Smith,
+
+This is extremely difficult for me to share but I feel I need to explain why my academic performance has dropped. I am currently in a domestic abuse situation at home and it is severely affecting my ability to study and attend university. I am receiving support from an external organisation.
+
+I have not been able to work on my KV6003 project for the past three weeks. I don't know what evidence I can provide but I would appreciate any support or flexibility the university can offer.
+
+I would prefer to discuss this in person if possible.
+
+Regards,
+[Name withheld for anonymity - Student ID: W21052891]",extenuating_circumstances,KV6003,high,FALSE
+EXT_027,flooded flat,"hi dr smith
+
+my flat got flooded last weekend because of a burst pipe upstairs. my laptop was damaged and i lost a load of work for kv5002. ive had to move in with a mate temporarily and everything is chaos. the landlord is sorting the insurance but its going to take weeks
+
+i have photos of the damage if u need evidence. is there any way to get extra time on the assignment??
+
+thx
+sam",extenuating_circumstances,KV5002,high,FALSE
+EXT_028,Jury Service Conflicting With Assessment,"Dear Dr Smith,
+
+I have been called for jury service beginning 10th March which could last up to two weeks. This directly conflicts with the KV4006 submission deadline and a scheduled KV5002 presentation.
+
+I have the court summons letter as evidence. Could you advise on how to proceed with both assessments?
+
+Kind regards,
+Grace Li",extenuating_circumstances,,high,TRUE
+EXT_029,allergic reaction and hospital,"hi
+
+i had a severe allergic reaction on wednesday and was taken to a&e by ambulance. i was kept in overnight for observation and ive been told to rest for the next few days. the kv6003 interim report was due yesterday and i obviously couldnt submit
+
+i have the hospital discharge summary. what do i need to do??
+
+thanks
+poppy",extenuating_circumstances,KV6003,high,FALSE
+EXT_030,Chronic Pain Flare-Up,"Dear Dr Smith,
+
+I have a chronic pain condition (endometriosis) which has flared up badly this month. I've been largely unable to attend lectures or work at my computer for more than short periods. My consultant has written a letter supporting a deadline extension for KV5002.
+
+I'm committed to completing the work but I need additional time. Would a two-week extension be possible?
+
+Thank you for your understanding.
+
+Best wishes,
+Ellie Saunders",extenuating_circumstances,KV5002,high,FALSE
+EXT_031,death in the family,"hi dr smith
+
+my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now
+
+i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in
+
+sorry
+tyler",extenuating_circumstances,KV4006,high,TRUE
+EXT_032,Victim of Crime,"Dear Dr Smith,
+
+I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number.
+
+Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment.
+
+Kind regards,
+Marcus Johnson",extenuating_circumstances,KV6003,high,FALSE
+EXT_033,medication side effects,"hi dr smith
+
+ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines
+
+can i apply for EC for side effects?? its not like im choosing to feel this way
+
+thx
+will",extenuating_circumstances,KV5002,high,FALSE
+EXT_034,Immigration Status Issues,"Dear Dr Smith,
+
+I'm writing to let you know about a serious personal situation. My visa renewal application has been delayed and I've been told there may be complications with my right to remain. This is causing me extreme stress and anxiety and I'm finding it very difficult to concentrate on my KV4006 studies.
+
+I have documentation from my immigration solicitor. I would appreciate any flexibility with upcoming deadlines while this is resolved.
+
+Thank you for your discretion.
+
+Regards,
+Amara Okafor",extenuating_circumstances,KV4006,high,FALSE
+EXT_035,broken laptop no backup,"hi
+
+my laptop screen completely died last night and i cant afford to fix it or buy a new one right now. all my kv6003 code is on the local drive and i didnt back it up to github yet because i was still testing. i know thats my fault but i literally cant access any of my work
+
+is there a university laptop loan scheme or something?? also i need more time for the deadline obviously
+
+sorry
+eleanor",extenuating_circumstances,KV6003,high,TRUE
