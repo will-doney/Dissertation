@@ -171,7 +171,7 @@ def main() -> None:
     parser.add_argument("--output-csv", default="data/processed/inference/predictions.csv")
     parser.add_argument("--escalation-csv", default="data/processed/inference/escalations.csv")
     parser.add_argument("--processed-dir", default="data/processed")
-    parser.add_argument("--model-dir", default="models/3.distilbert_multilabel")
+    parser.add_argument("--model-dir", default="models/distilbert_multilabel")
     parser.add_argument("--max-len", type=int, default=256)
     parser.add_argument("--batch-size", type=int, default=16)
     args = parser.parse_args()
