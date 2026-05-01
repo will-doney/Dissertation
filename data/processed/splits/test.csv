@@ -1,0 +1,592 @@
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids
+Multiple Deadlines Overwhelm,"Dear Dr Smith,
+
+I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling.
+
+I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position.
+
+Thank you,
+Emily Chen",Multiple Deadlines Overwhelm,"Dear Dr Smith,
+
+I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling.
+
+I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position.
+
+[SIGN_OFF]
+[PERSON]",Multiple Deadlines Overwhelm,"Dear Dr Smith, I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling. I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position. [SIGN_OFF] [PERSON]","Multiple Deadlines Overwhelm [SEP] Dear Dr Smith, I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling. I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position. [SIGN_OFF] [PERSON]",['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Group Project Mess,"Dear Dr Smith,
+
+Our KV5002 group project has several issues I need your help with:
+
+1. One member has dropped out of the module entirely and we don't know if we should redistribute their section or wait for confirmation from admin.
+2. The datasets we need are on a shared Google Drive that the dropped member owned and we've lost access.
+3. Our presentation is in Week 11 but we're now a team of 3 instead of 4. Do we get less time or the same?
+
+Sorry for the complex email.
+
+Regards,
+Ellie Saunders",Group Project Mess,"Dear Dr Smith,
+
+Our KV5002 group project has several issues I need your help with:
+
+1. One member has dropped out of the module entirely and we don't know if we should redistribute their section or wait for confirmation from admin.
+2. The datasets we need are on a shared Google Drive that the dropped member owned and we've lost access.
+3. Our presentation is in Week 11 but we're now a team of 3 instead of 4. Do we get less time or the same?
+
+Sorry for the complex email.
+
+[SIGN_OFF]
+[PERSON]",Group Project Mess,"Dear Dr Smith, Our KV5002 group project has several issues I need your help with: 1. One member has dropped out of the module entirely and we don't know if we should redistribute their section or wait for confirmation from admin. 2. The datasets we need are on a shared Google Drive that the dropped member owned and we've lost access. 3. Our presentation is in Week 11 but we're now a team of 3 instead of 4. Do we get less time or the same? Sorry for the complex email. [SIGN_OFF] [PERSON]","Group Project Mess [SEP] Dear Dr Smith, Our KV5002 group project has several issues I need your help with: 1. One member has dropped out of the module entirely and we don't know if we should redistribute their section or wait for confirmation from admin. 2. The datasets we need are on a shared Google Drive that the dropped member owned and we've lost access. 3. Our presentation is in Week 11 but we're now a team of 3 instead of 4. Do we get less time or the same? Sorry for the complex email. [SIGN_OFF] [PERSON]","['admin', 'resources', 'timetabling']",3,1,0,0,0,1,1,"[0, 4, 5]"
+KV6003 Project Interim Report,"Dear Dr Smith,
+
+Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground.
+
+If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush.
+
+Kind regards,
+Olivia Hughes",KV6003 Project Interim Report,"Dear Dr Smith,
+
+Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground.
+
+If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush.
+
+[SIGN_OFF]
+[PERSON]",KV6003 Project Interim Report,"Dear Dr Smith, Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground. If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush. [SIGN_OFF] [PERSON]","KV6003 Project Interim Report [SEP] Dear Dr Smith, Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground. If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Victim of Crime,"Dear Dr Smith,
+
+I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number.
+
+Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment.
+
+Kind regards,
+Marcus Johnson",Victim of Crime,"Dear Dr Smith,
+
+I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number.
+
+Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment.
+
+[SIGN_OFF]
+[PERSON]",Victim of Crime,"Dear Dr Smith, I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number. Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment. [SIGN_OFF] [PERSON]","Victim of Crime [SEP] Dear Dr Smith, I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number. Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment. [SIGN_OFF] [PERSON]",['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+lecture times changing??,"hi
+
+heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem
+
+please let me know
+liam",lecture times changing??,"hi
+
+heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem
+
+please let me know
+liam",lecture times changing??,hi heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem please let me know liam,lecture times changing?? [SEP] hi heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem please let me know liam,['timetabling'],1,0,0,0,0,0,1,[5]
+Annotated Bibliography Template,"Dear Dr Smith,
+
+For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help.
+
+If there isn't a template, could you recommend a format?
+
+Best wishes,
+Nina Patel",Annotated Bibliography Template,"Dear Dr Smith,
+
+For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help.
+
+If there isn't a template, could you recommend a format?
+
+[SIGN_OFF]
+[PERSON]",Annotated Bibliography Template,"Dear Dr Smith, For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help. If there isn't a template, could you recommend a format? [SIGN_OFF] [PERSON]","Annotated Bibliography Template [SEP] Dear Dr Smith, For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help. If there isn't a template, could you recommend a format? [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+Changing Personal Tutor,"Dear Dr Smith,
+
+I was assigned a personal tutor at the start of the year but I've never managed to get a meeting with them — they don't respond to emails. Is it possible to request a change of personal tutor? If so, who do I submit the request to?
+
+Thank you,
+Ellie Saunders",Changing Personal Tutor,"Dear Dr Smith,
+
+I was assigned a personal tutor at the start of the year but I've never managed to get a meeting with them — they don't respond to emails. Is it possible to request a change of personal tutor? If so, who do I submit the request to?
+
+[SIGN_OFF]
+[PERSON]",Changing Personal Tutor,"Dear Dr Smith, I was assigned a personal tutor at the start of the year but I've never managed to get a meeting with them — they don't respond to emails. Is it possible to request a change of personal tutor? If so, who do I submit the request to? [SIGN_OFF] [PERSON]","Changing Personal Tutor [SEP] Dear Dr Smith, I was assigned a personal tutor at the start of the year but I've never managed to get a meeting with them — they don't respond to emails. Is it possible to request a change of personal tutor? If so, who do I submit the request to? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+WHAT DOES THIS FEEDBACK MEAN,"HI DR SMITH
+
+I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH
+
+CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN
+
+MICHAEL",WHAT DOES THIS FEEDBACK MEAN,"HI DR SMITH
+
+I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH
+
+CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN
+
+MICHAEL",WHAT DOES THIS FEEDBACK MEAN,HI DR SMITH I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN MICHAEL,WHAT DOES THIS FEEDBACK MEAN [SEP] HI DR SMITH I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN MICHAEL,['feedback'],1,0,0,0,1,0,0,[3]
+failed and dont know what to do,"hi dr smith
+
+i just got my kv4006 result back and ive failed with 35%. im devastated because i thought i did ok. i dont really understand what went wrong and i dont know if i should resit or retake the whole module
+
+what would u recommend??
+
+thx
+tyler",failed and dont know what to do,"hi dr smith
+
+i just got my kv4006 result back and ive failed with 35%. im devastated because i thought i did ok. i dont really understand what went wrong and i dont know if i should resit or retake the whole module
+
+what would u recommend??
+
+[SIGN_OFF]
+[SIGN_OFF]",failed and dont know what to do,hi dr smith i just got my kv4006 result back and ive failed with 35%. im devastated because i thought i did ok. i dont really understand what went wrong and i dont know if i should resit or retake the whole module what would u recommend?? [SIGN_OFF] [SIGN_OFF],failed and dont know what to do [SEP] hi dr smith i just got my kv4006 result back and ive failed with 35%. im devastated because i thought i did ok. i dont really understand what went wrong and i dont know if i should resit or retake the whole module what would u recommend?? [SIGN_OFF] [SIGN_OFF],['assessment'],1,0,1,0,0,0,0,[1]
+End of Module Thanks and Practical Questions,"Dear Dr Smith,
+
+As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview.
+
+A couple of remaining things:
+1. When will the final exam grades be published?
+2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK?
+
+Best wishes,
+Will",End of Module Thanks and Practical Questions,"Dear Dr Smith,
+
+As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview.
+
+A couple of remaining things:
+1. When will the final exam grades be published?
+2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK?
+
+[SIGN_OFF]
+Will",End of Module Thanks and Practical Questions,"Dear Dr Smith, As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview. A couple of remaining things: 1. When will the final exam grades be published? 2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK? [SIGN_OFF] Will","End of Module Thanks and Practical Questions [SEP] Dear Dr Smith, As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview. A couple of remaining things: 1. When will the final exam grades be published? 2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK? [SIGN_OFF] Will","['admin', 'feedback']",2,1,0,0,1,0,0,"[0, 3]"
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+[SIGN_OFF]
+MICHAEL",HELP WITH ASSIGNMENT,HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,HELP WITH ASSIGNMENT [SEP] HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,['assessment'],1,0,1,0,0,0,0,[1]
+KV6003 Supervision Meeting Availability,"Dear Dr Smith,
+
+I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day.
+
+Could you also let me know where the meeting will take place — is it your office or on Teams?
+
+Kind regards,
+Olivia Hughes",KV6003 Supervision Meeting Availability,"Dear Dr Smith,
+
+I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day.
+
+Could you also let me know where the meeting will take place — is it your office or on Teams?
+
+[SIGN_OFF]
+[PERSON]",KV6003 Supervision Meeting Availability,"Dear Dr Smith, I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day. Could you also let me know where the meeting will take place — is it your office or on Teams? [SIGN_OFF] [PERSON]","KV6003 Supervision Meeting Availability [SEP] Dear Dr Smith, I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day. Could you also let me know where the meeting will take place — is it your office or on Teams? [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+AI Tool Declaration - KV6003,"Dear Dr Smith,
+
+Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies.
+
+Is there a recommended way to reference these tools in the report?
+
+Kind regards,
+Zara Ahmed",AI Tool Declaration - KV6003,"Dear Dr Smith,
+
+Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies.
+
+Is there a recommended way to reference these tools in the report?
+
+[SIGN_OFF]
+[PERSON]",AI Tool Declaration - KV6003,"Dear Dr Smith, Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies. Is there a recommended way to reference these tools in the report? [SIGN_OFF] [PERSON]","AI Tool Declaration - KV6003 [SEP] Dear Dr Smith, Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies. Is there a recommended way to reference these tools in the report? [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+complaint and extension request,"hi dr smith
+
+im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified.
+
+because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine
+
+sorry if this comes across as rude im just frustrated
+alex",complaint and extension request,"hi dr smith
+
+im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified.
+
+because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine
+
+sorry if this comes across as rude im just frustrated
+alex",complaint and extension request,hi dr smith im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified. because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine sorry if this comes across as rude im just frustrated alex,complaint and extension request [SEP] hi dr smith im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified. because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine sorry if this comes across as rude im just frustrated alex,"['assessment', 'extenuating_circumstances', 'feedback']",3,0,1,1,1,0,0,"[1, 2, 3]"
+kv4006 friday lecture,"hi
+
+is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it
+
+pls let us know
+connor",kv4006 friday lecture,"hi
+
+is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it
+
+pls let us know
+connor",kv4006 friday lecture,hi is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it pls let us know connor,kv4006 friday lecture [SEP] hi is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it pls let us know connor,['timetabling'],1,0,0,0,0,0,1,[5]
+Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+Regards,
+Alex Turner",Peer Assessment Unfair,"Dear Dr Smith,
+
+The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
+
+Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
+
+[SIGN_OFF]
+[PERSON]",Peer Assessment Unfair,"Dear Dr Smith, The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]","Peer Assessment Unfair [SEP] Dear Dr Smith, The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages. Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3]
+KV4006 Exam Format,"Dear Dr Smith,
+
+Could you clarify the format of the KV4006 exam? Specifically, I'd like to know:
+
+- How many questions are there?
+- Is it open book or closed book?
+- Are we expected to write SQL queries by hand?
+
+This would help me tailor my revision approach.
+
+Thank you,
+Ellie Saunders",KV4006 Exam Format,"Dear Dr Smith,
+
+Could you clarify the format of the KV4006 exam? Specifically, I'd like to know:
+
+- How many questions are there?
+- Is it open book or closed book?
+- Are we expected to write SQL queries by hand?
+
+This would help me tailor my revision approach.
+
+[SIGN_OFF]
+[PERSON]",KV4006 Exam Format,"Dear Dr Smith, Could you clarify the format of the KV4006 exam? Specifically, I'd like to know: - How many questions are there? - Is it open book or closed book? - Are we expected to write SQL queries by hand? This would help me tailor my revision approach. [SIGN_OFF] [PERSON]","KV4006 Exam Format [SEP] Dear Dr Smith, Could you clarify the format of the KV4006 exam? Specifically, I'd like to know: - How many questions are there? - Is it open book or closed book? - Are we expected to write SQL queries by hand? This would help me tailor my revision approach. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+KV5002 Code Submission Format,"Dear Dr Smith,
+
+For the KV5002 coursework, should we submit the code as a .py file or as a Jupyter notebook? The brief mentions both formats in different sections and I want to make sure I use the right one.
+
+Also, do we need to include a README file with instructions on how to run it?
+
+Thank you,
+Grace Li",KV5002 Code Submission Format,"Dear Dr Smith,
+
+For the KV5002 coursework, should we submit the code as a .py file or as a Jupyter notebook? The brief mentions both formats in different sections and I want to make sure I use the right one.
+
+Also, do we need to include a README file with instructions on how to run it?
+
+[SIGN_OFF]
+[PERSON]",KV5002 Code Submission Format,"Dear Dr Smith, For the KV5002 coursework, should we submit the code as a .py file or as a Jupyter notebook? The brief mentions both formats in different sections and I want to make sure I use the right one. Also, do we need to include a README file with instructions on how to run it? [SIGN_OFF] [PERSON]","KV5002 Code Submission Format [SEP] Dear Dr Smith, For the KV5002 coursework, should we submit the code as a .py file or as a Jupyter notebook? The brief mentions both formats in different sections and I want to make sure I use the right one. Also, do we need to include a README file with instructions on how to run it? [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Online or In Person?,"Hi,
+
+Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action.
+
+Could you clarify?
+
+Thanks,
+Alex Turner",Online or In Person?,"Hi,
+
+Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action.
+
+Could you clarify?
+
+[SIGN_OFF]
+[PERSON]",Online or In Person?,"Hi, Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action. Could you clarify? [SIGN_OFF] [PERSON]","Online or In Person? [SEP] Hi, Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action. Could you clarify? [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+mark seems low compared to effort,"hi dr smith
+
+i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected
+
+can u look at it again or explain what i missed
+
+thx
+sam",mark seems low compared to effort,"hi dr smith
+
+i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected
+
+can u look at it again or explain what i missed
+
+[SIGN_OFF]
+sam",mark seems low compared to effort,hi dr smith i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected can u look at it again or explain what i missed [SIGN_OFF] sam,mark seems low compared to effort [SEP] hi dr smith i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected can u look at it again or explain what i missed [SIGN_OFF] sam,['feedback'],1,0,0,0,1,0,0,[3]
+appendix question,"does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over
+
+ta
+will",appendix question,"does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over
+
+ta
+will",appendix question,does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over ta will,appendix question [SEP] does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over ta will,['assessment'],1,0,1,0,0,0,0,[1]
+Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+Kind regards,
+Olivia Hughes",Recommended Reading for Literature Review,"Dear Dr Smith,
+
+I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
+
+I've already found a few through the library but I feel like I'm missing some foundational work.
+
+[SIGN_OFF]
+[PERSON]",Recommended Reading for Literature Review,"Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]","Recommended Reading for Literature Review [SEP] Dear Dr Smith, I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at? I've already found a few through the library but I feel like I'm missing some foundational work. [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+Kind regards,
+Tom Wilson",Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+
+I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
+
+Specifically, I'd like to understand:
+- Whether my literature review was adequate
+- If the methodology section was the main issue
+- What I need to do differently for the final submission
+
+I'm determined to improve but I need clearer direction.
+
+[SIGN_OFF]
+[PERSON]",Grade Query - KV6003 Interim Report,"Dear Dr Smith, I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]","Grade Query - KV6003 Interim Report [SEP] Dear Dr Smith, I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low? Specifically, I'd like to understand: - Whether my literature review was adequate - If the methodology section was the main issue - What I need to do differently for the final submission I'm determined to improve but I need clearer direction. [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3]
+Workshop Location - KV6003,"Dear Dr Smith,
+
+The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor?
+
+Sorry for the basic question.
+
+Thanks,
+Fatima Al-Rashid",Workshop Location - KV6003,"Dear Dr Smith,
+
+The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor?
+
+Sorry for the basic question.
+
+[SIGN_OFF]
+[PERSON]",Workshop Location - KV6003,"Dear Dr Smith, The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor? Sorry for the basic question. [SIGN_OFF] [PERSON]","Workshop Location - KV6003 [SEP] Dear Dr Smith, The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor? Sorry for the basic question. [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+ty",word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+
+[SIGN_OFF]",word count???,does the 3000 word count include references and appendices or not?? need to know asap as im nearly done [SIGN_OFF],word count??? [SEP] does the 3000 word count include references and appendices or not?? need to know asap as im nearly done [SIGN_OFF],['assessment'],1,0,1,0,0,0,0,[1]
+Panopto Recording Missing - Week 10,"Dear Dr Smith,
+
+The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded?
+
+This was the session on design patterns which I need to revise for the assignment.
+
+Thanks,
+Ellie Saunders",Panopto Recording Missing - Week 10,"Dear Dr Smith,
+
+The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded?
+
+This was the session on design patterns which I need to revise for the assignment.
+
+[SIGN_OFF]
+[PERSON]",Panopto Recording Missing - Week 10,"Dear Dr Smith, The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded? This was the session on design patterns which I need to revise for the assignment. [SIGN_OFF] [PERSON]","Panopto Recording Missing - Week 10 [SEP] Dear Dr Smith, The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded? This was the session on design patterns which I need to revise for the assignment. [SIGN_OFF] [PERSON]",['resources'],1,0,0,0,0,1,0,[4]
+death in the family,"hi dr smith
+
+my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now
+
+i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in
+
+sorry
+tyler",death in the family,"hi dr smith
+
+my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now
+
+i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in
+
+sorry
+[SIGN_OFF]",death in the family,hi dr smith my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in sorry [SIGN_OFF],death in the family [SEP] hi dr smith my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in sorry [SIGN_OFF],['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Academic Appeal Process,"Dear Dr Smith,
+
+I am writing to enquire about the academic appeals process. I received my module board results and I have been required to withdraw from the programme due to failing KV4006 twice. I believe there are grounds for appeal as my extenuating circumstances were not fully considered by the board.
+
+Could you advise on the formal process, the deadline for submitting an appeal, and whether you would be willing to provide a supporting statement?
+
+Yours sincerely,
+Marcus Johnson",Academic Appeal Process,"Dear Dr Smith,
+
+I am writing to enquire about the academic appeals process. I received my module board results and I have been required to withdraw from the programme due to failing KV4006 twice. I believe there are grounds for appeal as my extenuating circumstances were not fully considered by the board.
+
+Could you advise on the formal process, the deadline for submitting an appeal, and whether you would be willing to provide a supporting statement?
+
+Yours sincerely,
+[PERSON]",Academic Appeal Process,"Dear Dr Smith, I am writing to enquire about the academic appeals process. I received my module board results and I have been required to withdraw from the programme due to failing KV4006 twice. I believe there are grounds for appeal as my extenuating circumstances were not fully considered by the board. Could you advise on the formal process, the deadline for submitting an appeal, and whether you would be willing to provide a supporting statement? Yours sincerely, [PERSON]","Academic Appeal Process [SEP] Dear Dr Smith, I am writing to enquire about the academic appeals process. I received my module board results and I have been required to withdraw from the programme due to failing KV4006 twice. I believe there are grounds for appeal as my extenuating circumstances were not fully considered by the board. Could you advise on the formal process, the deadline for submitting an appeal, and whether you would be willing to provide a supporting statement? Yours sincerely, [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+chatgpt referencing,"hi dr smith
+
+quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol
+
+thx
+megan",chatgpt referencing,"hi dr smith
+
+quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol
+
+[SIGN_OFF]
+megan",chatgpt referencing,hi dr smith quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol [SIGN_OFF] megan,chatgpt referencing [SEP] hi dr smith quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol [SIGN_OFF] megan,['assessment'],1,0,1,0,0,0,0,[1]
+is there a lecture tomorrow?,"hi
+
+just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled
+
+cheers
+jake",is there a lecture tomorrow?,"hi
+
+just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled
+
+[SIGN_OFF]
+jake",is there a lecture tomorrow?,hi just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled [SIGN_OFF] jake,is there a lecture tomorrow? [SEP] hi just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled [SIGN_OFF] jake,['timetabling'],1,0,0,0,0,0,1,[5]
+Module Registration Issue,"Dear Dr Smith,
+
+I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this?
+
+Thank you,
+Sarah Thompson",Module Registration Issue,"Dear Dr Smith,
+
+I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this?
+
+[SIGN_OFF]
+[PERSON]",Module Registration Issue,"Dear Dr Smith, I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this? [SIGN_OFF] [PERSON]","Module Registration Issue [SEP] Dear Dr Smith, I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+thx
+megan",can i use external libraries,"hi dr smith
+
+for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
+
+[SIGN_OFF]
+megan",can i use external libraries,hi dr smith for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries [SIGN_OFF] megan,can i use external libraries [SEP] hi dr smith for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries [SIGN_OFF] megan,['assessment'],1,0,1,0,0,0,0,[1]
+panic attacks before exams,"hi dr smith
+
+i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long
+
+im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety??
+
+sorry for oversharing
+hannah",panic attacks before exams,"hi dr smith
+
+i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long
+
+im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety??
+
+sorry for oversharing
+hannah",panic attacks before exams,hi dr smith i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety?? sorry for oversharing hannah,panic attacks before exams [SEP] hi dr smith i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety?? sorry for oversharing hannah,['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Reference Request,"Dear Dr Smith,
+
+I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities.
+
+If you're happy to do this, I can send you the details of where to submit it.
+
+Many thanks,
+Isla Ferguson",Reference Request,"Dear Dr Smith,
+
+I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities.
+
+If you're happy to do this, I can send you the details of where to submit it.
+
+[SIGN_OFF]
+[PERSON]",Reference Request,"Dear Dr Smith, I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities. If you're happy to do this, I can send you the details of where to submit it. [SIGN_OFF] [PERSON]","Reference Request [SEP] Dear Dr Smith, I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities. If you're happy to do this, I can send you the details of where to submit it. [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+Final Year Stress and Deadline Concerns,"Dear Dr Smith,
+
+I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well.
+
+I've spoken to the wellbeing team and they've suggested I talk to my module leaders about staggering deadlines. Is there any flexibility at all?
+
+I also wanted to ask whether the KV6003 viva can be done remotely — I have severe social anxiety and the thought of presenting in person is making everything worse.
+
+Thank you for listening.
+
+Amara",Final Year Stress and Deadline Concerns,"Dear Dr Smith,
+
+I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well.
+
+I've spoken to the wellbeing team and they've suggested I talk to my module leaders about staggering deadlines. Is there any flexibility at all?
+
+I also wanted to ask whether the KV6003 viva can be done remotely — I have severe social anxiety and the thought of presenting in person is making everything worse.
+
+[SIGN_OFF]
+
+Amara",Final Year Stress and Deadline Concerns,"Dear Dr Smith, I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well. I've spoken to the wellbeing team and they've suggested I talk to my module leaders about staggering deadlines. Is there any flexibility at all? I also wanted to ask whether the KV6003 viva can be done remotely — I have severe social anxiety and the thought of presenting in person is making everything worse. [SIGN_OFF] Amara","Final Year Stress and Deadline Concerns [SEP] Dear Dr Smith, I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well. I've spoken to the wellbeing team and they've suggested I talk to my module leaders about staggering deadlines. Is there any flexibility at all? I also wanted to ask whether the KV6003 viva can be done remotely — I have severe social anxiety and the thought of presenting in person is making everything worse. [SIGN_OFF] Amara","['assessment', 'extenuating_circumstances', 'timetabling']",3,0,1,1,0,0,1,"[1, 2, 5]"
+Quick Q about referencing,"hi
+
+do we need to use harvard referencing or can we use APA? the brief doesnt say
+
+cheers
+ben",Quick Q about referencing,"hi
+
+do we need to use harvard referencing or can we use APA? the brief doesnt say
+
+[SIGN_OFF]
+ben",Quick Q about referencing,hi do we need to use harvard referencing or can we use APA? the brief doesnt say [SIGN_OFF] ben,Quick Q about referencing [SEP] hi do we need to use harvard referencing or can we use APA? the brief doesnt say [SIGN_OFF] ben,['assessment'],1,0,1,0,0,0,0,[1]
+Data Protection Query - Project Data,"Dear Dr Smith,
+
+For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this.
+
+Could you advise or point me to the right person?
+
+Kind regards,
+Amara Okafor",Data Protection Query - Project Data,"Dear Dr Smith,
+
+For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this.
+
+Could you advise or point me to the right person?
+
+[SIGN_OFF]
+Amara Okafor",Data Protection Query - Project Data,"Dear Dr Smith, For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this. Could you advise or point me to the right person? [SIGN_OFF] Amara Okafor","Data Protection Query - Project Data [SEP] Dear Dr Smith, For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this. Could you advise or point me to the right person? [SIGN_OFF] Amara Okafor",['admin'],1,1,0,0,0,0,0,[0]
+feedback meeting request,"hi dr smith
+
+is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help
+
+when are u free this week or next
+
+cheers
+james",feedback meeting request,"hi dr smith
+
+is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help
+
+when are u free this week or next
+
+[SIGN_OFF]
+james",feedback meeting request,hi dr smith is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help when are u free this week or next [SIGN_OFF] james,feedback meeting request [SEP] hi dr smith is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help when are u free this week or next [SIGN_OFF] james,['feedback'],1,0,0,0,1,0,0,[3]
+Academic Misconduct - Code Similarity,"Dear Dr Smith,
+
+I've received a notification that my KV5002 submission has been flagged for code similarity with another student. I want to assure you that I did not copy anyone's work. We may have used similar approaches because we attended the same tutorial and followed the same examples.
+
+Could you advise on what happens next? I'm very worried about this.
+
+Regards,
+Nina Patel",Academic Misconduct - Code Similarity,"Dear Dr Smith,
+
+I've received a notification that my KV5002 submission has been flagged for code similarity with another student. I want to assure you that I did not copy anyone's work. We may have used similar approaches because we attended the same tutorial and followed the same examples.
+
+Could you advise on what happens next? I'm very worried about this.
+
+[SIGN_OFF]
+[PERSON]",Academic Misconduct - Code Similarity,"Dear Dr Smith, I've received a notification that my KV5002 submission has been flagged for code similarity with another student. I want to assure you that I did not copy anyone's work. We may have used similar approaches because we attended the same tutorial and followed the same examples. Could you advise on what happens next? I'm very worried about this. [SIGN_OFF] [PERSON]","Academic Misconduct - Code Similarity [SEP] Dear Dr Smith, I've received a notification that my KV5002 submission has been flagged for code similarity with another student. I want to assure you that I did not copy anyone's work. We may have used similar approaches because we attended the same tutorial and followed the same examples. Could you advise on what happens next? I'm very worried about this. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+kv6003 tools and software list,"hi
+
+is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else??
+
+also do we need a specific version of scikit-learn
+
+thx
+tom",kv6003 tools and software list,"hi
+
+is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else??
+
+also do we need a specific version of scikit-learn
+
+[SIGN_OFF]
+tom",kv6003 tools and software list,hi is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else?? also do we need a specific version of scikit-learn [SIGN_OFF] tom,kv6003 tools and software list [SEP] hi is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else?? also do we need a specific version of scikit-learn [SIGN_OFF] tom,['resources'],1,0,0,0,0,1,0,[4]
+student finance letter,"hi dr smith
+
+student finance are asking for a letter from the university confirming im still a full time student and that im attending. apparently my attendance records look low but thats because the scanning thing doesnt work half the time. can u write something confirming im enrolled and attending
+
+they need it by friday pls
+
+thx
+tyler",student finance letter,"hi dr smith
+
+student finance are asking for a letter from the university confirming im still a full time student and that im attending. apparently my attendance records look low but thats because the scanning thing doesnt work half the time. can u write something confirming im enrolled and attending
+
+they need it by friday pls
+
+[SIGN_OFF]
+[SIGN_OFF]",student finance letter,hi dr smith student finance are asking for a letter from the university confirming im still a full time student and that im attending. apparently my attendance records look low but thats because the scanning thing doesnt work half the time. can u write something confirming im enrolled and attending they need it by friday pls [SIGN_OFF] [SIGN_OFF],student finance letter [SEP] hi dr smith student finance are asking for a letter from the university confirming im still a full time student and that im attending. apparently my attendance records look low but thats because the scanning thing doesnt work half the time. can u write something confirming im enrolled and attending they need it by friday pls [SIGN_OFF] [SIGN_OFF],['admin'],1,1,0,0,0,0,0,[0]

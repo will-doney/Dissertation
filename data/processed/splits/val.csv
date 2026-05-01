@@ -1,0 +1,582 @@
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids
+medication side effects,"hi dr smith
+
+ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines
+
+can i apply for EC for side effects?? its not like im choosing to feel this way
+
+thx
+will",medication side effects,"hi dr smith
+
+ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines
+
+can i apply for EC for side effects?? its not like im choosing to feel this way
+
+[SIGN_OFF]
+will",medication side effects,hi dr smith ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines can i apply for EC for side effects?? its not like im choosing to feel this way [SIGN_OFF] will,medication side effects [SEP] hi dr smith ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines can i apply for EC for side effects?? its not like im choosing to feel this way [SIGN_OFF] will,['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+KV5002 Assignment - What Format for Code?,"Dear Dr Smith,
+
+Quick question about the KV5002 assignment submission. Should we submit our code as .py files or as a Jupyter notebook? The brief seems to mention both and I want to get it right.
+
+Thank you,
+Ellie Saunders",KV5002 Assignment - What Format for Code?,"Dear Dr Smith,
+
+Quick question about the KV5002 assignment submission. Should we submit our code as .py files or as a Jupyter notebook? The brief seems to mention both and I want to get it right.
+
+[SIGN_OFF]
+[PERSON]",KV5002 Assignment - What Format for Code?,"Dear Dr Smith, Quick question about the KV5002 assignment submission. Should we submit our code as .py files or as a Jupyter notebook? The brief seems to mention both and I want to get it right. [SIGN_OFF] [PERSON]","KV5002 Assignment - What Format for Code? [SEP] Dear Dr Smith, Quick question about the KV5002 assignment submission. Should we submit our code as .py files or as a Jupyter notebook? The brief seems to mention both and I want to get it right. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Letter for Visa Application,"Dear Dr Smith,
+
+I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department.
+
+Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive.
+
+Thank you very much,
+Fatima Al-Rashid",Letter for Visa Application,"Dear Dr Smith,
+
+I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department.
+
+Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive.
+
+[SIGN_OFF]
+[PERSON]",Letter for Visa Application,"Dear Dr Smith, I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department. Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive. [SIGN_OFF] [PERSON]","Letter for Visa Application [SEP] Dear Dr Smith, I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department. Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive. [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+double booked rooms??,"hi
+
+i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us
+
+can this be communicated better in future pls
+
+sam",double booked rooms??,"hi
+
+i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us
+
+can this be communicated better in future pls
+
+sam",double booked rooms??,hi i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us can this be communicated better in future pls sam,double booked rooms?? [SEP] hi i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us can this be communicated better in future pls sam,['timetabling'],1,0,0,0,0,0,1,[5]
+disappointed with mark,"hi
+
+got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating
+
+i dont even know if its worth requesting feedback because nothing ever changes
+
+whatever
+liam",disappointed with mark,"hi
+
+got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating
+
+i dont even know if its worth requesting feedback because nothing ever changes
+
+whatever
+liam",disappointed with mark,hi got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating i dont even know if its worth requesting feedback because nothing ever changes whatever liam,disappointed with mark [SEP] hi got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating i dont even know if its worth requesting feedback because nothing ever changes whatever liam,['feedback'],1,0,0,0,1,0,0,[3]
+Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is W21038475.
+
+Thanks,
+Fatima Al-Rashid",Submission Confirmation,"Hi,
+
+Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID].
+
+[SIGN_OFF]
+[PERSON]",Submission Confirmation,"Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF] [PERSON]","Submission Confirmation [SEP] Hi, Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is [STUDENT_ID]. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+thx
+connor",attendance query,"hi
+
+i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
+
+[SIGN_OFF]
+connor",attendance query,hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,attendance query [SEP] hi i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records [SIGN_OFF] connor,['admin'],1,1,0,0,0,0,0,[0]
+Turnitin Feedback Not Visible,"Dear Dr Smith,
+
+I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache.
+
+Is there an alternative way to access my feedback?
+
+Thanks,
+Grace Li",Turnitin Feedback Not Visible,"Dear Dr Smith,
+
+I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache.
+
+Is there an alternative way to access my feedback?
+
+[SIGN_OFF]
+[PERSON]",Turnitin Feedback Not Visible,"Dear Dr Smith, I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache. Is there an alternative way to access my feedback? [SIGN_OFF] [PERSON]","Turnitin Feedback Not Visible [SEP] Dear Dr Smith, I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache. Is there an alternative way to access my feedback? [SIGN_OFF] [PERSON]",['feedback'],1,0,0,0,1,0,0,[3]
+family emergency back home,"hi dr smith
+
+im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline
+
+i dont know what to do. what are my options??
+
+thanks
+james",family emergency back home,"hi dr smith
+
+im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline
+
+i dont know what to do. what are my options??
+
+[SIGN_OFF]
+james",family emergency back home,hi dr smith im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline i dont know what to do. what are my options?? [SIGN_OFF] james,family emergency back home [SEP] hi dr smith im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline i dont know what to do. what are my options?? [SIGN_OFF] james,['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Bank Holiday Monday - Is There a Lecture?,"Hi,
+
+Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it.
+
+Thanks,
+Hannah Wright",Bank Holiday Monday - Is There a Lecture?,"Hi,
+
+Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it.
+
+[SIGN_OFF]
+[PERSON]",Bank Holiday Monday - Is There a Lecture?,"Hi, Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it. [SIGN_OFF] [PERSON]","Bank Holiday Monday - Is There a Lecture? [SEP] Hi, Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it. [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+think my mark is wrong,"hi dr smith
+
+i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again??
+
+thx
+ryan",think my mark is wrong,"hi dr smith
+
+i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again??
+
+[SIGN_OFF]
+ryan",think my mark is wrong,hi dr smith i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again?? [SIGN_OFF] ryan,think my mark is wrong [SEP] hi dr smith i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again?? [SIGN_OFF] ryan,['feedback'],1,0,0,0,1,0,0,[3]
+assignment help,"hi
+
+just wondering when the assignment is due?? i think its next week but not sure lol
+
+cheers",assignment help,"hi
+
+just wondering when the assignment is due?? i think its next week but not sure lol
+
+[SIGN_OFF]",assignment help,hi just wondering when the assignment is due?? i think its next week but not sure lol [SIGN_OFF],assignment help [SEP] hi just wondering when the assignment is due?? i think its next week but not sure lol [SIGN_OFF],['assessment'],1,0,1,0,0,0,0,[1]
+Room Change for KV4006?,"Dear Dr Smith,
+
+I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything.
+
+Could you confirm the correct room?
+
+Thanks,
+David Kim",Room Change for KV4006?,"Dear Dr Smith,
+
+I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything.
+
+Could you confirm the correct room?
+
+[SIGN_OFF]
+[PERSON]",Room Change for KV4006?,"Dear Dr Smith, I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything. Could you confirm the correct room? [SIGN_OFF] [PERSON]","Room Change for KV4006? [SEP] Dear Dr Smith, I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything. Could you confirm the correct room? [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+Mitigating Circumstances Panel Outcome,"Dear Dr Smith,
+
+I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline?
+
+Could you help me understand what happens next?
+
+Thanks,
+Tom Wilson",Mitigating Circumstances Panel Outcome,"Dear Dr Smith,
+
+I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline?
+
+Could you help me understand what happens next?
+
+[SIGN_OFF]
+[PERSON]",Mitigating Circumstances Panel Outcome,"Dear Dr Smith, I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline? Could you help me understand what happens next? [SIGN_OFF] [PERSON]","Mitigating Circumstances Panel Outcome [SEP] Dear Dr Smith, I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline? Could you help me understand what happens next? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+Re: KV4006 Coursework - Additional Question,"Hi Dr Smith,
+
+Thanks for your response earlier about the database schema requirements. I have one more question — do we need to include test data in our submission or just the empty schema with the SQL scripts?
+
+Also, is there a specific naming convention you want us to follow for the tables?
+
+Regards,
+Sophie Green",Re: KV4006 Coursework - Additional Question,"Hi [PERSON],
+
+[SIGN_OFF]
+
+Also, is there a specific naming convention you want us to follow for the tables?
+
+[SIGN_OFF]
+Sophie Green",Re: KV4006 Coursework - Additional Question,"Hi [PERSON], [SIGN_OFF] Also, is there a specific naming convention you want us to follow for the tables? [SIGN_OFF] Sophie Green","Re: KV4006 Coursework - Additional Question [SEP] Hi [PERSON], [SIGN_OFF] Also, is there a specific naming convention you want us to follow for the tables? [SIGN_OFF] Sophie Green",['assessment'],1,0,1,0,0,0,0,[1]
+feeling really overwhelmed,"hi dr smith
+
+i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant
+
+i dont know what to ask for i just wanted someone to know
+
+sorry
+connor",feeling really overwhelmed,"hi dr smith
+
+i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant
+
+i dont know what to ask for i just wanted someone to know
+
+sorry
+connor",feeling really overwhelmed,hi dr smith i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant i dont know what to ask for i just wanted someone to know sorry connor,feeling really overwhelmed [SEP] hi dr smith i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant i dont know what to ask for i just wanted someone to know sorry connor,['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Do I Need to Declare ChatGPT Use?,"Dear Dr Smith,
+
+I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools?
+
+Thank you,
+Olivia Hughes",Do I Need to Declare ChatGPT Use?,"Dear Dr Smith,
+
+I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools?
+
+[SIGN_OFF]
+[PERSON]",Do I Need to Declare ChatGPT Use?,"Dear Dr Smith, I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools? [SIGN_OFF] [PERSON]","Do I Need to Declare ChatGPT Use? [SEP] Dear Dr Smith, I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools? [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+wrong timetable i think,"hi dr smith
+
+so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real
+
+lol sorry
+josh",wrong timetable i think,"hi dr smith
+
+so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real
+
+lol sorry
+josh",wrong timetable i think,hi dr smith so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real lol sorry josh,wrong timetable i think [SEP] hi dr smith so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real lol sorry josh,['timetabling'],1,0,0,0,0,0,1,[5]
+cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+cheers
+jake",cant access blackboard,"hi
+
+blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
+
+its been like this for 3 days now and im missing stuff
+
+[SIGN_OFF]
+jake",cant access blackboard,hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff [SIGN_OFF] jake,cant access blackboard [SEP] hi blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT?? its been like this for 3 days now and im missing stuff [SIGN_OFF] jake,['resources'],1,0,0,0,0,1,0,[4]
+need help with loads of stuff,"hi
+
+ok so basically everything is going wrong with kv6003 right now:
+- my python code keeps crashing and i dont know why
+- i cant find the dataset format requirements anywhere
+- ive been really anxious and havent been sleeping
+- also i think i might have submitted the wrong file for the interim report
+
+can i come see u in office hours this week??
+
+thx
+josh",need help with loads of stuff,"hi
+
+ok so basically everything is going wrong with kv6003 right now:
+- my python code keeps crashing and i dont know why
+- i cant find the dataset format requirements anywhere
+- ive been really anxious and havent been sleeping
+- also i think i might have submitted the wrong file for the interim report
+
+can i come see u in office hours this week??
+
+[SIGN_OFF]
+josh",need help with loads of stuff,hi ok so basically everything is going wrong with kv6003 right now: - my python code keeps crashing and i dont know why - i cant find the dataset format requirements anywhere - ive been really anxious and havent been sleeping - also i think i might have submitted the wrong file for the interim report can i come see u in office hours this week?? [SIGN_OFF] josh,need help with loads of stuff [SEP] hi ok so basically everything is going wrong with kv6003 right now: - my python code keeps crashing and i dont know why - i cant find the dataset format requirements anywhere - ive been really anxious and havent been sleeping - also i think i might have submitted the wrong file for the interim report can i come see u in office hours this week?? [SIGN_OFF] josh,"['assessment', 'extenuating_circumstances', 'resources']",3,0,1,1,0,1,0,"[1, 2, 4]"
+Timetable Clash - KV5002 and KV4006,"Dear Dr Smith,
+
+I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions.
+
+Could you advise on what I should do? Is there an alternative session for either module?
+
+Thank you,
+Sarah Thompson",Timetable Clash - KV5002 and KV4006,"Dear Dr Smith,
+
+I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions.
+
+Could you advise on what I should do? Is there an alternative session for either module?
+
+[SIGN_OFF]
+[PERSON]",Timetable Clash - KV5002 and KV4006,"Dear Dr Smith, I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions. Could you advise on what I should do? Is there an alternative session for either module? [SIGN_OFF] [PERSON]","Timetable Clash - KV5002 and KV4006 [SEP] Dear Dr Smith, I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions. Could you advise on what I should do? Is there an alternative session for either module? [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+Exam Venue Confirmation,"Dear Dr Smith,
+
+The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration?
+
+Thank you,
+Ellie Saunders",Exam Venue Confirmation,"Dear Dr Smith,
+
+The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration?
+
+[SIGN_OFF]
+[PERSON]",Exam Venue Confirmation,"Dear Dr Smith, The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration? [SIGN_OFF] [PERSON]","Exam Venue Confirmation [SEP] Dear Dr Smith, The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration? [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+Resit Preparation and Timetable Query,"Dear Dr Smith,
+
+I'm preparing for the KV4006 resit and I have two questions:
+
+1. Is the resit exam the same format as the original (2-hour written exam with SQL questions)? Or has it changed?
+2. The resit timetable hasn't been published yet. Do you know approximately when it will be available?
+
+I want to start revising effectively.
+
+Thank you,
+Marcus Johnson",Resit Preparation and Timetable Query,"Dear Dr Smith,
+
+I'm preparing for the KV4006 resit and I have two questions:
+
+1. Is the resit exam the same format as the original (2-hour written exam with SQL questions)? Or has it changed?
+2. The resit timetable hasn't been published yet. Do you know approximately when it will be available?
+
+I want to start revising effectively.
+
+[SIGN_OFF]
+[PERSON]",Resit Preparation and Timetable Query,"Dear Dr Smith, I'm preparing for the KV4006 resit and I have two questions: 1. Is the resit exam the same format as the original (2-hour written exam with SQL questions)? Or has it changed? 2. The resit timetable hasn't been published yet. Do you know approximately when it will be available? I want to start revising effectively. [SIGN_OFF] [PERSON]","Resit Preparation and Timetable Query [SEP] Dear Dr Smith, I'm preparing for the KV4006 resit and I have two questions: 1. Is the resit exam the same format as the original (2-hour written exam with SQL questions)? Or has it changed? 2. The resit timetable hasn't been published yet. Do you know approximately when it will be available? I want to start revising effectively. [SIGN_OFF] [PERSON]","['assessment', 'timetabling']",2,0,1,0,0,0,1,"[1, 5]"
+Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+Thank you,
+Chloe Martinez",Joint Honours Module Confusion,"Dear Dr Smith,
+
+I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
+
+Could we discuss possible options?
+
+[SIGN_OFF]
+[PERSON]",Joint Honours Module Confusion,"Dear Dr Smith, I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? [SIGN_OFF] [PERSON]","Joint Honours Module Confusion [SEP] Dear Dr Smith, I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements. Could we discuss possible options? [SIGN_OFF] [PERSON]",['admin'],1,1,0,0,0,0,0,[0]
+URGENT - Multiple Issues,"HI DR SMITH
+
+I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO.
+
+1. I MISSED THE KV5002 SUBMISSION DEADLINE BECAUSE I WAS IN HOSPITAL
+2. I STILL HAVENT GOT MY KV4006 MARK BACK FROM LAST MONTH
+3. MY TIMETABLE IS SHOWING THE WRONG SEMINAR GROUP
+4. I CANT ACCESS THE KV6003 BLACKBOARD PAGE
+
+PLEASE HELP IM SO STRESSED
+
+MICHAEL",URGENT - Multiple Issues,"HI DR SMITH
+
+I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO.
+
+1. I MISSED THE KV5002 SUBMISSION DEADLINE BECAUSE I WAS IN HOSPITAL
+2. I STILL HAVENT GOT MY KV4006 MARK BACK FROM LAST MONTH
+3. MY TIMETABLE IS SHOWING THE WRONG SEMINAR GROUP
+4. I CANT ACCESS THE KV6003 BLACKBOARD PAGE
+
+PLEASE HELP IM SO STRESSED
+
+MICHAEL",URGENT - Multiple Issues,HI DR SMITH I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO. 1. I MISSED THE KV5002 SUBMISSION DEADLINE BECAUSE I WAS IN HOSPITAL 2. I STILL HAVENT GOT MY KV4006 MARK BACK FROM LAST MONTH 3. MY TIMETABLE IS SHOWING THE WRONG SEMINAR GROUP 4. I CANT ACCESS THE KV6003 BLACKBOARD PAGE PLEASE HELP IM SO STRESSED MICHAEL,URGENT - Multiple Issues [SEP] HI DR SMITH I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO. 1. I MISSED THE KV5002 SUBMISSION DEADLINE BECAUSE I WAS IN HOSPITAL 2. I STILL HAVENT GOT MY KV4006 MARK BACK FROM LAST MONTH 3. MY TIMETABLE IS SHOWING THE WRONG SEMINAR GROUP 4. I CANT ACCESS THE KV6003 BLACKBOARD PAGE PLEASE HELP IM SO STRESSED MICHAEL,"['admin', 'extenuating_circumstances', 'feedback', 'resources']",4,1,0,1,1,1,0,"[0, 2, 3, 4]"
+week 7 workshop handout,"hi
+
+did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard??
+
+ta
+poppy",week 7 workshop handout,"hi
+
+did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard??
+
+ta
+poppy",week 7 workshop handout,hi did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard?? ta poppy,week 7 workshop handout [SEP] hi did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard?? ta poppy,['resources'],1,0,0,0,0,1,0,[4]
+KV5002 Group Project - Multiple Concerns,"Dear Dr Smith,
+
+I'm writing about several concerns with the KV5002 group project:
+
+1. One of our group members (I'd rather not name them in email) has not contributed and isn't responding to messages. What's the process for reporting this?
+2. We're unsure whether our project topic has been approved — we submitted the proposal form two weeks ago but haven't heard back.
+3. The group presentation is scheduled for Week 11 but two of us have a clash with a KV4006 lab session. Can we present at a different time?
+
+Apologies for the lengthy email.
+
+Best regards,
+Sophie Green",KV5002 Group Project - Multiple Concerns,"Dear Dr Smith,
+
+I'm writing about several concerns with the KV5002 group project:
+
+1. One of our group members (I'd rather not name them in email) has not contributed and isn't responding to messages. What's the process for reporting this?
+2. We're unsure whether our project topic has been approved — we submitted the proposal form two weeks ago but haven't heard back.
+3. The group presentation is scheduled for Week 11 but two of us have a clash with a KV4006 lab session. Can we present at a different time?
+
+Apologies for the lengthy email.
+
+Best regards,
+Sophie Green",KV5002 Group Project - Multiple Concerns,"Dear Dr Smith, I'm writing about several concerns with the KV5002 group project: 1. One of our group members (I'd rather not name them in email) has not contributed and isn't responding to messages. What's the process for reporting this? 2. We're unsure whether our project topic has been approved — we submitted the proposal form two weeks ago but haven't heard back. 3. The group presentation is scheduled for Week 11 but two of us have a clash with a KV4006 lab session. Can we present at a different time? Apologies for the lengthy email. Best regards, Sophie Green","KV5002 Group Project - Multiple Concerns [SEP] Dear Dr Smith, I'm writing about several concerns with the KV5002 group project: 1. One of our group members (I'd rather not name them in email) has not contributed and isn't responding to messages. What's the process for reporting this? 2. We're unsure whether our project topic has been approved — we submitted the proposal form two weeks ago but haven't heard back. 3. The group presentation is scheduled for Week 11 but two of us have a clash with a KV4006 lab session. Can we present at a different time? Apologies for the lengthy email. Best regards, Sophie Green","['admin', 'assessment', 'timetabling']",3,1,1,0,0,0,1,"[0, 1, 5]"
+coming back after illness and need help,"hi dr smith
+
+ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002
+
+i need to know:
+- whats been covered in lectures since week 6
+- is the assignment deadline still the same or did it change
+- are the recordings on panopto available for the sessions i missed
+
+also my attendance is going to look bad — does the EC form cover that??
+
+thx
+poppy",coming back after illness and need help,"hi dr smith
+
+ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002
+
+i need to know:
+- whats been covered in lectures since week 6
+- is the assignment deadline still the same or did it change
+- are the recordings on panopto available for the sessions i missed
+
+also my attendance is going to look bad — does the EC form cover that??
+
+[SIGN_OFF]
+poppy",coming back after illness and need help,hi dr smith ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002 i need to know: - whats been covered in lectures since week 6 - is the assignment deadline still the same or did it change - are the recordings on panopto available for the sessions i missed also my attendance is going to look bad — does the EC form cover that?? [SIGN_OFF] poppy,coming back after illness and need help [SEP] hi dr smith ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002 i need to know: - whats been covered in lectures since week 6 - is the assignment deadline still the same or did it change - are the recordings on panopto available for the sessions i missed also my attendance is going to look bad — does the EC form cover that?? [SIGN_OFF] poppy,"['admin', 'assessment', 'extenuating_circumstances', 'resources']",4,1,1,1,0,1,0,"[0, 1, 2, 4]"
+Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+Best wishes,
+Hannah Wright",Assignment Brief Clarification KV5002,"Dear Dr Smith,
+
+Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
+
+Any clarification would be really helpful.
+
+[SIGN_OFF]
+[PERSON]",Assignment Brief Clarification KV5002,"Dear Dr Smith, Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. [SIGN_OFF] [PERSON]","Assignment Brief Clarification KV5002 [SEP] Dear Dr Smith, Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach? Any clarification would be really helpful. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+proof of enrollment for gym membership,"hi
+
+bit of a random one but the gym near me offers a student discount and they want proof of enrollment. where do i get that from?? is it something u can provide or do i need to go to student services
+
+thx
+will",proof of enrollment for gym membership,"hi
+
+bit of a random one but the gym near me offers a student discount and they want proof of enrollment. where do i get that from?? is it something u can provide or do i need to go to student services
+
+[SIGN_OFF]
+will",proof of enrollment for gym membership,hi bit of a random one but the gym near me offers a student discount and they want proof of enrollment. where do i get that from?? is it something u can provide or do i need to go to student services [SIGN_OFF] will,proof of enrollment for gym membership [SEP] hi bit of a random one but the gym near me offers a student discount and they want proof of enrollment. where do i get that from?? is it something u can provide or do i need to go to student services [SIGN_OFF] will,['admin'],1,1,0,0,0,0,0,[0]
+kv5002 stuff,"hi dr smith
+
+few things:
+- when is the assignment due again?
+- also i cant find the slides from week 5 on blackboard
+- and my attendance is showing wrong can u fix it
+
+thx
+jake",kv5002 stuff,"hi dr smith
+
+few things:
+- when is the assignment due again?
+- also i cant find the slides from week 5 on blackboard
+- and my attendance is showing wrong can u fix it
+
+[SIGN_OFF]
+jake",kv5002 stuff,hi dr smith few things: - when is the assignment due again? - also i cant find the slides from week 5 on blackboard - and my attendance is showing wrong can u fix it [SIGN_OFF] jake,kv5002 stuff [SEP] hi dr smith few things: - when is the assignment due again? - also i cant find the slides from week 5 on blackboard - and my attendance is showing wrong can u fix it [SIGN_OFF] jake,"['admin', 'assessment', 'resources']",3,1,1,0,0,1,0,"[0, 1, 4]"
+Few Things About KV6003,"Dear Dr Smith,
+
+I hope you're well. I have a few things I wanted to ask about KV6003:
+
+1. Could you confirm the deadline for the final project submission? Blackboard says May 7th but the module handbook says May 6th.
+2. I'm struggling to find relevant papers for my literature review — could you recommend any journals or databases I should be searching?
+3. Are we allowed to use ChatGPT to help with debugging our code, and if so, how do we reference it?
+
+Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones.
+
+Kind regards,
+Olivia Hughes",Few Things About KV6003,"Dear Dr Smith,
+
+I hope you're well. I have a few things I wanted to ask about KV6003:
+
+1. Could you confirm the deadline for the final project submission? Blackboard says May 7th but the module handbook says May 6th.
+2. I'm struggling to find relevant papers for my literature review — could you recommend any journals or databases I should be searching?
+3. Are we allowed to use ChatGPT to help with debugging our code, and if so, how do we reference it?
+
+Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones.
+
+[SIGN_OFF]
+[PERSON]",Few Things About KV6003,"Dear Dr Smith, I hope you're well. I have a few things I wanted to ask about KV6003: 1. Could you confirm the deadline for the final project submission? Blackboard says May 7th but the module handbook says May 6th. 2. I'm struggling to find relevant papers for my literature review — could you recommend any journals or databases I should be searching? 3. Are we allowed to use ChatGPT to help with debugging our code, and if so, how do we reference it? Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones. [SIGN_OFF] [PERSON]","Few Things About KV6003 [SEP] Dear Dr Smith, I hope you're well. I have a few things I wanted to ask about KV6003: 1. Could you confirm the deadline for the final project submission? Blackboard says May 7th but the module handbook says May 6th. 2. I'm struggling to find relevant papers for my literature review — could you recommend any journals or databases I should be searching? 3. Are we allowed to use ChatGPT to help with debugging our code, and if so, how do we reference it? Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones. [SIGN_OFF] [PERSON]","['assessment', 'resources']",2,0,1,0,0,1,0,"[1, 4]"
+lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,"hiya
+
+do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
+
+ta
+megan",lab session times,hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,lab session times [SEP] hiya do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing ta megan,['timetabling'],1,0,0,0,0,0,1,[5]
+KV6003 Deadline Confirmation,"Dear Dr Smith,
+
+Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late.
+
+Thank you,
+Hannah Wright",KV6003 Deadline Confirmation,"Dear Dr Smith,
+
+Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late.
+
+[SIGN_OFF]
+[PERSON]",KV6003 Deadline Confirmation,"Dear Dr Smith, Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late. [SIGN_OFF] [PERSON]","KV6003 Deadline Confirmation [SEP] Dear Dr Smith, Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]
+Housing Issues Affecting Studies,"Dear Dr Smith,
+
+I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month.
+
+I have documentation from the Citizens Advice Bureau. Would this be accepted as evidence for an extenuating circumstances claim?
+
+Thank you for any guidance.
+
+Kind regards,
+David Kim",Housing Issues Affecting Studies,"Dear Dr Smith,
+
+I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month.
+
+I have documentation from the Citizens Advice Bureau. Would this be accepted as evidence for an extenuating circumstances claim?
+
+[SIGN_OFF]
+
+[SIGN_OFF]
+[PERSON]",Housing Issues Affecting Studies,"Dear Dr Smith, I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month. I have documentation from the Citizens Advice Bureau. Would this be accepted as evidence for an extenuating circumstances claim? [SIGN_OFF] [SIGN_OFF] [PERSON]","Housing Issues Affecting Studies [SEP] Dear Dr Smith, I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month. I have documentation from the Citizens Advice Bureau. Would this be accepted as evidence for an extenuating circumstances claim? [SIGN_OFF] [SIGN_OFF] [PERSON]",['extenuating_circumstances'],1,0,0,1,0,0,0,[2]
+Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith,
+
+Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes.
+
+Additionally, are the session times the same as Semester 1?
+
+Thank you for clarifying.
+
+Regards,
+Priya Patel",Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith,
+
+Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes.
+
+Additionally, are the session times the same as Semester 1?
+
+[SIGN_OFF]
+
+[SIGN_OFF]
+[PERSON]",Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith, Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes. Additionally, are the session times the same as Semester 1? [SIGN_OFF] [SIGN_OFF] [PERSON]","Semester 2 Start Dates and KV5002 Schedule [SEP] Dear Dr Smith, Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes. Additionally, are the session times the same as Semester 1? [SIGN_OFF] [SIGN_OFF] [PERSON]",['timetabling'],1,0,0,0,0,0,1,[5]
+kv4006 exam timetable,"when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap
+
+dan",kv4006 exam timetable,"when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap
+
+dan",kv4006 exam timetable,when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap dan,kv4006 exam timetable [SEP] when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap dan,['timetabling'],1,0,0,0,0,0,1,[5]
+kv4006 and kv5002 problems,"hi dr smith
+
+two separate things sorry:
+
+for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisation issues' but i thought i normalised it to 3NF. can u explain what was wrong??
+
+for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either
+
+thx
+dan",kv4006 and kv5002 problems,"hi dr smith
+
+two separate things sorry:
+
+for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisation issues' but i thought i normalised it to 3NF. can u explain what was wrong??
+
+for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either
+
+[SIGN_OFF]
+dan",kv4006 and kv5002 problems,hi dr smith two separate things sorry: for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisation issues' but i thought i normalised it to 3NF. can u explain what was wrong?? for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either [SIGN_OFF] dan,kv4006 and kv5002 problems [SEP] hi dr smith two separate things sorry: for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisation issues' but i thought i normalised it to 3NF. can u explain what was wrong?? for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either [SIGN_OFF] dan,"['feedback', 'resources']",2,0,0,0,1,1,0,"[3, 4]"
+Assignment Resubmission,"Dear Dr Smith,
+
+I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final?
+
+Please advise urgently.
+
+Thanks,
+Alex Turner",Assignment Resubmission,"Dear Dr Smith,
+
+I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final?
+
+Please advise urgently.
+
+[SIGN_OFF]
+[PERSON]",Assignment Resubmission,"Dear Dr Smith, I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final? Please advise urgently. [SIGN_OFF] [PERSON]","Assignment Resubmission [SEP] Dear Dr Smith, I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final? Please advise urgently. [SIGN_OFF] [PERSON]",['assessment'],1,0,1,0,0,0,0,[1]

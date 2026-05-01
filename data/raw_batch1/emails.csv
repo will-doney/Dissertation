@@ -1,40 +1,40 @@
-email_id,subject,body,category,module,priority,multi_intent
-ASS_001,KV6003 Assignment 2 Deadline,"Dear Dr Smith,
+subject,body
+KV6003 Assignment 2 Deadline,"Dear Dr Smith,
 
 I hope this email finds you well. I am writing to enquire about the deadline for Assignment 2 in KV6003. I have checked Blackboard but I can only see the brief and not a confirmed submission date. Could you please clarify when this is due?
 
 Thank you for your time.
 
 Kind regards,
-Sarah Thompson",assessment,KV6003,medium,FALSE
-ASS_002,assignment help,"hi
+Sarah Thompson"
+assignment help,"hi
 
 just wondering when the assignment is due?? i think its next week but not sure lol
 
-cheers",assessment,,medium,FALSE
-ASS_003,KV5002 Coursework Submission Query,"Dear Lecturer,
+cheers"
+KV5002 Coursework Submission Query,"Dear Lecturer,
 
 I wanted to check — do we submit the KV5002 coursework through Turnitin on Blackboard or is there a separate submission link? I remember you mentioned something in the lecture but I wasn't sure.
 
 Also what is the file format? Can I submit a .zip or does it need to be a PDF?
 
 Thanks,
-James",assessment,KV5002,medium,TRUE
-ASS_004,URGENT - Extension Needed for Assignment,"Hi,
+James"
+URGENT - Extension Needed for Assignment,"Hi,
 
 I'm really struggling with the KV6003 assignment and I don't think I'll be able to submit on time. I've been working on it but I've had issues with my laptop breaking and I lost some of my work. Is there any way I can get an extension? Even a couple of days would help.
 
 Sorry for the late notice.
 
 Thanks,
-Amir Hussain",assessment,KV6003,high,FALSE
-ASS_005,Re: Assignment 2,"hi miss
+Amir Hussain"
+Re: Assignment 2,"hi miss
 
 sorry to bother u again but i still dont understand what we need to do for section 3 of the assignment. i looked at the brief but its confusing. can u explain it simpler pls
 
 thx
-jake",assessment,,medium,FALSE
-ASS_006,Resit Information KV4006,"Dear Dr Smith,
+jake"
+Resit Information KV4006,"Dear Dr Smith,
 
 I unfortunately failed the KV4006 databases module last semester. Could you provide information on the resit process? Specifically:
 
@@ -45,51 +45,51 @@ I unfortunately failed the KV4006 databases module last semester. Could you prov
 I would appreciate any guidance you can offer.
 
 Best regards,
-Priya Patel",assessment,KV4006,high,FALSE
-ASS_007,word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
+Priya Patel"
+word count???,"does the 3000 word count include references and appendices or not?? need to know asap as im nearly done
 
-ty",assessment,,medium,FALSE
-ASS_008,KV5002 Assignment Feedback Request and Deadline Query,"Good afternoon,
+ty"
+KV5002 Assignment Feedback Request and Deadline Query,"Good afternoon,
 
 I was wondering whether feedback for Assignment 1 in KV5002 has been released yet? I submitted three weeks ago and haven't received anything on Turnitin.
 
 Additionally, I wanted to confirm the deadline for Assignment 2 — is it still Week 12 Friday at 2pm?
 
 Many thanks,
-Emily Chen",assessment,KV5002,medium,TRUE
-ASS_009,Plagiarism concern,"Dear Dr Smith,
+Emily Chen"
+Plagiarism concern,"Dear Dr Smith,
 
 I have a concern about my submission for KV6003. After submitting, my Turnitin similarity score came back at 34% and I'm worried this will be flagged as plagiarism. Most of the matches seem to be from the reference list and some common phrases. Should I be concerned? Is there someone I can speak to about this?
 
 I'm quite anxious about it.
 
 Regards,
-Tom Wilson",assessment,KV6003,high,FALSE
-ASS_010,can i change my topic,"hey
+Tom Wilson"
+can i change my topic,"hey
 
 so ive been working on my kv6003 project and tbh i dont think my topic is working out. is it too late to change it?? i know we agreed on it in the meeting but ive realised i cant find enough literature
 
 let me know
-dan",assessment,KV6003,high,FALSE
-ASS_011,Submission Confirmation,"Hi,
+dan"
+Submission Confirmation,"Hi,
 
 Just a quick one — I submitted my KV4006 assignment last night but didn't receive a confirmation email from Turnitin. Can you check if it went through? My student ID is W21038475.
 
 Thanks,
-Fatima Al-Rashid",assessment,KV4006,medium,FALSE
-ASS_012,Assignment Brief Clarification KV5002,"Dear Dr Smith,
+Fatima Al-Rashid"
+Assignment Brief Clarification KV5002,"Dear Dr Smith,
 
 Apologies for the email, I know you probably get asked this a lot. I'm looking at the KV5002 assignment brief and I'm unsure about the requirement for 'critical evaluation of your chosen methodology.' Does this mean I need to compare it against alternative methodologies, or just discuss the strengths and weaknesses of my chosen approach?
 
 Any clarification would be really helpful.
 
 Best wishes,
-Hannah Wright",assessment,KV5002,medium,FALSE
-ASS_013,late submission,"hi i submitted my kv4006 assignment 2 days late because i was ill. i didnt apply for extenuating circumstances because i didnt know i had to. is there anything i can do now or will i just get capped?
+Hannah Wright"
+late submission,"hi i submitted my kv4006 assignment 2 days late because i was ill. i didnt apply for extenuating circumstances because i didnt know i had to. is there anything i can do now or will i just get capped?
 
 sorry
-liam",assessment,KV4006,high,FALSE
-ASS_014,Group Project Concerns,"Dear Dr Smith,
+liam"
+Group Project Concerns,"Dear Dr Smith,
 
 I'm writing about the group project for KV5002. Unfortunately, one of our group members has not contributed anything and is not responding to our messages. We've tried contacting them through WhatsApp and email but they haven't replied in two weeks.
 
@@ -97,98 +97,98 @@ I don't want to get a lower mark because of this situation. What should we do? I
 
 Thank you,
 Chloe Martinez
-(Group 7)",assessment,KV5002,high,FALSE
-ASS_015,Quick Q about referencing,"hi
+(Group 7)"
+Quick Q about referencing,"hi
 
 do we need to use harvard referencing or can we use APA? the brief doesnt say
 
 cheers
-ben",assessment,,low,FALSE
-ASS_016,KV6003 Project Interim Report,"Dear Dr Smith,
+ben"
+KV6003 Project Interim Report,"Dear Dr Smith,
 
 Please find attached my interim report for KV6003. I wanted to submit it early to get your thoughts before the final deadline. I'm particularly unsure about my literature review section and whether I've covered enough ground.
 
 If you have time to provide some preliminary feedback, I would be very grateful. I understand you're busy so no rush.
 
 Kind regards,
-Olivia Hughes",assessment,KV6003,medium,FALSE
-ASS_017,HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+Olivia Hughes"
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
 
 REGARDS
-MICHAEL",assessment,,medium,TRUE
-ASS_018,Re: KV4006 Coursework - Additional Question,"Hi Dr Smith,
+MICHAEL"
+Re: KV4006 Coursework - Additional Question,"Hi Dr Smith,
 
 Thanks for your response earlier about the database schema requirements. I have one more question — do we need to include test data in our submission or just the empty schema with the SQL scripts?
 
 Also, is there a specific naming convention you want us to follow for the tables?
 
 Regards,
-Sophie Green",assessment,KV4006,medium,TRUE
-ASS_019,marking criteria,"where can i find the marking criteria for the kv5002 assignment?? ive looked on blackboard and cant see it anywhere. is it in the module handbook?
+Sophie Green"
+marking criteria,"where can i find the marking criteria for the kv5002 assignment?? ive looked on blackboard and cant see it anywhere. is it in the module handbook?
 
 ta
-ryan",assessment,KV5002,low,FALSE
-ASS_020,Academic Integrity Query,"Dear Dr Smith,
+ryan"
+Academic Integrity Query,"Dear Dr Smith,
 
 I have a question about academic integrity for the KV6003 project. I used ChatGPT to help me understand some concepts and to help debug some of my Python code. I want to be transparent about this — do I need to declare this usage? If so, how should I reference it in my report?
 
 I want to make sure I'm doing everything correctly.
 
 Many thanks,
-Zara Ahmed",assessment,KV6003,high,FALSE
-ASS_021,kv6003 assignmnet,"hi
+Zara Ahmed"
+kv6003 assignmnet,"hi
 
 sorry i no this has probably been asked before but whats the exact deadline for the kv6003 assignment?? is it the 7th or the 14th because blackboard says one thing and the brief says another
 
 confused lol
-josh",assessment,KV6003,medium,FALSE
-ASS_022,Disability Support for Exams,"Dear Dr Smith,
+josh"
+Disability Support for Exams,"Dear Dr Smith,
 
 I'm registered with Disability Services and have a Learning Support Plan that entitles me to 25% extra time in exams. I wanted to check that this has been applied to the KV4006 exam. Could you also confirm whether the exam is in person or online this year?
 
 I'd appreciate your help with this.
 
 Kind regards,
-Nathan Brooks",assessment,KV4006,high,TRUE
-ASS_023,can i use external libraries,"hi dr smith
+Nathan Brooks"
+can i use external libraries,"hi dr smith
 
 for the kv5002 coursework am i allowed to use external python libraries like pandas and numpy or do we have to write everything from scratch?? the brief just says 'implement in python' and doesnt mention libraries
 
 thx
-megan",assessment,KV5002,medium,FALSE
-ASS_024,Assignment Resubmission,"Dear Dr Smith,
+megan"
+Assignment Resubmission,"Dear Dr Smith,
 
 I submitted my KV4006 assignment earlier today but I've since noticed a significant error in my ER diagram. I've corrected it and would like to resubmit. Is this possible before the deadline passes, or does the first submission count as final?
 
 Please advise urgently.
 
 Thanks,
-Alex Turner",assessment,KV4006,high,FALSE
-ASS_025,not sure what im doing,"hiya
+Alex Turner"
+not sure what im doing,"hiya
 
 honestly im really lost with the kv6003 project. i dont even know where to start and ive been staring at the brief for hours. i picked a topic in my proposal but now i dont understand how to actually do it. i think i need a meeting with you to go through it because im panicking a bit
 
 sorry to be a pain
-katie",assessment,KV6003,high,FALSE
-ASS_026,Previous Year Papers,"Hi,
+katie"
+Previous Year Papers,"Hi,
 
 Are there any past exam papers available for KV4006? I'd like to use them for revision. I checked the library portal but couldn't find any.
 
 Thanks,
-David Kim",assessment,KV4006,low,FALSE
-ASS_027,Assignment 2 - Can I Use My Own Dataset?,"Dear Dr Smith,
+David Kim"
+Assignment 2 - Can I Use My Own Dataset?,"Dear Dr Smith,
 
 For Assignment 2 in KV5002, the brief mentions using the provided dataset. However, I have access to a more relevant dataset from my part-time job that I think would make for a more interesting analysis. Would it be acceptable to use this instead, or do we strictly need to use the one provided?
 
 I can provide details of the dataset if needed.
 
 Best regards,
-Isla Ferguson",assessment,KV5002,medium,FALSE
-ASS_028,pls help,"dr smith pls i need help with my assignment its due tomorrow and i havent started yet. i know i shouldve started earlier but i had other deadlines. is there any way i can get extra time?? even just a day??
+Isla Ferguson"
+pls help,"dr smith pls i need help with my assignment its due tomorrow and i havent started yet. i know i shouldve started earlier but i had other deadlines. is there any way i can get extra time?? even just a day??
 
 im so stressed rn
-connor",assessment,,high,FALSE
-ASS_029,Formal Request for Assessment Feedback - KV6003,"Dear Dr Smith,
+connor"
+Formal Request for Assessment Feedback - KV6003,"Dear Dr Smith,
 
 I am writing to formally request detailed feedback on my KV6003 Computing Project interim submission, which was returned to me on 15th March with a grade of 52%. While I appreciate the grade, the written feedback was quite brief and I am struggling to understand specifically where I lost marks.
 
@@ -201,44 +201,44 @@ I believe this will be essential for improving my final submission. I am happy t
 
 Yours sincerely,
 Rebecca Lawrence
-Student ID: W21045892",assessment,KV6003,medium,FALSE
-ASS_030,Re: Re: Re: Assignment Question,"hi again
+Student ID: W21045892"
+Re: Re: Re: Assignment Question,"hi again
 
 sorry to keep emailing but i still dont get it. you said to look at the week 8 lecture slides but i cant find them on blackboard. can u just tell me what format the report needs to be in?? like do u want subheadings or not
 
 sorry
-jake",assessment,,low,FALSE
-ASS_031,KV5002 Code Submission Format,"Dear Dr Smith,
+jake"
+KV5002 Code Submission Format,"Dear Dr Smith,
 
 For the KV5002 coursework, should we submit the code as a .py file or as a Jupyter notebook? The brief mentions both formats in different sections and I want to make sure I use the right one.
 
 Also, do we need to include a README file with instructions on how to run it?
 
 Thank you,
-Grace Li",assessment,KV5002,medium,TRUE
-ASS_032,failed and dont know what to do,"hi dr smith
+Grace Li"
+failed and dont know what to do,"hi dr smith
 
 i just got my kv4006 result back and ive failed with 35%. im devastated because i thought i did ok. i dont really understand what went wrong and i dont know if i should resit or retake the whole module
 
 what would u recommend??
 
 thx
-tyler",assessment,KV4006,high,FALSE
-ASS_033,KV6003 Ethical Approval Query,"Dear Dr Smith,
+tyler"
+KV6003 Ethical Approval Query,"Dear Dr Smith,
 
 I'm planning to include a short user survey as part of my KV6003 evaluation. Do I need formal ethical approval for this? If so, how long does the process take? I'm concerned it might delay my project timeline.
 
 I've drafted the survey questions and can share them if helpful.
 
 Kind regards,
-Amara Okafor",assessment,KV6003,medium,FALSE
-ASS_034,how many references do we need,"hi
+Amara Okafor"
+how many references do we need,"hi
 
 is there a minimum number of references for the kv5002 assignment?? the brief doesnt say but i dont want to lose marks for not having enough. ive got about 8 so far is that ok??
 
 cheers
-sam",assessment,KV5002,low,FALSE
-ASS_035,KV4006 Exam Format,"Dear Dr Smith,
+sam"
+KV4006 Exam Format,"Dear Dr Smith,
 
 Could you clarify the format of the KV4006 exam? Specifically, I'd like to know:
 
@@ -249,26 +249,26 @@ Could you clarify the format of the KV4006 exam? Specifically, I'd like to know:
 This would help me tailor my revision approach.
 
 Thank you,
-Ellie Saunders",assessment,KV4006,medium,FALSE
-ASS_036,appendix question,"does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over
+Ellie Saunders"
+appendix question,"does stuff in the appendix count toward the word limit for kv6003?? ive got loads of screenshots and code snippets i want to include but i dont want to go over
 
 ta
-will",assessment,KV6003,low,FALSE
-ASS_037,Academic Misconduct - Code Similarity,"Dear Dr Smith,
+will"
+Academic Misconduct - Code Similarity,"Dear Dr Smith,
 
 I've received a notification that my KV5002 submission has been flagged for code similarity with another student. I want to assure you that I did not copy anyone's work. We may have used similar approaches because we attended the same tutorial and followed the same examples.
 
 Could you advise on what happens next? I'm very worried about this.
 
 Regards,
-Nina Patel",assessment,KV5002,high,FALSE
-ASS_038,can i submit early,"hi
+Nina Patel"
+can i submit early,"hi
 
 my kv4006 assignment is finished and the deadline isnt for another week. can i just submit it now or do i need to wait?? also if i submit early can i still resubmit before the deadline if i change something
 
 thx
-poppy",assessment,KV4006,low,FALSE
-ASS_039,Presentation Assessment Details,"Dear Dr Smith,
+poppy"
+Presentation Assessment Details,"Dear Dr Smith,
 
 For the KV5002 group presentation, could you confirm:
 
@@ -280,159 +280,159 @@ We want to start preparing but need these details first.
 
 Thank you,
 Marcus Johnson
-(Group 3)",assessment,KV5002,medium,FALSE
-ASS_040,do we need a table of contents,"hi dr smith
+(Group 3)"
+do we need a table of contents,"hi dr smith
 
 really quick one — does the kv6003 report need a table of contents and list of figures or is that optional?? my mate said its required but i cant see it in the brief anywhere
 
 cheers
-tyler",assessment,KV6003,low,FALSE
-TIM_001,Timetable Clash - KV5002 and KV4006,"Dear Dr Smith,
+tyler"
+Timetable Clash - KV5002 and KV4006,"Dear Dr Smith,
 
 I've just checked my timetable for Semester 2 and I have a clash between KV5002 (Wednesday 10am-12pm) and KV4006 (Wednesday 10:30am-12:30pm). Both are listed as mandatory sessions.
 
 Could you advise on what I should do? Is there an alternative session for either module?
 
 Thank you,
-Sarah Thompson",timetabling,,high,FALSE
-TIM_002,is there a lecture tomorrow?,"hi
+Sarah Thompson"
+is there a lecture tomorrow?,"hi
 
 just checking is there a lecture tomorrow for kv6003?? my timetable says yes but someone in the group chat said it was cancelled
 
 cheers
-jake",timetabling,KV6003,medium,FALSE
-TIM_003,Room Change for KV4006?,"Dear Dr Smith,
+jake"
+Room Change for KV4006?,"Dear Dr Smith,
 
 I turned up to CIS 201 for the KV4006 lecture this morning but the room was empty. Has there been a room change that I missed? I checked Blackboard announcements but couldn't see anything.
 
 Could you confirm the correct room?
 
 Thanks,
-David Kim",timetabling,KV4006,high,FALSE
-TIM_004,lab session times,"hiya
+David Kim"
+lab session times,"hiya
 
 do we have a lab session this week for kv5002 or is it just the lecture?? i cant tell from the timetable because it just says 'practical' and i dont know if thats the same thing
 
 ta
-megan",timetabling,KV5002,low,FALSE
-TIM_005,KV6003 Supervision Meeting Availability,"Dear Dr Smith,
+megan"
+KV6003 Supervision Meeting Availability,"Dear Dr Smith,
 
 I need to book my next project supervision meeting for KV6003. Are you available any time during Week 10? I'm free Monday afternoon and Thursday all day.
 
 Could you also let me know where the meeting will take place — is it your office or on Teams?
 
 Kind regards,
-Olivia Hughes",timetabling,KV6003,medium,TRUE
-TIM_006,MISSED LECTURE,"HI DR SMITH
+Olivia Hughes"
+MISSED LECTURE,"HI DR SMITH
 
 I MISSED TODAYS KV5002 LECTURE BECAUSE MY BUS WAS LATE. WILL THE LECTURE BE RECORDED? I DONT WANT TO FALL BEHIND.
 
 ALSO IS THERE ANYTHING IMPORTANT I MISSED THAT WONT BE ON THE SLIDES?
 
 THANKS
-MICHAEL",timetabling,KV5002,medium,TRUE
-TIM_007,Lecture cancellation??,"hi
+MICHAEL"
+Lecture cancellation??,"hi
 
 i heard the kv4006 lecture on friday is cancelled is this true?? no one has posted anything on blackboard about it and i dont want to travel in for nothing
 
 pls confirm
-connor",timetabling,KV4006,medium,FALSE
-TIM_008,Part-Time Student Timetabling Issue,"Dear Dr Smith,
+connor"
+Part-Time Student Timetabling Issue,"Dear Dr Smith,
 
 I'm a part-time student on the KV5002 module. The timetable has all sessions scheduled during the daytime but I work full-time until 4pm. I understood there would be evening or flexible options available for part-time students.
 
 Could you advise on whether there are alternative session times or if recordings are available?
 
 Many thanks,
-Nathan Brooks",timetabling,KV5002,high,FALSE
-TIM_009,when do lectures start back after easter,"hi
+Nathan Brooks"
+when do lectures start back after easter,"hi
 
 sorry if this is a stupid question but when do lectures start back after the easter break?? is it week 1 of semester 2 or do we have an extra week off
 
 cheers
-ben",timetabling,,low,FALSE
-TIM_010,Workshop Location - KV6003,"Dear Dr Smith,
+ben"
+Workshop Location - KV6003,"Dear Dr Smith,
 
 The timetable lists a KV6003 workshop in 'CIS Lab 3' but I don't know where that is. I'm a first year in the Computing building — is it on the ground floor or the second floor?
 
 Sorry for the basic question.
 
 Thanks,
-Fatima Al-Rashid",timetabling,KV6003,low,FALSE
-TIM_011,Re: Timetable Change,"Hi Dr Smith,
+Fatima Al-Rashid"
+Re: Timetable Change,"Hi Dr Smith,
 
 Thanks for letting us know about the room change for KV4006. Just to confirm — is this permanent for the rest of the semester or just this week? I want to make sure I update my calendar correctly.
 
 Regards,
-Sophie Green",timetabling,KV4006,low,FALSE
-TIM_012,cant make wednesday lecture,"hi
+Sophie Green"
+cant make wednesday lecture,"hi
 
 i have a doctors appointment on wednesday so i cant make the kv5002 lecture. do i need to fill in an absence form or is it fine to just let u know by email?? also will there be a recording
 
 thx
-ryan",timetabling,KV5002,medium,TRUE
-TIM_013,Extra Revision Sessions Before Exam?,"Dear Dr Smith,
+ryan"
+Extra Revision Sessions Before Exam?,"Dear Dr Smith,
 
 With the KV4006 exam approaching, I was wondering if there will be any additional revision sessions or drop-in clinics scheduled before the exam period? A few of us in the cohort were hoping for some extra support.
 
 If there's nothing formal, would you be open to running a Q&A session during one of the remaining weeks?
 
 Best regards,
-Rebecca Lawrence",timetabling,KV4006,medium,FALSE
-TIM_014,wrong timetable i think,"hi dr smith
+Rebecca Lawrence"
+wrong timetable i think,"hi dr smith
 
 so my timetable is showing kv6003 twice on monday which cant be right?? once at 9am and once at 2pm. i think its a system error but just wanted to check in case one of them is real
 
 lol sorry
-josh",timetabling,KV6003,medium,FALSE
-TIM_015,Placement Year - Module Timetabling Query,"Dear Dr Smith,
+josh"
+Placement Year - Module Timetabling Query,"Dear Dr Smith,
 
 I'm returning from my placement year in September and need to complete KV6003 and KV5002. I've been told there may be timetable conflicts for returning placement students as some modules have moved to different semesters.
 
 Could you confirm which semester each module runs in for the upcoming academic year? I need to plan around my remaining placement commitments.
 
 Kind regards,
-Isla Ferguson",timetabling,,high,FALSE
-TIM_016,no lecture slides posted for today,"hi
+Isla Ferguson"
+no lecture slides posted for today,"hi
 
 the kv5002 lecture just finished but the slides havent been put on blackboard yet. are you going to upload them today?? i want to go over them while its still fresh
 
 also is next weeks lecture in the same room
 
 thx
-katie",timetabling,KV5002,low,TRUE
-TIM_017,Guest Lecture Details,"Dear Dr Smith,
+katie"
+Guest Lecture Details,"Dear Dr Smith,
 
 You mentioned in the last KV6003 session that there would be a guest lecture in Week 11 from someone in industry. Could you confirm the date, time, and whether attendance is mandatory? I want to make sure I don't book anything else.
 
 Thank you,
-Zara Ahmed",timetabling,KV6003,medium,FALSE
-TIM_018,kv4006 exam timetable,"when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap
+Zara Ahmed"
+kv4006 exam timetable,"when is the kv4006 exam?? i looked on the exam timetable but it just says TBC. i need to book train tickets home so i need to know asap
 
-dan",timetabling,KV4006,high,FALSE
-TIM_019,Online or In Person?,"Hi,
+dan"
+Online or In Person?,"Hi,
 
 Just wanted to check — is next week's KV5002 seminar online or in person? The timetable says CIS 101 but someone said you mentioned it might be on Teams this week because of the strike action.
 
 Could you clarify?
 
 Thanks,
-Alex Turner",timetabling,KV5002,medium,FALSE
-TIM_020,Reading Week Confusion,"Dear Dr Smith,
+Alex Turner"
+Reading Week Confusion,"Dear Dr Smith,
 
 I'm a bit confused about reading week. The university calendar says it's Week 7 but someone in my seminar group said KV6003 still has a session that week. Could you confirm whether there's any teaching during reading week for KV6003?
 
 I was planning to use the week for project work but I don't want to miss anything.
 
 Best wishes,
-Emily Chen",timetabling,KV6003,medium,FALSE
-TIM_021,lecture times changing??,"hi
+Emily Chen"
+lecture times changing??,"hi
 
 heard a rumour that the kv4006 friday lecture is moving to thursday next semester. is that true?? because i have a part time job on thursdays and itd be a real problem
 
 please let me know
-liam",timetabling,KV4006,high,FALSE
-TIM_022,Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith,
+liam"
+Semester 2 Start Dates and KV5002 Schedule,"Dear Dr Smith,
 
 Could you confirm when KV5002 teaching begins in Semester 2? The module handbook says Week 1 but the university academic calendar shows an induction week before that. I'm unsure which week is actually 'Week 1' for teaching purposes.
 
@@ -441,406 +441,406 @@ Additionally, are the session times the same as Semester 1?
 Thank you for clarifying.
 
 Regards,
-Priya Patel",timetabling,KV5002,medium,TRUE
-TIM_023,supervision rescheduling,"hi dr smith
+Priya Patel"
+supervision rescheduling,"hi dr smith
 
 is it ok to move my kv6003 supervision from tuesday to thursday this week?? i have a group presentation for another module on tuesday that i cant miss
 
 sorry for the short notice
-tom",timetabling,KV6003,medium,FALSE
-TIM_024,Bank Holiday Monday - Is There a Lecture?,"Hi,
+tom"
+Bank Holiday Monday - Is There a Lecture?,"Hi,
 
 Next Monday is a bank holiday. Does that mean the KV6003 Monday session is cancelled or has it been rescheduled to another day? I can't find anything on Blackboard about it.
 
 Thanks,
-Hannah Wright",timetabling,KV6003,medium,FALSE
-TIM_025,timetable is blank,"hi
+Hannah Wright"
+timetable is blank,"hi
 
 my entire timetable is showing as blank on the student portal for this semester. i think its a glitch but i dont know what sessions i should be going to for kv4006 and kv5002. can u send me the times and rooms pls??
 
 cheers
-james",timetabling,,high,FALSE
-TIM_026,KV5002 Lab Session Cancelled?,"Dear Dr Smith,
+james"
+KV5002 Lab Session Cancelled?,"Dear Dr Smith,
 
 A few of us turned up to the KV5002 lab this afternoon but the room was locked and there was no notice on the door. Was the session cancelled? We didn't see any announcement on Blackboard.
 
 Could you confirm whether next week's session is going ahead as normal?
 
 Thank you,
-Grace Li",timetabling,KV5002,medium,TRUE
-TIM_027,teaching week numbers,"hi
+Grace Li"
+teaching week numbers,"hi
 
 im so confused by the week numbers. the university calendar says were in week 22 but the module schedule says week 9. which one do i follow for kv4006?? everyone keeps referring to different weeks and its doing my head in
 
 thx
-sam",timetabling,KV4006,low,FALSE
-TIM_028,Industrial Action and Lectures,"Dear Dr Smith,
+sam"
+Industrial Action and Lectures,"Dear Dr Smith,
 
 I understand there's planned industrial action next week. Could you let us know whether KV6003 sessions will be affected? I rely on the weekly supervisions to keep my project on track and I'd like to plan ahead if they won't be running.
 
 Kind regards,
-Amara Okafor",timetabling,KV6003,medium,FALSE
-TIM_029,can i attend a different seminar group,"hi dr smith
+Amara Okafor"
+can i attend a different seminar group,"hi dr smith
 
 i cant make the tuesday 2pm seminar for kv5002 this week because of a dentist appointment. is it ok if i go to the wednesday 10am group instead just for this week??
 
 cheers
-poppy",timetabling,KV5002,low,FALSE
-TIM_030,Exam Venue Confirmation,"Dear Dr Smith,
+poppy"
+Exam Venue Confirmation,"Dear Dr Smith,
 
 The exam timetable lists the KV4006 exam at 'Sport Central Hall B' but I've never been there before. Is that the main sports building on campus? Also, what time should we arrive — the exam starts at 9:30am but do we need to be there earlier for registration?
 
 Thank you,
-Ellie Saunders",timetabling,KV4006,medium,TRUE
-TIM_031,kv6003 sessions after submission,"hi
+Ellie Saunders"
+kv6003 sessions after submission,"hi
 
 do we still need to attend kv6003 sessions after we submit the project?? or is the viva the only thing left. i want to know if i can book a train home
 
 thx
-will",timetabling,KV6003,low,FALSE
-TIM_032,Lecture Clash With Work Placement Interview,"Dear Dr Smith,
+will"
+Lecture Clash With Work Placement Interview,"Dear Dr Smith,
 
 I have a job interview on Thursday which clashes with the KV5002 lecture. This is a really important opportunity and I can't reschedule it. Will I be marked as absent? Is there anything I need to do formally to excuse the absence?
 
 Thank you for understanding.
 
 Regards,
-Marcus Johnson",timetabling,KV5002,medium,TRUE
-TIM_033,when is the viva,"hi dr smith
+Marcus Johnson"
+when is the viva,"hi dr smith
 
 when exactly is the kv6003 viva?? the module handbook says week 27 but doesnt give a specific date or time. do we get to choose a slot or is it assigned to us??
 
 im nervous already lol
-tyler",timetabling,KV6003,medium,FALSE
-TIM_034,Saturday Make-Up Session?,"Dear Dr Smith,
+tyler"
+Saturday Make-Up Session?,"Dear Dr Smith,
 
 Someone mentioned there might be a make-up session for KV4006 on Saturday to cover the content missed during the strike. Is this confirmed? Saturdays are difficult for me as I have childcare commitments and I'd need to arrange cover.
 
 Could you let me know as soon as possible?
 
 Thanks,
-Nina Patel",timetabling,KV4006,high,FALSE
-TIM_035,double booked rooms??,"hi
+Nina Patel"
+double booked rooms??,"hi
 
 i went to CIS 302 for the kv5002 lecture today but there was already another class in there. a few of us were stood in the corridor for 10 mins before someone said our lecture had been moved to CIS 105. nobody told us
 
 can this be communicated better in future pls
 
-sam",timetabling,KV5002,medium,FALSE
-RES_001,Lecture Slides - Week 6 KV5002,"Dear Dr Smith,
+sam"
+Lecture Slides - Week 6 KV5002,"Dear Dr Smith,
 
 I noticed that the lecture slides for Week 6 of KV5002 haven't been uploaded to Blackboard yet. Could you let me know when they'll be available? I'd like to review them before next week's session.
 
 Thank you,
-Emily Chen",resources,KV5002,low,FALSE
-RES_002,cant access blackboard,"hi
+Emily Chen"
+cant access blackboard,"hi
 
 blackboard isnt letting me into the kv4006 module page. it says i dont have access but im definitely enrolled. can u sort this out or do i need to contact IT??
 
 its been like this for 3 days now and im missing stuff
 
 cheers
-jake",resources,KV4006,high,FALSE
-RES_003,Recommended Reading for Literature Review,"Dear Dr Smith,
+jake"
+Recommended Reading for Literature Review,"Dear Dr Smith,
 
 I'm working on the literature review for my KV6003 project and I'm struggling to find enough quality sources on email classification using NLP. Could you recommend any key papers or textbooks I should be looking at?
 
 I've already found a few through the library but I feel like I'm missing some foundational work.
 
 Kind regards,
-Olivia Hughes",resources,KV6003,medium,FALSE
-RES_004,recording of last lecture,"hi dr smith
+Olivia Hughes"
+recording of last lecture,"hi dr smith
 
 i was ill last week and missed the kv5002 lecture on software testing. is there a recording on panopto?? i cant find it anywhere on blackboard
 
 thx
-ryan",resources,KV5002,medium,FALSE
-RES_005,Software Installation Help - Python,"Dear Dr Smith,
+ryan"
+Software Installation Help - Python,"Dear Dr Smith,
 
 I'm trying to install Python and Jupyter Notebook on my personal laptop for KV6003 but I'm running into errors. I followed the instructions on Blackboard but the Anaconda installer keeps failing. Are there alternative installation instructions or could you point me to a guide?
 
 Also, is there a specific version of Python we need to be using for the module?
 
 Thanks,
-Fatima Al-Rashid",resources,KV6003,medium,TRUE
-RES_006,where is the module handbook,"hi
+Fatima Al-Rashid"
+where is the module handbook,"hi
 
 where can i find the module handbook for kv5002?? someone said its on blackboard but i genuinely cant see it. ive looked in every folder
 
 pls help
-megan",resources,KV5002,low,FALSE
-RES_007,GitHub Classroom Access,"Dear Dr Smith,
+megan"
+GitHub Classroom Access,"Dear Dr Smith,
 
 I'm trying to access the GitHub Classroom repository for KV5002 but the invite link from Blackboard gives me a 404 error. I've tried on both Chrome and Firefox. My GitHub username is dkim_dev22.
 
 Could you resend the invite or check if there's an issue with the link?
 
 Regards,
-David Kim",resources,KV5002,high,FALSE
-RES_008,past exam papers kv4006,"hi
+David Kim"
+past exam papers kv4006,"hi
 
 are there any past exam papers for kv4006 available anywhere?? ive checked the library and the module page but cant find any. would be really helpful for revision
 
 ta
-ben",resources,KV4006,low,FALSE
-RES_009,Database Software for KV4006,"Dear Dr Smith,
+ben"
+Database Software for KV4006,"Dear Dr Smith,
 
 In the last lecture you mentioned we'd need MySQL Workbench for the practical sessions. Is this available on the university lab computers or do we need to install it ourselves? If we need to install it, is there a student licence or should we use the community edition?
 
 Thank you,
-Priya Patel",resources,KV4006,medium,FALSE
-RES_010,CANT FIND ANYTHING ON BLACKBOARD,"HI DR SMITH
+Priya Patel"
+CANT FIND ANYTHING ON BLACKBOARD,"HI DR SMITH
 
 I CANT FIND ANY OF THE RESOURCES FOR KV6003 ON BLACKBOARD. THE MODULE PAGE JUST HAS THE ASSIGNMENT BRIEF AND NOTHING ELSE. WHERE ARE THE LECTURE SLIDES AND THE READING LIST AND THE PROJECT GUIDELINES??
 
 AM I LOOKING IN THE WRONG PLACE??
 
-MICHAEL",resources,KV6003,medium,FALSE
-RES_011,Additional Resources for Machine Learning Topic,"Dear Dr Smith,
+MICHAEL"
+Additional Resources for Machine Learning Topic,"Dear Dr Smith,
 
 I've been going through the KV5002 content on machine learning algorithms and I'm finding the lecture material quite high-level. Are there any additional resources you'd recommend — YouTube channels, online courses, or supplementary textbooks — that might help me understand the concepts in more depth?
 
 I learn better with worked examples if that helps narrow it down.
 
 Best wishes,
-Rebecca Lawrence",resources,KV5002,low,FALSE
-RES_012,slides from week 3??,"hi
+Rebecca Lawrence"
+slides from week 3??,"hi
 
 i know this is ages ago but is there any chance u could reupload the week 3 slides for kv4006?? the link on blackboard is broken and just takes me to a blank page. ive asked a few others and they have the same problem
 
 sorry
-liam",resources,KV4006,medium,FALSE
-RES_013,Access to University Software Remotely,"Dear Dr Smith,
+liam"
+Access to University Software Remotely,"Dear Dr Smith,
 
 I'm a commuter student and I do most of my work from home. Is there a way to access the university's software remotely — specifically the tools we use for KV4006 like MySQL and the Oracle database? I heard there's a virtual desktop but I'm not sure how to set it up.
 
 Any guidance would be appreciated.
 
 Thanks,
-Nathan Brooks",resources,KV4006,medium,FALSE
-RES_014,reading list not working,"the reading list link on blackboard for kv5002 takes me to the library page but all the links to the actual books and papers say 'access denied'. i think the library subscriptions might have expired or something??
+Nathan Brooks"
+reading list not working,"the reading list link on blackboard for kv5002 takes me to the library page but all the links to the actual books and papers say 'access denied'. i think the library subscriptions might have expired or something??
 
 can u send the pdfs directly or tell me how to access them
 
 thx
-katie",resources,KV5002,medium,FALSE
-RES_015,KV6003 Project Template,"Dear Dr Smith,
+katie"
+KV6003 Project Template,"Dear Dr Smith,
 
 Is there a report template we should be using for the KV6003 project submission? I want to make sure I'm following the correct formatting and structure. If there isn't a template, could you advise on the expected format — font size, line spacing, heading structure etc.?
 
 Thank you,
-Zara Ahmed",resources,KV6003,low,FALSE
-RES_016,sample code from lecture,"hi dr smith
+Zara Ahmed"
+sample code from lecture,"hi dr smith
 
 in the kv5002 lecture on wednesday you showed some sample code for the observer pattern. are you going to upload that code to blackboard or github?? i tried to copy it down during the lecture but i missed some of it
 
 cheers
-josh",resources,KV5002,medium,FALSE
-RES_017,Lecture Recording Quality Issue,"Dear Dr Smith,
+josh"
+Lecture Recording Quality Issue,"Dear Dr Smith,
 
 I've been watching the KV4006 Panopto recordings and the audio quality on the last three recordings has been very poor — there's a constant buzzing sound and your voice cuts out frequently. It's quite difficult to follow.
 
 Is there anything that can be done to fix this? Could you perhaps upload the slides with audio notes as an alternative?
 
 Thanks,
-Sophie Green",resources,KV4006,medium,FALSE
-RES_018,need the dataset,"hi
+Sophie Green"
+need the dataset,"hi
 
 where can i download the dataset we need for the kv5002 assignment?? i cant see it on blackboard and the link in the brief doesnt work
 
 this is urgent because the assignment is due next week
 
-dan",resources,KV5002,high,FALSE
-RES_019,Textbook Recommendation,"Dear Dr Smith,
+dan"
+Textbook Recommendation,"Dear Dr Smith,
 
 I'm looking to buy a textbook for KV4006 to supplement my studies. The reading list has several options — which one would you personally recommend as the most useful? I can only afford one so I want to make sure I pick the right one.
 
 Many thanks,
-Alex Turner",resources,KV4006,low,FALSE
-RES_020,cant open the files,"hi
+Alex Turner"
+cant open the files,"hi
 
 the files u uploaded for kv6003 week 9 are in a .ipynb format and i dont know how to open them. i dont have jupyter installed yet. is there a way to view them without installing anything?? or can u upload them as pdfs too
 
 thx
-connor",resources,KV6003,medium,TRUE
-RES_021,Week 8 Slides Still Missing,"Hi Dr Smith,
+connor"
+Week 8 Slides Still Missing,"Hi Dr Smith,
 
 Just following up on this — the Week 8 slides for KV5002 still haven't been uploaded. A few of us have been waiting as we need them for the assignment. Could you let us know when they'll be available?
 
 Thanks,
-James",resources,KV5002,medium,FALSE
-RES_022,Tutorial Solutions,"Dear Dr Smith,
+James"
+Tutorial Solutions,"Dear Dr Smith,
 
 Are you planning to release the solutions for the KV4006 tutorial worksheets? We've been working through them in study groups but we'd like to check our answers. Even if it's just for the first few weeks that would be helpful.
 
 Best regards,
-Isla Ferguson",resources,KV4006,low,FALSE
-RES_023,kv6003 tools and software list,"hi
+Isla Ferguson"
+kv6003 tools and software list,"hi
 
 is there a complete list anywhere of all the software and tools we need for kv6003?? ive been installing things as we go but i feel like im missing stuff. python jupyter git and what else??
 
 also do we need a specific version of scikit-learn
 
 thx
-tom",resources,KV6003,medium,TRUE
-RES_024,Library Access for External Journals,"Dear Dr Smith,
+tom"
+Library Access for External Journals,"Dear Dr Smith,
 
 I'm trying to access some IEEE and ACM papers for my KV6003 literature review but the library portal keeps asking me to pay. I thought we had institutional access to these databases? Am I doing something wrong or do I need to request access separately?
 
 Thank you,
-Hannah Wright",resources,KV6003,medium,FALSE
-RES_025,Blackboard App Not Syncing,"hi dr smith
+Hannah Wright"
+Blackboard App Not Syncing,"hi dr smith
 
 the blackboard app on my phone isnt syncing properly for any of my modules. kv5002 and kv4006 both show old content from last semester. ive tried logging out and back in but nothing changes. i know this is probably an IT thing but do u know if anyone else has reported it??
 
 sorry to bother u with this
-chloe",resources,,low,FALSE
-RES_026,KV6003 Example Projects,"Dear Dr Smith,
+chloe"
+KV6003 Example Projects,"Dear Dr Smith,
 
 Are there any example projects or past student submissions for KV6003 that we can look at? It would be really helpful to see what a first-class project looks like in terms of structure and scope. I'm not looking to copy anything — I just want to calibrate my expectations.
 
 Thank you,
-Marcus Johnson",resources,KV6003,low,FALSE
-RES_027,video tutorials for sql,"hi
+Marcus Johnson"
+video tutorials for sql,"hi
 
 im really struggling with the sql stuff in kv4006. the lectures go too fast for me. do u know any good youtube channels or online tutorials that explain sql for beginners?? ive tried w3schools but i need something more detailed
 
 thx
-tyler",resources,KV4006,medium,FALSE
-RES_028,Panopto Recording Missing - Week 10,"Dear Dr Smith,
+tyler"
+Panopto Recording Missing - Week 10,"Dear Dr Smith,
 
 The Panopto recording for the Week 10 KV5002 lecture doesn't seem to be available. All the other weeks are there but Week 10 is missing. Could you check whether it was recorded?
 
 This was the session on design patterns which I need to revise for the assignment.
 
 Thanks,
-Ellie Saunders",resources,KV5002,medium,FALSE
-RES_029,printing credits for poster,"hi dr smith
+Ellie Saunders"
+printing credits for poster,"hi dr smith
 
 for the kv6003 poster presentation do we have to pay for the printing ourselves or does the department cover it?? also what size does the poster need to be and is there a template
 
 cheers
-will",resources,KV6003,medium,TRUE
-RES_030,Access to Kaggle Datasets,"Dear Dr Smith,
+will"
+Access to Kaggle Datasets,"Dear Dr Smith,
 
 For my KV6003 project I want to use a dataset from Kaggle to supplement my AI-generated emails. Is there any issue with using external datasets? Do I need to check licensing or reference it in a particular way?
 
 Also, is there university guidance on storing third-party data in my GitHub repository?
 
 Kind regards,
-Amara Okafor",resources,KV6003,medium,TRUE
-RES_031,week 7 workshop handout,"hi
+Amara Okafor"
+week 7 workshop handout,"hi
 
 did u hand something out in the week 7 kv4006 workshop?? i wasnt there and someone said there was a printed sheet with practice questions. is there a digital version on blackboard??
 
 ta
-poppy",resources,KV4006,low,FALSE
-RES_032,LaTeX or Word?,"Dear Dr Smith,
+poppy"
+LaTeX or Word?,"Dear Dr Smith,
 
 Is there a preference for whether we write the KV6003 report in LaTeX or Microsoft Word? I'm comfortable with both but I want to make sure there isn't a required format. Some modules insist on Word for Turnitin compatibility.
 
 Thank you,
-Grace Li",resources,KV6003,low,FALSE
-RES_033,SPACY INSTALLATION NOT WORKING,"HI DR SMITH
+Grace Li"
+SPACY INSTALLATION NOT WORKING,"HI DR SMITH
 
 IM TRYING TO INSTALL SPACY FOR MY KV6003 PROJECT BUT IT KEEPS FAILING WITH AN ERROR ABOUT VISUAL C++ BUILD TOOLS. IVE BEEN TRYING FOR 2 DAYS AND NOTHING WORKS. IVE TRIED PIP INSTALL AND CONDA AND NEITHER WORK.
 
 CAN U HELP OR IS THERE AN IT PERSON WHO CAN
 
-MICHAEL",resources,KV6003,high,FALSE
-RES_034,recommended IDE,"hi dr smith
+MICHAEL"
+recommended IDE,"hi dr smith
 
 what IDE do u recommend for kv5002?? ive been using notepad++ but i think i need something better. is pycharm free for students or should i use vs code
 
 cheers
-sam",resources,KV5002,low,FALSE
-RES_035,Annotated Bibliography Template,"Dear Dr Smith,
+sam"
+Annotated Bibliography Template,"Dear Dr Smith,
 
 For the KV6003 literature review, do you have a template or example of an annotated bibliography? I want to organise my sources properly before I start writing and I think a structured approach would help.
 
 If there isn't a template, could you recommend a format?
 
 Best wishes,
-Nina Patel",resources,KV6003,low,FALSE
-ADM_001,Module Registration Issue,"Dear Dr Smith,
+Nina Patel"
+Module Registration Issue,"Dear Dr Smith,
 
 I'm trying to register for KV6003 on the student portal but the system says the module is full. I need this module to complete my degree this year. Could you advise on whether additional places will be made available or if there's someone I should contact to resolve this?
 
 Thank you,
-Sarah Thompson",admin,KV6003,high,FALSE
-ADM_002,changing modules,"hi
+Sarah Thompson"
+changing modules,"hi
 
 i want to drop kv4006 and switch to a different module. is it too late to do this?? who do i need to speak to about it
 
 cheers
-jake",admin,KV4006,high,FALSE
-ADM_003,Student ID Card Issue,"Dear Dr Smith,
+jake"
+Student ID Card Issue,"Dear Dr Smith,
 
 Apologies for emailing you about this but I wasn't sure who else to contact. My student ID card has stopped working and I can't get into the Computing building or the labs. I've been to the student hub but they said it would take a week to replace.
 
 Is there a temporary access solution in the meantime? I have practical sessions this week that I can't miss.
 
 Kind regards,
-Priya Patel",admin,,high,TRUE
-ADM_004,Reference Request,"Dear Dr Smith,
+Priya Patel"
+Reference Request,"Dear Dr Smith,
 
 I'm applying for a graduate software engineering role at Accenture and they've asked for an academic reference. Would you be willing to provide a reference for me? You supervised my KV5002 project and I think you'd be best placed to comment on my technical abilities.
 
 If you're happy to do this, I can send you the details of where to submit it.
 
 Many thanks,
-Isla Ferguson",admin,KV5002,medium,FALSE
-ADM_005,wrong module on my transcript,"hi dr smith
+Isla Ferguson"
+wrong module on my transcript,"hi dr smith
 
 ive just checked my transcript and its showing kv4006 as a fail even though i passed it with 58%. i think theres been an admin error. who do i need to contact to get this sorted?? its stressing me out because i need my transcript for a job application
 
 thanks
-liam",admin,KV4006,high,FALSE
-ADM_006,Interruption of Studies,"Dear Dr Smith,
+liam"
+Interruption of Studies,"Dear Dr Smith,
 
 I'm writing to let you know that I'm considering taking an interruption of studies due to personal circumstances. I wanted to discuss this with you first as my module leader before I submit the formal application.
 
 Could we arrange a meeting to talk through the process and what it would mean for my modules? I'm currently enrolled in KV6003 and KV5002.
 
 Regards,
-Nathan Brooks",admin,,high,TRUE
-ADM_007,attendance query,"hi
+Nathan Brooks"
+attendance query,"hi
 
 i got an email from student services saying my attendance is below 70% for kv5002. but ive been going to most lectures?? i think the system isnt registering me properly because i always forget to scan in. can u update my attendance records
 
 thx
-connor",admin,KV5002,medium,FALSE
-ADM_008,Letter for Visa Application,"Dear Dr Smith,
+connor"
+Letter for Visa Application,"Dear Dr Smith,
 
 I'm an international student and I need a letter confirming my enrolment and expected graduation date for my visa renewal application. The immigration office has requested this from my academic department.
 
 Could you provide this or direct me to the right person? The deadline for my visa submission is in two weeks so this is quite time-sensitive.
 
 Thank you very much,
-Fatima Al-Rashid",admin,,high,FALSE
-ADM_009,graduating this year??,"hi dr smith
+Fatima Al-Rashid"
+graduating this year??,"hi dr smith
 
 stupid question but how do i actually check if im on track to graduate this year?? i think ive done all my modules but i want to make sure i havent missed anything. is there someone i can speak to about this
 
 sorry
-josh",admin,,medium,FALSE
-ADM_010,Re: Module Selection Advice,"Dear Dr Smith,
+josh"
+Re: Module Selection Advice,"Dear Dr Smith,
 
 Thank you for your advice during our meeting last week. I've decided to take KV5002 in Semester 2 as you suggested. However, the online module selection form isn't letting me add it — it says the prerequisite hasn't been met, but I passed KV4006 last year.
 
 Could you approve an override or tell me who can?
 
 Best regards,
-Sophie Green",admin,KV5002,high,FALSE
-ADM_011,PERSONAL TUTOR MEETING,"HI DR SMITH
+Sophie Green"
+PERSONAL TUTOR MEETING,"HI DR SMITH
 
 I NEED TO BOOK A PERSONAL TUTOR MEETING WITH YOU. HOW DO I DO THIS?? IS THERE A BOOKING SYSTEM OR DO I JUST EMAIL YOU??
 
 ALSO I NEED YOU TO SIGN MY LEARNING AGREEMENT FORM BEFORE FRIDAY
 
 THANKS
-MICHAEL",admin,,medium,TRUE
-ADM_012,name change on records,"Dear Dr Smith,
+MICHAEL"
+name change on records,"Dear Dr Smith,
 
 I have recently changed my name by deed poll and I need to update my university records. I've contacted student services but they said my module leaders also need to be informed for assessment purposes.
 
@@ -849,44 +849,44 @@ My previous name was Daniel Morrison and my new legal name is Dani Morrison. My 
 Could you update any relevant records on your end?
 
 Thank you,
-Dani Morrison",admin,,medium,FALSE
-ADM_013,Mitigating Circumstances Panel Outcome,"Dear Dr Smith,
+Dani Morrison"
+Mitigating Circumstances Panel Outcome,"Dear Dr Smith,
 
 I submitted a mitigating circumstances claim for the KV6003 December deadline and I received an email saying it was considered by the panel. However the outcome letter is quite confusing — it says 'deferred with academic judgement' and I don't understand what this means practically. Do I resubmit? Is there a new deadline?
 
 Could you help me understand what happens next?
 
 Thanks,
-Tom Wilson",admin,KV6003,high,FALSE
-ADM_014,can i audit a module,"hi
+Tom Wilson"
+can i audit a module,"hi
 
 im a kv6003 student but im really interested in the databases content from kv4006. is there a way i can sit in on some of the lectures without being formally enrolled?? i just want to learn the material
 
 cheers
-zara",admin,KV4006,low,FALSE
-ADM_015,Graduation Ceremony Information,"Dear Dr Smith,
+zara"
+Graduation Ceremony Information,"Dear Dr Smith,
 
 I'm expecting to graduate this summer and I wanted to ask about the graduation ceremony. Is there anything I need to do from the academic side to confirm my attendance? I've registered on the graduation portal but I wasn't sure if there's a separate process through the department.
 
 Also, do you know if guests need tickets?
 
 Kind regards,
-Rebecca Lawrence",admin,,low,TRUE
-ADM_016,Transfer Between Programmes,"Dear Dr Smith,
+Rebecca Lawrence"
+Transfer Between Programmes,"Dear Dr Smith,
 
 I'm currently on the BSc Computer Science programme but I'm considering transferring to the BSc Software Engineering programme. I understand there's significant module overlap, including KV5002 and KV6003.
 
 Could you advise on the process and whether my completed credits would transfer? I'd appreciate knowing who the best person to discuss this with formally would be.
 
 Thank you,
-Emily Chen",admin,,high,FALSE
-ADM_017,enrolled in wrong seminar group,"hi
+Emily Chen"
+enrolled in wrong seminar group,"hi
 
 ive been put in seminar group B for kv5002 but all my friends are in group A and the times work better for me. is it possible to switch groups?? the student portal wont let me change it myself
 
 pls
-katie",admin,KV5002,low,FALSE
-ADM_018,Academic Misconduct Allegation,"Dear Dr Smith,
+katie"
+Academic Misconduct Allegation,"Dear Dr Smith,
 
 I have received a letter from the university stating that I am being investigated for academic misconduct in relation to my KV5002 submission. I am very worried about this as I did not intentionally plagiarise anything. I used some code from Stack Overflow but I referenced it in my comments.
 
@@ -895,112 +895,112 @@ Could you advise me on what to expect from this process and whether I should att
 I'm extremely anxious about the situation.
 
 Regards,
-Alex Turner",admin,KV5002,high,FALSE
-ADM_019,student rep stuff,"hi dr smith
+Alex Turner"
+student rep stuff,"hi dr smith
 
 im the student rep for kv4006 and i need to arrange the mid-semester feedback meeting. when are you free in the next couple of weeks?? also do u have a template for the feedback form or do i make my own
 
 thx
-dan",admin,KV4006,medium,TRUE
-ADM_020,Joint Honours Module Confusion,"Dear Dr Smith,
+dan"
+Joint Honours Module Confusion,"Dear Dr Smith,
 
 I'm a Joint Honours student studying Computing and Business. I've been told I need to take KV4006 but it clashes with one of my Business modules. My Business programme director said to speak to you about arranging alternative assessment or attendance arrangements.
 
 Could we discuss possible options?
 
 Thank you,
-Chloe Martinez",admin,KV4006,high,FALSE
-ADM_021,do i need a DBS check,"hi
+Chloe Martinez"
+do i need a DBS check,"hi
 
 for my kv6003 project im planning to do some user testing with school students. someone mentioned i might need a DBS check for this. is that true and if so how do i get one through the university??
 
 cheers
-james",admin,KV6003,medium,FALSE
-ADM_022,Changing Supervisor,"Dear Dr Smith,
+james"
+Changing Supervisor,"Dear Dr Smith,
 
 This is a difficult email to write but I would like to request a change of supervisor for my KV6003 project. My current supervisor and I have different views on the direction of my project and I feel I would benefit from working with someone whose expertise is more aligned with my topic area.
 
 I want to handle this professionally and I'm not making this decision lightly. Could you advise on the formal process for requesting this?
 
 Kind regards,
-Hannah Wright",admin,KV6003,high,FALSE
-ADM_023,council tax exemption letter,"hi dr smith
+Hannah Wright"
+council tax exemption letter,"hi dr smith
 
 my landlord is asking for a council tax exemption letter proving im a full time student. do i get this from you or from student services?? he needs it by the end of the week
 
 thanks
-ben",admin,,medium,FALSE
-ADM_024,Returning After Interruption,"Dear Dr Smith,
+ben"
+Returning After Interruption,"Dear Dr Smith,
 
 I interrupted my studies last academic year due to health reasons and I'm now returning to complete my final year. I need to re-enrol in KV6003 and KV5002 but I'm unsure whether my previous work still counts or if I need to start fresh.
 
 Could you advise on what the re-entry process looks like and whether we could arrange an initial meeting to discuss my project?
 
 Many thanks,
-David Kim",admin,,high,TRUE
-ADM_025,anonymous marking query,"hi
+David Kim"
+anonymous marking query,"hi
 
 i noticed my name was visible on my kv4006 assignment when i submitted it through turnitin. isnt marking supposed to be anonymous?? should i resubmit without my name on it or does it not matter
 
 just want to check
-megan",admin,KV4006,low,FALSE
-ADM_026,Intermitting and Returning - Credit Transfer,"Dear Dr Smith,
+megan"
+Intermitting and Returning - Credit Transfer,"Dear Dr Smith,
 
 I previously completed 80 credits before intermitting last year. Now that I'm returning, I want to confirm that all my completed credits still count. Specifically, does my KV4006 pass from 2024 still stand or would I need to retake it under the new curriculum?
 
 I'd appreciate clarity before re-enrolment.
 
 Thank you,
-Grace Li",admin,KV4006,high,FALSE
-ADM_027,student finance letter,"hi dr smith
+Grace Li"
+student finance letter,"hi dr smith
 
 student finance are asking for a letter from the university confirming im still a full time student and that im attending. apparently my attendance records look low but thats because the scanning thing doesnt work half the time. can u write something confirming im enrolled and attending
 
 they need it by friday pls
 
 thx
-tyler",admin,,high,TRUE
-ADM_028,Changing Personal Tutor,"Dear Dr Smith,
+tyler"
+Changing Personal Tutor,"Dear Dr Smith,
 
 I was assigned a personal tutor at the start of the year but I've never managed to get a meeting with them — they don't respond to emails. Is it possible to request a change of personal tutor? If so, who do I submit the request to?
 
 Thank you,
-Ellie Saunders",admin,,medium,FALSE
-ADM_029,work experience sign off,"hi
+Ellie Saunders"
+work experience sign off,"hi
 
 my placement employer needs a form signed by my academic supervisor to confirm the work placement counts toward my degree. do u do this or is it someone else?? the form is attached
 
 cheers
-sam",admin,,medium,FALSE
-ADM_030,Academic Appeal Process,"Dear Dr Smith,
+sam"
+Academic Appeal Process,"Dear Dr Smith,
 
 I am writing to enquire about the academic appeals process. I received my module board results and I have been required to withdraw from the programme due to failing KV4006 twice. I believe there are grounds for appeal as my extenuating circumstances were not fully considered by the board.
 
 Could you advise on the formal process, the deadline for submitting an appeal, and whether you would be willing to provide a supporting statement?
 
 Yours sincerely,
-Marcus Johnson",admin,KV4006,high,TRUE
-ADM_031,lost my student card again,"hi dr smith
+Marcus Johnson"
+lost my student card again,"hi dr smith
 
 i know u probably cant help with this but ive lost my student card again and i cant get into the building for the kv5002 lab today. the reception said i need to email my module leader to get temporary access. can u sort this pls
 
 sorry
-poppy",admin,KV5002,medium,FALSE
-ADM_032,Data Protection Query - Project Data,"Dear Dr Smith,
+poppy"
+Data Protection Query - Project Data,"Dear Dr Smith,
 
 For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this.
 
 Could you advise or point me to the right person?
 
 Kind regards,
-Amara Okafor",admin,KV6003,medium,FALSE
-ADM_033,proof of enrollment for gym membership,"hi
+Amara Okafor"
+proof of enrollment for gym membership,"hi
 
 bit of a random one but the gym near me offers a student discount and they want proof of enrollment. where do i get that from?? is it something u can provide or do i need to go to student services
 
 thx
-will",admin,,low,FALSE
-ADM_034,Graduating With Distinction - Requirements,"Dear Dr Smith,
+will"
+Graduating With Distinction - Requirements,"Dear Dr Smith,
 
 I'm trying to work out whether I'm on track for a first-class degree. Could you explain how the final classification is calculated? Specifically, I'd like to know:
 
@@ -1009,32 +1009,32 @@ I'm trying to work out whether I'm on track for a first-class degree. Could you 
 - Is there a profile system or is it purely average-based?
 
 Thank you,
-Nina Patel",admin,,medium,FALSE
-ADM_035,joining the course late,"hi dr smith
+Nina Patel"
+joining the course late,"hi dr smith
 
 ive just transferred from another university and im joining kv5002 three weeks late. ive missed a chunk of content and im feeling really behind. is there any way to catch up on what ive missed?? are there recordings or extra materials i should look at
 
 also do i need to do anything admin wise to formally register for the module
 
 thx
-eleanor",admin,KV5002,high,TRUE
-EXT_001,Extension Request - KV6003 Project,"Dear Dr Smith,
+eleanor"
+Extension Request - KV6003 Project,"Dear Dr Smith,
 
 I am writing to request an extension for my KV6003 project submission. My mother was admitted to hospital last week with a serious illness and I have been travelling home to care for her. I have medical evidence from the hospital which I can provide.
 
 I have completed approximately 70% of my project but I need an additional two weeks to finish the remaining work. I hope you can understand the situation.
 
 Kind regards,
-Sarah Thompson",extenuating_circumstances,KV6003,high,FALSE
-EXT_002,cant submit on time,"hi dr smith
+Sarah Thompson"
+cant submit on time,"hi dr smith
 
 i know the kv5002 assignment is due friday but i genuinely cant get it done in time. ive had really bad anxiety this semester and ive fallen behind on everything. i dont have a doctors note yet but im going to try and get one this week
 
 is there anything u can do to help
 
 sorry
-katie",extenuating_circumstances,KV5002,high,FALSE
-EXT_003,Bereavement - Requesting Consideration,"Dear Dr Smith,
+katie"
+Bereavement - Requesting Consideration,"Dear Dr Smith,
 
 I'm writing to inform you that my grandfather passed away last Thursday. The funeral is this week and I will need to travel to Scotland for several days. This will affect my attendance and my ability to complete the KV4006 coursework which is due next Monday.
 
@@ -1043,16 +1043,16 @@ I have a copy of the death certificate if needed. Could you advise on the proces
 Thank you for your understanding.
 
 Regards,
-Alex Turner",extenuating_circumstances,KV4006,high,FALSE
-EXT_004,been really ill,"hi
+Alex Turner"
+been really ill,"hi
 
 ive had really bad flu for the past week and havent been able to do any work. the kv6003 interim report is due in 3 days and ive barely started it. i know i should have started earlier but i was fine until last monday
 
 do i need to apply for extenuating circumstances or can u just give me an extension??
 
 thx
-josh",extenuating_circumstances,KV6003,high,FALSE
-EXT_005,Mental Health Support and Extension,"Dear Dr Smith,
+josh"
+Mental Health Support and Extension,"Dear Dr Smith,
 
 This is quite difficult to write but I wanted to be honest with you. I have been struggling significantly with my mental health this semester and it has severely impacted my ability to engage with my studies. I am currently receiving support from the university wellbeing service and my GP.
 
@@ -1061,24 +1061,24 @@ I am concerned about the upcoming KV5002 deadline as I have not been able to mak
 I appreciate your support.
 
 Best wishes,
-Nathan Brooks",extenuating_circumstances,KV5002,high,FALSE
-EXT_006,Extenuating Circumstances Form - Where to Find It?,"Dear Dr Smith,
+Nathan Brooks"
+Extenuating Circumstances Form - Where to Find It?,"Dear Dr Smith,
 
 I need to submit an extenuating circumstances claim but I can't find the form on the student portal. Could you send me the link or tell me where to find it? Also, do I submit it to you directly or to the faculty office?
 
 I need to get this in before the KV4006 deadline on Friday.
 
 Thanks,
-Sophie Green",extenuating_circumstances,KV4006,high,TRUE
-EXT_007,car accident,"hi dr smith
+Sophie Green"
+car accident,"hi dr smith
 
 i was in a car accident on saturday and ive broken my wrist. im right handed so i cant type properly and im struggling to do any work on my kv6003 project. the hospital gave me a sick note for 3 weeks
 
 what should i do about my deadlines?? i have the kv6003 submission and the kv5002 assignment both coming up
 
 sorry
-liam",extenuating_circumstances,,high,TRUE
-EXT_008,Pregnancy Related Absence,"Dear Dr Smith,
+liam"
+Pregnancy Related Absence,"Dear Dr Smith,
 
 I wanted to let you know that I am currently pregnant and have been experiencing severe morning sickness which has caused me to miss several lectures and fall behind on my KV5002 coursework. My midwife has written a letter confirming my condition and recommending reduced workload.
 
@@ -1087,16 +1087,16 @@ I would like to discuss what support is available and whether deadline adjustmen
 Thank you for your understanding.
 
 Kind regards,
-Chloe Martinez",extenuating_circumstances,KV5002,high,FALSE
-EXT_009,internet issues at home,"hi
+Chloe Martinez"
+internet issues at home,"hi
 
 my internet has been down at home for nearly 2 weeks now and the provider keeps saying theyll fix it but they dont. ive been going to the library to work but its not open late enough for me to get everything done because i work part time during the day
 
 i know this probably doesnt count as extenuating circumstances but its seriously affecting my kv4006 assignment. is there anything u can do
 
 cheers
-dan",extenuating_circumstances,KV4006,medium,FALSE
-EXT_010,Disability Flare-Up,"Dear Dr Smith,
+dan"
+Disability Flare-Up,"Dear Dr Smith,
 
 I have a diagnosed chronic condition (fibromyalgia) which is registered with Disability Services. I've been experiencing a significant flare-up over the past two weeks which has made it very difficult to sit at a computer for extended periods.
 
@@ -1105,31 +1105,31 @@ My Disability Adviser has recommended I request adjusted deadlines for the curre
 Could you advise on how best to proceed?
 
 Best regards,
-Rebecca Lawrence",extenuating_circumstances,,high,TRUE
-EXT_011,NEED EXTENSION PLEASE,"HI DR SMITH
+Rebecca Lawrence"
+NEED EXTENSION PLEASE,"HI DR SMITH
 
 I KNOW THE DEADLINE IS TOMORROW BUT I REALLY NEED AN EXTENSION FOR KV5002. I HAVE HAD SO MANY DEADLINES THIS WEEK AND I CANT COPE WITH THEM ALL. I HAVENT SLEPT IN 3 DAYS AND IM REALLY STRUGGLING.
 
 PLEASE CAN I HAVE EVEN JUST 48 HOURS EXTRA??
 
-MICHAEL",extenuating_circumstances,KV5002,high,FALSE
-EXT_012,Part-Time Job Conflict,"Dear Dr Smith,
+MICHAEL"
+Part-Time Job Conflict,"Dear Dr Smith,
 
 I know this may not qualify as extenuating circumstances but I wanted to explain my situation. My employer has increased my hours significantly this month and I'm working nearly full-time alongside my studies. This has left me with very little time to work on the KV6003 project.
 
 I'm not asking for special treatment but I wondered if there was any flexibility or advice you could offer.
 
 Thank you,
-Tom Wilson",extenuating_circumstances,KV6003,medium,FALSE
-EXT_013,family emergency back home,"hi dr smith
+Tom Wilson"
+family emergency back home,"hi dr smith
 
 im an international student and theres been a family emergency back home in nigeria. my father is very ill and i might need to fly home at short notice. if i do i could be gone for 2-3 weeks which would mean missing the kv4006 exam and the kv5002 deadline
 
 i dont know what to do. what are my options??
 
 thanks
-james",extenuating_circumstances,,high,TRUE
-EXT_014,Extenuating Circumstances Rejected - Appeal,"Dear Dr Smith,
+james"
+Extenuating Circumstances Rejected - Appeal,"Dear Dr Smith,
 
 I submitted an extenuating circumstances claim for my KV5002 late submission but it was rejected because the panel said my evidence was insufficient. I provided a self-certification form but apparently they needed a GP letter.
 
@@ -1138,16 +1138,16 @@ I've now obtained a letter from my doctor. Can I appeal the decision? If so, wha
 I feel this is very unfair as I was genuinely unwell.
 
 Regards,
-Isla Ferguson",extenuating_circumstances,KV5002,high,FALSE
-EXT_015,covid and isolation,"hi
+Isla Ferguson"
+covid and isolation,"hi
 
 ive tested positive for covid and im isolating at home. i feel awful and cant concentrate on anything. the kv6003 report is due next week and theres no way ill be well enough to finish it
 
 do i still need to apply for an extension formally or can u just note it down?? i can send a photo of my test result
 
 thx
-megan",extenuating_circumstances,KV6003,high,TRUE
-EXT_016,Housing Issues Affecting Studies,"Dear Dr Smith,
+megan"
+Housing Issues Affecting Studies,"Dear Dr Smith,
 
 I'm writing to explain a difficult personal situation that is affecting my academic work. I am currently in a dispute with my landlord and am facing possible eviction from my accommodation. The stress and uncertainty has made it very hard for me to focus on my studies, particularly the KV4006 coursework due this month.
 
@@ -1156,16 +1156,16 @@ I have documentation from the Citizens Advice Bureau. Would this be accepted as 
 Thank you for any guidance.
 
 Kind regards,
-David Kim",extenuating_circumstances,KV4006,high,FALSE
-EXT_017,injured my hand in football,"hi dr smith
+David Kim"
+injured my hand in football,"hi dr smith
 
 bit of an awkward one but i injured my hand playing football at the weekend and its in a splint for 2 weeks. i can still type a bit with my left hand but its really slow and painful. the kv5002 coding assignment is going to be really hard to do like this
 
 is there any way i can get extra time?? happy to show u the hospital letter
 
 cheers
-ryan",extenuating_circumstances,KV5002,high,FALSE
-EXT_018,Caring Responsibilities,"Dear Dr Smith,
+ryan"
+Caring Responsibilities,"Dear Dr Smith,
 
 I wanted to make you aware that I have recently become a primary carer for my younger sibling following a change in family circumstances. This has significantly impacted my study time and I'm finding it very difficult to keep up with the KV6003 project milestones.
 
@@ -1174,56 +1174,56 @@ I've spoken to the Student Wellbeing team and they've recommended I contact my m
 I can provide a letter from my social worker if needed.
 
 Best wishes,
-Fatima Al-Rashid",extenuating_circumstances,KV6003,high,FALSE
-EXT_019,panic attacks before exams,"hi dr smith
+Fatima Al-Rashid"
+panic attacks before exams,"hi dr smith
 
 i dont really know how to say this but ive been getting really bad panic attacks especially when i think about the kv4006 exam. ive never had them before this year and its getting worse. i saw my gp last week and theyve referred me for cbt but the waiting list is long
 
 im worried about sitting the exam in a big hall with everyone. are there alternative arrangements for people with anxiety??
 
 sorry for oversharing
-hannah",extenuating_circumstances,KV4006,high,TRUE
-EXT_020,Multiple Deadlines Overwhelm,"Dear Dr Smith,
+hannah"
+Multiple Deadlines Overwhelm,"Dear Dr Smith,
 
 I currently have four assignments due within the same week across different modules, including KV5002 and KV4006. I've been trying to manage my time but the workload has become unmanageable and I'm seriously struggling.
 
 I understand this isn't a traditional extenuating circumstance but I wanted to ask whether there's any process for requesting deadline adjustments when multiple modules clash like this. Several other students in my cohort are in the same position.
 
 Thank you,
-Emily Chen",extenuating_circumstances,,medium,TRUE
-EXT_021,just got out of hospital,"hi
+Emily Chen"
+just got out of hospital,"hi
 
 i was admitted to hospital on monday with appendicitis and had emergency surgery. ive only just been discharged today. obviously i havent been able to work on anything and the kv6003 deadline was yesterday
 
 i have all the hospital paperwork. what do i do now??
 
 thanks
-ben",extenuating_circumstances,KV6003,high,FALSE
-EXT_022,Witness in Court Case,"Dear Dr Smith,
+ben"
+Witness in Court Case,"Dear Dr Smith,
 
 I have been called as a witness in a court case and the hearing date coincides with the KV4006 exam on 15th March. I have a summons letter which I can provide as evidence. This is not something I can reschedule.
 
 Could you advise on what options are available — either an alternative exam date or a deferral?
 
 Kind regards,
-Priya Patel",extenuating_circumstances,KV4006,high,FALSE
-EXT_023,feeling really overwhelmed,"hi dr smith
+Priya Patel"
+feeling really overwhelmed,"hi dr smith
 
 i dont really know who to talk to about this. everything is just too much right now and i feel like im drowning. i havent been to lectures in 2 weeks and i cant bring myself to open my laptop. i know i need to do the kv5002 work but i just cant
 
 i dont know what to ask for i just wanted someone to know
 
 sorry
-connor",extenuating_circumstances,KV5002,high,FALSE
-EXT_024,Late Evidence Submission for EC Claim,"Dear Dr Smith,
+connor"
+Late Evidence Submission for EC Claim,"Dear Dr Smith,
 
 I submitted an extenuating circumstances claim for my KV6003 project last month but I only received my medical evidence yesterday — my GP surgery had a long delay in processing the letter. The EC office says they can't accept late evidence without module leader approval.
 
 Would you be willing to support the late submission of my evidence? I can forward the letter to you directly.
 
 Thank you,
-Zara Ahmed",extenuating_circumstances,KV6003,high,FALSE
-EXT_025,Religious Observance and Deadline,"Dear Dr Smith,
+Zara Ahmed"
+Religious Observance and Deadline,"Dear Dr Smith,
 
 I wanted to raise that the KV5002 submission deadline on Friday 14th April falls during Eid al-Fitr, which is an important religious observance for me. I will be attending prayers and spending time with family and it would be very difficult for me to submit on that day.
 
@@ -1232,8 +1232,8 @@ Could the deadline be adjusted by a day or two, or is there a formal process for
 I appreciate your consideration.
 
 Best regards,
-Amir Hussain",extenuating_circumstances,KV5002,medium,FALSE
-EXT_026,Domestic Abuse Situation,"Dear Dr Smith,
+Amir Hussain"
+Domestic Abuse Situation,"Dear Dr Smith,
 
 This is extremely difficult for me to share but I feel I need to explain why my academic performance has dropped. I am currently in a domestic abuse situation at home and it is severely affecting my ability to study and attend university. I am receiving support from an external organisation.
 
@@ -1242,32 +1242,32 @@ I have not been able to work on my KV6003 project for the past three weeks. I do
 I would prefer to discuss this in person if possible.
 
 Regards,
-[Name withheld for anonymity - Student ID: W21052891]",extenuating_circumstances,KV6003,high,FALSE
-EXT_027,flooded flat,"hi dr smith
+[Name withheld for anonymity - Student ID: W21052891]"
+flooded flat,"hi dr smith
 
 my flat got flooded last weekend because of a burst pipe upstairs. my laptop was damaged and i lost a load of work for kv5002. ive had to move in with a mate temporarily and everything is chaos. the landlord is sorting the insurance but its going to take weeks
 
 i have photos of the damage if u need evidence. is there any way to get extra time on the assignment??
 
 thx
-sam",extenuating_circumstances,KV5002,high,FALSE
-EXT_028,Jury Service Conflicting With Assessment,"Dear Dr Smith,
+sam"
+Jury Service Conflicting With Assessment,"Dear Dr Smith,
 
 I have been called for jury service beginning 10th March which could last up to two weeks. This directly conflicts with the KV4006 submission deadline and a scheduled KV5002 presentation.
 
 I have the court summons letter as evidence. Could you advise on how to proceed with both assessments?
 
 Kind regards,
-Grace Li",extenuating_circumstances,,high,TRUE
-EXT_029,allergic reaction and hospital,"hi
+Grace Li"
+allergic reaction and hospital,"hi
 
 i had a severe allergic reaction on wednesday and was taken to a&e by ambulance. i was kept in overnight for observation and ive been told to rest for the next few days. the kv6003 interim report was due yesterday and i obviously couldnt submit
 
 i have the hospital discharge summary. what do i need to do??
 
 thanks
-poppy",extenuating_circumstances,KV6003,high,FALSE
-EXT_030,Chronic Pain Flare-Up,"Dear Dr Smith,
+poppy"
+Chronic Pain Flare-Up,"Dear Dr Smith,
 
 I have a chronic pain condition (endometriosis) which has flared up badly this month. I've been largely unable to attend lectures or work at my computer for more than short periods. My consultant has written a letter supporting a deadline extension for KV5002.
 
@@ -1276,32 +1276,32 @@ I'm committed to completing the work but I need additional time. Would a two-wee
 Thank you for your understanding.
 
 Best wishes,
-Ellie Saunders",extenuating_circumstances,KV5002,high,FALSE
-EXT_031,death in the family,"hi dr smith
+Ellie Saunders"
+death in the family,"hi dr smith
 
 my uncle passed away suddenly on monday. we were really close and its hit me hard. the funeral is next week and i know the kv4006 deadline is the same week. i honestly cant focus on anything right now
 
 i dont have a death certificate yet but i can get one from my aunt. is there anything i need to fill in
 
 sorry
-tyler",extenuating_circumstances,KV4006,high,TRUE
-EXT_032,Victim of Crime,"Dear Dr Smith,
+tyler"
+Victim of Crime,"Dear Dr Smith,
 
 I was the victim of a mugging last Thursday evening near campus. I was physically assaulted and had my laptop and phone stolen. I've reported it to the police and have a crime reference number.
 
 Beyond the practical issue of losing my devices (which contained my KV6003 project work), the experience has left me quite shaken and I'm finding it hard to concentrate. I would like to request an extension while I recover and replace my equipment.
 
 Kind regards,
-Marcus Johnson",extenuating_circumstances,KV6003,high,FALSE
-EXT_033,medication side effects,"hi dr smith
+Marcus Johnson"
+medication side effects,"hi dr smith
 
 ive recently started new medication for depression and the side effects are really rough. im dizzy and nauseous most of the day and i cant concentrate at all. my gp said it takes a few weeks to settle but in the meantime i cant keep up with kv5002 deadlines
 
 can i apply for EC for side effects?? its not like im choosing to feel this way
 
 thx
-will",extenuating_circumstances,KV5002,high,FALSE
-EXT_034,Immigration Status Issues,"Dear Dr Smith,
+will"
+Immigration Status Issues,"Dear Dr Smith,
 
 I'm writing to let you know about a serious personal situation. My visa renewal application has been delayed and I've been told there may be complications with my right to remain. This is causing me extreme stress and anxiety and I'm finding it very difficult to concentrate on my KV4006 studies.
 
@@ -1310,30 +1310,30 @@ I have documentation from my immigration solicitor. I would appreciate any flexi
 Thank you for your discretion.
 
 Regards,
-Amara Okafor",extenuating_circumstances,KV4006,high,FALSE
-EXT_035,broken laptop no backup,"hi
+Amara Okafor"
+broken laptop no backup,"hi
 
 my laptop screen completely died last night and i cant afford to fix it or buy a new one right now. all my kv6003 code is on the local drive and i didnt back it up to github yet because i was still testing. i know thats my fault but i literally cant access any of my work
 
 is there a university laptop loan scheme or something?? also i need more time for the deadline obviously
 
 sorry
-eleanor",extenuating_circumstances,KV6003,high,TRUE
-FDB_001,KV5002 Assignment 1 Feedback,"Dear Dr Smith,
+eleanor"
+KV5002 Assignment 1 Feedback,"Dear Dr Smith,
 
 I received my grade for KV5002 Assignment 1 and I got 55%. I was hoping to do better as I put a lot of effort into it. The feedback on Turnitin is quite short and I'm not sure exactly where I went wrong.
 
 Could I arrange a meeting to go through the feedback in more detail? I want to understand what I need to improve for Assignment 2.
 
 Thank you,
-Emily Chen",feedback,KV5002,medium,FALSE
-FDB_002,where is my mark??,"hi
+Emily Chen"
+where is my mark??,"hi
 
 i submitted my kv4006 assignment 4 weeks ago and still havent got a mark back. the module handbook says feedback within 3 weeks. when are we getting our results??
 
 cheers
-jake",feedback,KV4006,medium,FALSE
-FDB_003,Grade Query - KV6003 Interim Report,"Dear Dr Smith,
+jake"
+Grade Query - KV6003 Interim Report,"Dear Dr Smith,
 
 I received 48% for my KV6003 interim report which is a fail. I'm quite shocked by this as I thought I had addressed all the requirements in the brief. Could you provide more detailed feedback on why the mark was so low?
 
@@ -1345,22 +1345,22 @@ Specifically, I'd like to understand:
 I'm determined to improve but I need clearer direction.
 
 Kind regards,
-Tom Wilson",feedback,KV6003,high,FALSE
-FDB_004,think my mark is wrong,"hi dr smith
+Tom Wilson"
+think my mark is wrong,"hi dr smith
 
 i got 42% for the kv5002 coursework but i dont think thats right. my code runs perfectly and i tested it loads of times. i think there might have been a marking error. can u check it again??
 
 thx
-ryan",feedback,KV5002,high,FALSE
-FDB_005,Positive Feedback - Thank You,"Dear Dr Smith,
+ryan"
+Positive Feedback - Thank You,"Dear Dr Smith,
 
 I just wanted to send a quick email to say thank you for the detailed feedback on my KV6003 project proposal. The comments were really helpful and I feel much more confident about the direction of my project now.
 
 I particularly appreciated the suggested papers for my literature review — they've been very relevant.
 
 Best wishes,
-Zara Ahmed",feedback,KV6003,low,FALSE
-FDB_006,Formal Grade Appeal - KV4006,"Dear Dr Smith,
+Zara Ahmed"
+Formal Grade Appeal - KV4006,"Dear Dr Smith,
 
 I am writing to formally query my grade for the KV4006 examination. I received 38% which is a fail, however I am confident I answered the questions correctly based on the lecture material and my revision notes.
 
@@ -1369,31 +1369,31 @@ I would like to request a remark of my paper. Could you advise on the formal pro
 I have kept all my revision materials and practice answers if these would be useful for comparison.
 
 Yours sincerely,
-Priya Patel",feedback,KV4006,high,FALSE
-FDB_007,cant see feedback on turnitin,"hi
+Priya Patel"
+cant see feedback on turnitin,"hi
 
 it says my kv5002 feedback is available but when i click on the turnitin link it just shows my submission with no comments or grade. is it a turnitin issue or has it not been released yet??
 
 pls help i want to know how i did
 
-katie",feedback,KV5002,medium,FALSE
-FDB_008,Comparing My Mark With Others,"Dear Dr Smith,
+katie"
+Comparing My Mark With Others,"Dear Dr Smith,
 
 I don't want to cause any issues but I've been talking to other students in KV4006 and several of us who submitted very similar approaches got quite different marks. Two of my friends got 65% and 68% but I got 51% and I feel our work was of comparable quality.
 
 I'm not accusing anyone of anything but could you explain what differentiated the marks? I want to understand the marking criteria better.
 
 Thank you,
-Sophie Green",feedback,KV4006,medium,FALSE
-FDB_009,feedback for group project,"hi dr smith
+Sophie Green"
+feedback for group project,"hi dr smith
 
 we got our group project mark back for kv5002 and its 58% but we dont know how the individual marks break down. like did everyone in the group get the same mark or was there individual weighting?? because some people did way more work than others
 
 can u explain how it was marked
 
 thx
-dan",feedback,KV5002,medium,TRUE
-FDB_010,KV6003 Supervisor Feedback Delay,"Dear Dr Smith,
+dan"
+KV6003 Supervisor Feedback Delay,"Dear Dr Smith,
 
 I sent you my draft literature review chapter for KV6003 three weeks ago and I haven't received any feedback yet. I appreciate you're very busy but I'm finding it difficult to progress with the next chapter without knowing if my approach is on the right track.
 
@@ -1402,160 +1402,160 @@ Could you give me an indication of when I might receive your comments? Even brie
 Thank you for your time.
 
 Regards,
-Olivia Hughes",feedback,KV6003,medium,FALSE
-FDB_011,WHAT DOES THIS FEEDBACK MEAN,"HI DR SMITH
+Olivia Hughes"
+WHAT DOES THIS FEEDBACK MEAN,"HI DR SMITH
 
 I GOT MY KV4006 MARK BACK AND THE FEEDBACK SAYS 'INSUFFICIENT CRITICAL ANALYSIS' AND 'LACKS DEPTH'. WHAT DOES THAT ACTUALLY MEAN?? I WROTE 3000 WORDS AND REFERENCED 15 SOURCES SO I DONT UNDERSTAND HOW ITS NOT ENOUGH
 
 CAN YOU EXPLAIN BECAUSE THE FEEDBACK IS NOT HELPFUL ON ITS OWN
 
-MICHAEL",feedback,KV4006,medium,FALSE
-FDB_012,Anonymous Marking Concern and Feedback Query,"Dear Dr Smith,
+MICHAEL"
+Anonymous Marking Concern and Feedback Query,"Dear Dr Smith,
 
 I received my KV5002 mark and I noticed that the feedback comments reference me by name even though I thought marking was anonymous. I'm a bit concerned about this — does it mean the marker knew whose work they were assessing?
 
 Also, the feedback mentions I should have included unit tests but I couldn't find this requirement anywhere in the brief. Could you clarify?
 
 Best regards,
-Hannah Wright",feedback,KV5002,medium,TRUE
-FDB_013,disappointed with mark,"hi
+Hannah Wright"
+disappointed with mark,"hi
 
 got 52% for kv6003 interim which is basically a pass and nothing more. i spent weeks on that report and honestly feel like the marking was harsh. every time i try really hard i still end up with mediocre marks and its really demotivating
 
 i dont even know if its worth requesting feedback because nothing ever changes
 
 whatever
-liam",feedback,KV6003,medium,FALSE
-FDB_014,Second Marker Request,"Dear Dr Smith,
+liam"
+Second Marker Request,"Dear Dr Smith,
 
 Following receipt of my KV4006 grade (45%), I would like to formally request that my work be reviewed by a second marker. I believe the marking may not have fully reflected the content of my submission, particularly the database normalisation section which I feel was thorough and well-evidenced.
 
 Could you advise on whether a second marking is possible and what the process involves?
 
 Thank you,
-David Kim",feedback,KV4006,high,FALSE
-FDB_015,feedback meeting request,"hi dr smith
+David Kim"
+feedback meeting request,"hi dr smith
 
 is it possible to book a 15 min meeting to go through my kv5002 feedback?? i got 61% which is ok but i want to push for a first in assignment 2 and i think going through the feedback properly would help
 
 when are u free this week or next
 
 cheers
-james",feedback,KV5002,low,FALSE
-FDB_016,Peer Assessment Unfair,"Dear Dr Smith,
+james"
+Peer Assessment Unfair,"Dear Dr Smith,
 
 The peer assessment component of the KV5002 group project has resulted in an unfair mark for me. One of my group members gave me a very low score despite the fact that I contributed significantly to the project. I have evidence of my contributions including Git commit history and WhatsApp messages.
 
 Can the peer assessment scores be reviewed? I don't think one person's grudge should affect my degree classification.
 
 Regards,
-Alex Turner",feedback,KV5002,high,FALSE
-FDB_017,marks still not out for kv4006,"hi
+Alex Turner"
+marks still not out for kv4006,"hi
 
 its been over a month since we submitted kv4006 and marks still arent out. loads of people are asking about it in the group chat. do u know when theyll be released??
 
 some of us need the marks for job applications
 
 ta
-ben",feedback,KV4006,medium,FALSE
-FDB_018,Understanding the Marking Rubric,"Dear Dr Smith,
+ben"
+Understanding the Marking Rubric,"Dear Dr Smith,
 
 Now that I've received my KV6003 interim feedback, I'd like to better understand the marking rubric. The brief includes a rubric but some of the grade descriptors are quite vague — for example, the difference between 'good critical analysis' (60-69%) and 'excellent critical analysis' (70%+) isn't clear to me.
 
 Could you provide some examples or explain what specifically pushes work from a 2:1 to a first-class level?
 
 Thank you,
-Isla Ferguson",feedback,KV6003,medium,FALSE
-FDB_019,late penalty query,"hi dr smith
+Isla Ferguson"
+late penalty query,"hi dr smith
 
 i got 45% for my kv5002 assignment but i submitted it 1 day late. does that mean my original mark was higher and its been capped?? if so what was my actual mark before the penalty?? because if i actually passed before the penalty then i feel like that should count for something
 
 thx
-connor",feedback,KV5002,medium,TRUE
-FDB_020,Module Evaluation Feedback,"Dear Dr Smith,
+connor"
+Module Evaluation Feedback,"Dear Dr Smith,
 
 I wanted to share some constructive feedback about KV4006 as a whole. Overall I've found the module well-structured and the lectures clear. However, I think the practical sessions could benefit from more hands-on exercises rather than demonstrations, and the assignment brief could be clearer about expectations for the design section.
 
 I hope this is useful. I thought it was better to share directly rather than just through the anonymous module evaluation form.
 
 Best wishes,
-Rebecca Lawrence",feedback,KV4006,low,FALSE
-email_id,subject,body,category,module,priority,multi_intent
-FDB_021,KV6003 Proposal Feedback - Confused,"Dear Dr Smith,
+Rebecca Lawrence"
+subject,body
+KV6003 Proposal Feedback - Confused,"Dear Dr Smith,
 
 I received feedback on my KV6003 project proposal and I'm a bit confused by some of the comments. The feedback says my scope is 'too ambitious' but also that I need to 'demonstrate more depth.' These seem contradictory to me — should I narrow my focus or go deeper with what I have?
 
 Could we discuss this in our next supervision?
 
 Thank you,
-Amara Okafor",feedback,KV6003,medium,FALSE
-FDB_022,mark seems low compared to effort,"hi dr smith
+Amara Okafor"
+mark seems low compared to effort,"hi dr smith
 
 i got 54% for kv5002 and honestly im gutted. i spent so long on it and i thought my code was solid. the feedback just says 'insufficient testing' but i did include test cases. i dont understand what more was expected
 
 can u look at it again or explain what i missed
 
 thx
-sam",feedback,KV5002,medium,FALSE
-FDB_023,Turnitin Feedback Not Visible,"Dear Dr Smith,
+sam"
+Turnitin Feedback Not Visible,"Dear Dr Smith,
 
 I can see my grade for KV4006 on the student portal but when I go to Turnitin to view the inline feedback, the page just shows a loading spinner and never opens. I've tried different browsers and cleared my cache.
 
 Is there an alternative way to access my feedback?
 
 Thanks,
-Grace Li",feedback,KV4006,medium,FALSE
-FDB_024,why did i lose marks for formatting,"hi
+Grace Li"
+why did i lose marks for formatting,"hi
 
 got my kv6003 interim back and lost 8 marks for formatting apparently. nobody told us there were marks for formatting?? the brief only mentions content and analysis. can u explain what the formatting issues were because the feedback just says 'poor presentation'
 
 this is ridiculous tbh
-tyler",feedback,KV6003,medium,FALSE
-FDB_025,Grade Distribution Query,"Dear Dr Smith,
+tyler"
+Grade Distribution Query,"Dear Dr Smith,
 
 Without asking for specific individuals' grades, could you share the overall grade distribution for the KV5002 assignment? I'd like to understand where my mark (62%) sits relative to the cohort average. This would help me gauge whether my approach was on the right track.
 
 Thank you,
-Nina Patel",feedback,KV5002,low,FALSE
-FDB_026,supervisor never gives feedback,"hi dr smith
+Nina Patel"
+supervisor never gives feedback,"hi dr smith
 
 i know ur not my kv6003 supervisor but i dont know who else to ask. ive sent my supervisor three draft chapters over the past 6 weeks and havent received any feedback on any of them. ive emailed twice to chase and got nothing back
 
 im running out of time and i cant improve my work without feedback. what should i do??
 
 thanks
-eleanor",feedback,KV6003,high,FALSE
-FDB_027,Moderation Outcome Changed My Grade,"Dear Dr Smith,
+eleanor"
+Moderation Outcome Changed My Grade,"Dear Dr Smith,
 
 I originally received 72% for KV4006 but I've just noticed it's been changed to 65% on the student portal with a note saying 'post-moderation adjustment.' Nobody informed me this was happening and I'm quite upset as this changes my module average significantly.
 
 Can you explain why the grade was changed and whether I have any recourse?
 
 Regards,
-Ellie Saunders",feedback,KV4006,high,FALSE
-FDB_028,feedback on draft pls,"hi dr smith
+Ellie Saunders"
+feedback on draft pls,"hi dr smith
 
 i know the deadline isnt for a while but ive finished a first draft of my kv5002 report. is there any chance u could have a quick look and tell me if im on the right track?? even just the first couple of pages would be helpful
 
 no rush obviously
 
 cheers
-poppy",feedback,KV5002,low,FALSE
-FDB_029,Generic Feedback Not Helpful,"Dear Dr Smith,
+poppy"
+Generic Feedback Not Helpful,"Dear Dr Smith,
 
 I appreciate you providing feedback on the KV4006 coursework but I found the comments quite generic. Phrases like 'needs more detail' and 'could be improved' don't give me enough information to know what specifically to change.
 
 I don't mean to be critical and I understand you have many students to mark. Could I book a short meeting to get more specific guidance?
 
 Thank you,
-Marcus Johnson",feedback,KV4006,medium,FALSE
-FDB_030,happy with my mark!,"hi dr smith
+Marcus Johnson"
+happy with my mark!,"hi dr smith
 
 just wanted to say thanks — got 78% on the kv6003 interim and im really pleased!! your suggestion to restructure the literature review made a huge difference. feeling much more confident about the final submission now
 
 cheers
-will",feedback,KV6003,low,FALSE
-MIX_001,Few Things About KV6003,"Dear Dr Smith,
+will"
+Few Things About KV6003,"Dear Dr Smith,
 
 I hope you're well. I have a few things I wanted to ask about KV6003:
 
@@ -1566,8 +1566,8 @@ I hope you're well. I have a few things I wanted to ask about KV6003:
 Apologies for the long email but I wanted to get everything in one message rather than sending three separate ones.
 
 Kind regards,
-Olivia Hughes",assessment|resources|assessment,KV6003,medium,TRUE
-MIX_002,kv5002 stuff,"hi dr smith
+Olivia Hughes"
+kv5002 stuff,"hi dr smith
 
 few things:
 - when is the assignment due again?
@@ -1575,8 +1575,8 @@ few things:
 - and my attendance is showing wrong can u fix it
 
 thx
-jake",assessment|resources|admin,KV5002,medium,TRUE
-MIX_003,Extension Request and Supervision Rescheduling,"Dear Dr Smith,
+jake"
+Extension Request and Supervision Rescheduling,"Dear Dr Smith,
 
 I'm writing about two things regarding KV6003. Firstly, I've been unwell with a chest infection for the past week and I'd like to request a short extension on the interim report. I have a GP letter which I can provide.
 
@@ -1585,22 +1585,22 @@ Secondly, I won't be able to make our supervision meeting on Thursday because of
 Thank you for understanding.
 
 Best wishes,
-Rebecca Lawrence",extenuating_circumstances|timetabling,KV6003,high,TRUE
-MIX_004,kv4006 questions and mark query,"hi
+Rebecca Lawrence"
+kv4006 questions and mark query,"hi
 
 ive got a few questions about kv4006. first off when are we getting our coursework marks back?? its been ages. also i heard the exam has been moved to a different date is that true?? and lastly where can i find the revision materials u mentioned in the last lecture
 
 sorry for all the questions lol
-ben",feedback|timetabling|resources,KV4006,medium,TRUE
-MIX_005,Module Feedback and Next Year Planning,"Dear Dr Smith,
+ben"
+Module Feedback and Next Year Planning,"Dear Dr Smith,
 
 Now that KV5002 is wrapping up, I wanted to do two things. First, I wanted to say that the module has been really well taught and I've learned a lot — the practical sessions were particularly valuable.
 
 Second, I'm choosing my modules for next year and I was wondering if you could advise on which optional modules would complement KV6003 well? I'm interested in AI and data science.
 
 Thank you,
-Emily Chen",feedback|admin,KV5002,low,TRUE
-MIX_006,URGENT - Multiple Issues,"HI DR SMITH
+Emily Chen"
+URGENT - Multiple Issues,"HI DR SMITH
 
 I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO.
 
@@ -1611,8 +1611,8 @@ I HAVE SEVERAL PROBLEMS AND I DONT KNOW WHO TO TALK TO.
 
 PLEASE HELP IM SO STRESSED
 
-MICHAEL",extenuating_circumstances|feedback|admin|resources,,high,TRUE
-MIX_007,Quick Update and Questions,"Dear Dr Smith,
+MICHAEL"
+Quick Update and Questions,"Dear Dr Smith,
 
 Just a quick email with an update and a couple of questions about KV6003.
 
@@ -1624,16 +1624,16 @@ Questions:
 - Are we allowed to use spaCy or do you prefer we stick to NLTK?
 
 Thanks,
-Zara Ahmed",assessment|resources,KV6003,medium,TRUE
-MIX_008,worried about everything,"hi dr smith
+Zara Ahmed"
+worried about everything,"hi dr smith
 
 sorry to dump all this on u but im really struggling atm. i failed the kv4006 coursework and i dont understand the feedback. ive also missed 3 weeks of kv5002 lectures because of personal stuff and i dont know how to catch up. and now my student finance has been delayed so i cant even afford my rent
 
 i know most of this isnt ur problem but i didnt know who else to email. is there someone at the university who can help with all of this??
 
 thanks
-connor",feedback|extenuating_circumstances|admin,,high,TRUE
-MIX_009,KV5002 Group Project - Multiple Concerns,"Dear Dr Smith,
+connor"
+KV5002 Group Project - Multiple Concerns,"Dear Dr Smith,
 
 I'm writing about several concerns with the KV5002 group project:
 
@@ -1644,8 +1644,8 @@ I'm writing about several concerns with the KV5002 group project:
 Apologies for the lengthy email.
 
 Best regards,
-Sophie Green",assessment|admin|timetabling,KV5002,high,TRUE
-MIX_010,catching up after being away,"hi dr smith
+Sophie Green"
+catching up after being away,"hi dr smith
 
 ive been off for 3 weeks because of health stuff (i submitted an EC form). im back now and trying to catch up but i dont know where to start. can u tell me:
 
@@ -1655,8 +1655,8 @@ ive been off for 3 weeks because of health stuff (i submitted an EC form). im ba
 - do i need to apply for anything else or is my EC form enough
 
 sorry for all the questions
-katie",resources|timetabling|extenuating_circumstances,KV5002,high,TRUE
-MIX_011,End of Year Admin and Project Query,"Dear Dr Smith,
+katie"
+End of Year Admin and Project Query,"Dear Dr Smith,
 
 As the academic year is coming to a close, I wanted to check a few things:
 
@@ -1667,8 +1667,8 @@ As the academic year is coming to a close, I wanted to check a few things:
 Thank you for your help throughout the year.
 
 Kind regards,
-Isla Ferguson",admin|feedback|admin,,medium,TRUE
-MIX_012,need help with loads of stuff,"hi
+Isla Ferguson"
+need help with loads of stuff,"hi
 
 ok so basically everything is going wrong with kv6003 right now:
 - my python code keeps crashing and i dont know why
@@ -1679,8 +1679,8 @@ ok so basically everything is going wrong with kv6003 right now:
 can i come see u in office hours this week??
 
 thx
-josh",resources|assessment|extenuating_circumstances,KV6003,high,TRUE
-MIX_013,Placement Preparation and Module Questions,"Dear Dr Smith,
+josh"
+Placement Preparation and Module Questions,"Dear Dr Smith,
 
 I'm going on placement next year and I wanted to discuss a few things:
 
@@ -1691,8 +1691,8 @@ I'm going on placement next year and I wanted to discuss a few things:
 I appreciate your time.
 
 Thank you,
-Hannah Wright",assessment|admin|resources,KV6003,medium,TRUE
-MIX_014,kv4006 and kv5002 problems,"hi dr smith
+Hannah Wright"
+kv4006 and kv5002 problems,"hi dr smith
 
 two separate things sorry:
 
@@ -1701,8 +1701,8 @@ for kv4006 i dont understand the feedback on my ER diagram. it says 'normalisati
 for kv5002 i cant access the github repo for the group project. the link expired or something and none of my group can get in either
 
 thx
-dan",feedback|resources,,medium,TRUE
-MIX_015,Returning Student - Multiple Queries,"Dear Dr Smith,
+dan"
+Returning Student - Multiple Queries,"Dear Dr Smith,
 
 I'm returning to university after a year out on interruption. I have several questions:
 
@@ -1714,8 +1714,8 @@ I'm returning to university after a year out on interruption. I have several que
 I'd appreciate a meeting to discuss the transition back.
 
 Thank you,
-David Kim",admin|assessment|resources,KV6003,high,TRUE
-MIX_016,Dissertation and Career Advice,"Dear Dr Smith,
+David Kim"
+Dissertation and Career Advice,"Dear Dr Smith,
 
 I hope this isn't overstepping but I'd value your advice on two things. My KV6003 project is on NLP-based email classification and I'm really enjoying it. I wanted to ask:
 
@@ -1725,16 +1725,16 @@ I hope this isn't overstepping but I'd value your advice on two things. My KV600
 No pressure to answer the career question if you'd rather not — I just respect your opinion.
 
 Best wishes,
-Sarah Thompson",assessment|admin,KV6003,low,TRUE
-MIX_017,complaint and extension request,"hi dr smith
+Sarah Thompson"
+complaint and extension request,"hi dr smith
 
 im going to be blunt. the kv5002 assignment brief is really unclear and ive wasted days trying to figure out what section B is actually asking for. ive asked 3 other students and none of us agree on what its meant to be. i think this is unfair and the brief should be rewritten or clarified.
 
 because of the confusion ive lost time and now i need an extension. i know thats not a proper extenuating circumstance but its the universitys fault not mine
 
 sorry if this comes across as rude im just frustrated
-alex",feedback|extenuating_circumstances|assessment,KV5002,high,TRUE
-MIX_018,International Student - Various Concerns,"Dear Dr Smith,
+alex"
+International Student - Various Concerns,"Dear Dr Smith,
 
 As an international student I have a few concerns I'd appreciate your help with:
 
@@ -1745,8 +1745,8 @@ As an international student I have a few concerns I'd appreciate your help with:
 Thank you for your understanding.
 
 Regards,
-Amir Hussain",timetabling|resources|extenuating_circumstances,,high,TRUE
-MIX_019,summer resit and next year stuff,"hi dr smith
+Amir Hussain"
+summer resit and next year stuff,"hi dr smith
 
 so i failed kv4006 which is annoying but it is what it is. couple of questions:
 
@@ -1756,8 +1756,8 @@ so i failed kv4006 which is annoying but it is what it is. couple of questions:
 4. also unrelated but the kv5002 reading list link is broken
 
 thx
-liam",assessment|admin|resources,,high,TRUE
-MIX_020,Thank You and Final Questions,"Dear Dr Smith,
+liam"
+Thank You and Final Questions,"Dear Dr Smith,
 
 As we approach the end of the year, I wanted to thank you for your support throughout KV6003. Your feedback on my drafts has been invaluable and the project has genuinely been the highlight of my degree.
 
@@ -1767,8 +1767,8 @@ A few final questions:
 3. Would you be open to staying in touch after graduation? I'd like to keep you updated on where I end up.
 
 With sincere thanks,
-Fatima Al-Rashid",assessment|feedback|admin,KV6003,low,TRUE
-MIX_021,KV6003 Project Update and Admin Query,"Dear Dr Smith,
+Fatima Al-Rashid"
+KV6003 Project Update and Admin Query,"Dear Dr Smith,
 
 Quick update — I've finished training my classification model and initial results are looking promising (F1 around 0.82). I'm now working on the evaluation chapter.
 
@@ -1777,8 +1777,8 @@ Two things:
 2. I've been offered a graduate job starting July and they want a confirmed graduation date. Who do I contact for that?
 
 Thank you,
-Nina Patel",assessment|admin,KV6003,medium,TRUE
-MIX_022,everything is broken,"hi dr smith
+Nina Patel"
+everything is broken,"hi dr smith
 
 im having a nightmare week honestly:
 - the kv4006 slides from weeks 9 and 10 still arent on blackboard
@@ -1787,8 +1787,8 @@ im having a nightmare week honestly:
 
 i dont know who else to email about all this. sorry for the rant
 
-tyler",resources|admin|feedback,,medium,TRUE
-MIX_023,Resit Preparation and Timetable Query,"Dear Dr Smith,
+tyler"
+Resit Preparation and Timetable Query,"Dear Dr Smith,
 
 I'm preparing for the KV4006 resit and I have two questions:
 
@@ -1798,8 +1798,8 @@ I'm preparing for the KV4006 resit and I have two questions:
 I want to start revising effectively.
 
 Thank you,
-Marcus Johnson",assessment|timetabling,KV4006,medium,TRUE
-MIX_024,coming back after illness and need help,"hi dr smith
+Marcus Johnson"
+coming back after illness and need help,"hi dr smith
 
 ive been off for 2 weeks with glandular fever (i submitted an EC form with my gp letter). im feeling better now and want to get back on track with kv5002
 
@@ -1811,8 +1811,8 @@ i need to know:
 also my attendance is going to look bad — does the EC form cover that??
 
 thx
-poppy",extenuating_circumstances|resources|assessment|admin,KV5002,high,TRUE
-MIX_025,Group Project Mess,"Dear Dr Smith,
+poppy"
+Group Project Mess,"Dear Dr Smith,
 
 Our KV5002 group project has several issues I need your help with:
 
@@ -1823,8 +1823,8 @@ Our KV5002 group project has several issues I need your help with:
 Sorry for the complex email.
 
 Regards,
-Ellie Saunders",admin|resources|timetabling,KV5002,high,TRUE
-MIX_026,kv4006 and kv6003 stuff,"hi
+Ellie Saunders"
+kv4006 and kv6003 stuff,"hi
 
 couple of things from me:
 
@@ -1833,8 +1833,8 @@ for kv4006 — i got 51% on the coursework and the feedback says my normalisatio
 for kv6003 — ive been trying to install tensorflow for my project but its not working on my laptop. is there an alternative library i can use instead??
 
 thx
-sam",feedback|resources,,medium,TRUE
-MIX_027,Final Year Stress and Deadline Concerns,"Dear Dr Smith,
+sam"
+Final Year Stress and Deadline Concerns,"Dear Dr Smith,
 
 I hope you don't mind me being candid. I'm finding the final year incredibly overwhelming. I have the KV6003 project, the KV5002 assignment, and the KV4006 exam all within the same two-week period and I'm not coping well.
 
@@ -1844,8 +1844,8 @@ I also wanted to ask whether the KV6003 viva can be done remotely — I have sev
 
 Thank you for listening.
 
-Amara",extenuating_circumstances|timetabling|assessment,,high,TRUE
-MIX_028,quick questions before submission,"hi dr smith
+Amara"
+quick questions before submission,"hi dr smith
 
 submitting kv6003 this week and just have a few last minute things:
 
@@ -1855,8 +1855,8 @@ submitting kv6003 this week and just have a few last minute things:
 4. also i never got feedback on my draft chapter i sent 4 weeks ago — any chance u could take a quick look before i submit
 
 thx
-eleanor",assessment|resources|feedback,KV6003,high,TRUE
-MIX_029,Late Module Registration and Catching Up,"Dear Dr Smith,
+eleanor"
+Late Module Registration and Catching Up,"Dear Dr Smith,
 
 I've just been approved to take KV4006 as a late addition after switching programmes. I'm joining in Week 5 so I've missed four weeks of content.
 
@@ -1868,8 +1868,8 @@ Could you advise on:
 
 Thank you for your patience.
 
-Grace Li",resources|timetabling|assessment|admin,KV4006,high,TRUE
-MIX_030,End of Module Thanks and Practical Questions,"Dear Dr Smith,
+Grace Li"
+End of Module Thanks and Practical Questions,"Dear Dr Smith,
 
 As KV4006 wraps up I wanted to say thanks for a great module — the SQL content has been really practical and I've already used it in a job interview.
 
@@ -1878,156 +1878,156 @@ A couple of remaining things:
 2. I'd like to reference you on my LinkedIn profile as my module leader — would that be OK?
 
 Best wishes,
-Will",feedback|admin,KV4006,low,TRUE
-DUP_001,KV6003 Deadline Confirmation,"Dear Dr Smith,
+Will"
+KV6003 Deadline Confirmation,"Dear Dr Smith,
 
 Could you confirm the exact deadline for the KV6003 final project submission? The brief says May 7th but Blackboard shows May 6th. I want to make sure I don't submit late.
 
 Thank you,
-Hannah Wright",assessment,KV6003,medium,FALSE
-DUP_002,kv6003 deadline??,"hi
+Hannah Wright"
+kv6003 deadline??,"hi
 
 when is the kv6003 project due?? blackboard and the brief have different dates and i dont know which one is right. is it the 6th or 7th of may??
 
 thx
-josh",assessment,KV6003,medium,FALSE
-DUP_003,Clarification on KV6003 Submission Date,"Dear Dr Smith,
+josh"
+Clarification on KV6003 Submission Date,"Dear Dr Smith,
 
 I'm a bit confused about the KV6003 submission date. The assignment brief states 7th May but I've seen 6th May mentioned on Blackboard. Several of us in the cohort are unsure which is correct. Could you clarify?
 
 Best regards,
-Isla Ferguson",assessment,KV6003,medium,FALSE
-DUP_004,KV5002 Slides Not on Blackboard,"Dear Dr Smith,
+Isla Ferguson"
+KV5002 Slides Not on Blackboard,"Dear Dr Smith,
 
 I was looking for the Week 8 lecture slides for KV5002 on Blackboard but they don't appear to have been uploaded yet. Could you let me know when they'll be available?
 
 Thank you,
-Emily Chen",resources,KV5002,low,FALSE
-DUP_005,week 8 slides?,"hi
+Emily Chen"
+week 8 slides?,"hi
 
 are the kv5002 week 8 slides going to be uploaded?? they still arent on blackboard and its been a week since the lecture
 
 cheers
-ryan",resources,KV5002,low,FALSE
-DUP_006,Missing Lecture Slides - KV5002 Week 8,"Hi Dr Smith,
+ryan"
+Missing Lecture Slides - KV5002 Week 8,"Hi Dr Smith,
 
 Just wanted to flag that the slides from the Week 8 KV5002 lecture still haven't appeared on Blackboard. A few of us need them for the assignment. Any idea when they'll be up?
 
 Thanks,
-James",resources,KV5002,low,FALSE
-DUP_007,KV4006 Marks - When?,"Dear Dr Smith,
+James"
+KV4006 Marks - When?,"Dear Dr Smith,
 
 We submitted the KV4006 coursework over four weeks ago and we still haven't received our grades. The module handbook states a three-week turnaround for feedback. Could you provide an update on when we can expect our results?
 
 Thank you,
-Priya Patel",feedback,KV4006,medium,FALSE
-DUP_008,still no kv4006 marks,"hi
+Priya Patel"
+still no kv4006 marks,"hi
 
 any update on the kv4006 marks?? its been over a month now. some of us need them for placement applications and the wait is getting ridiculous
 
 sorry but its frustrating
-dan",feedback,KV4006,medium,FALSE
-DUP_009,KV4006 Coursework Results?,"Hi Dr Smith,
+dan"
+KV4006 Coursework Results?,"Hi Dr Smith,
 
 Apologies if you've already been asked this but do you have an ETA on the KV4006 coursework marks? I know the marking period has passed and a few of us are eager to see how we did.
 
 Thanks,
-Sophie Green",feedback,KV4006,medium,FALSE
-DUP_010,Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
+Sophie Green"
+Is Friday's KV4006 Lecture Cancelled?,"Dear Dr Smith,
 
 I've heard that this Friday's KV4006 lecture might be cancelled. Could you confirm whether it's going ahead? I don't want to travel in unnecessarily but I also don't want to miss it if it's on.
 
 Thank you,
-Alex Turner",timetabling,KV4006,medium,FALSE
-DUP_011,kv4006 friday lecture,"hi
+Alex Turner"
+kv4006 friday lecture,"hi
 
 is the kv4006 lecture on friday happening or not?? people are saying its cancelled but theres nothing on blackboard about it
 
 pls let us know
-connor",timetabling,KV4006,medium,FALSE
-DUP_012,Friday Lecture - KV4006,"Hi Dr Smith,
+connor"
+Friday Lecture - KV4006,"Hi Dr Smith,
 
 Sorry to add to what I'm sure is a pile of emails about this — is the KV4006 lecture still on this Friday? There's been confusion in the group chat and no announcement on Blackboard.
 
 Cheers,
-Tom",timetabling,KV4006,medium,FALSE
-DUP_013,Do I Need to Declare ChatGPT Use?,"Dear Dr Smith,
+Tom"
+Do I Need to Declare ChatGPT Use?,"Dear Dr Smith,
 
 I used ChatGPT to help me understand some concepts for my KV6003 project and to assist with debugging. I want to be fully transparent — do I need to declare this in my report? If so, is there a specific format for referencing AI tools?
 
 Thank you,
-Olivia Hughes",assessment,KV6003,medium,FALSE
-DUP_014,chatgpt referencing,"hi dr smith
+Olivia Hughes"
+chatgpt referencing,"hi dr smith
 
 quick question — for kv6003 do we have to reference it if we used chatgpt?? i used it to help explain some stuff and fix some code errors. dont want to get done for academic misconduct lol
 
 thx
-megan",assessment,KV6003,medium,FALSE
-DUP_015,AI Tool Declaration - KV6003,"Dear Dr Smith,
+megan"
+AI Tool Declaration - KV6003,"Dear Dr Smith,
 
 Could you clarify the university's policy on declaring AI tool usage for the KV6003 project? I used Claude and ChatGPT during my development process for debugging assistance and understanding certain NLP concepts. I want to ensure I'm fully compliant with academic integrity policies.
 
 Is there a recommended way to reference these tools in the report?
 
 Kind regards,
-Zara Ahmed",assessment,KV6003,medium,FALSE
-DUP_016,KV5002 Assignment - What Format for Code?,"Dear Dr Smith,
+Zara Ahmed"
+KV5002 Assignment - What Format for Code?,"Dear Dr Smith,
 
 Quick question about the KV5002 assignment submission. Should we submit our code as .py files or as a Jupyter notebook? The brief seems to mention both and I want to get it right.
 
 Thank you,
-Ellie Saunders",assessment,KV5002,medium,FALSE
-DUP_017,code format for kv5002,"hi
+Ellie Saunders"
+code format for kv5002,"hi
 
 for the kv5002 coursework do we hand in python scripts or jupyter notebooks?? the brief is confusing because it says both in different parts
 
 thx
-tyler",assessment,KV5002,medium,FALSE
-DUP_018,Submission File Type - KV5002,"Hi Dr Smith,
+tyler"
+Submission File Type - KV5002,"Hi Dr Smith,
 
 Sorry if this has been asked already but I'm unclear on the file format for the KV5002 code submission. Is it .py files, .ipynb notebooks, or either? A few of us in the group chat have different interpretations.
 
 Cheers,
-Sam",assessment,KV5002,medium,FALSE
-DUP_019,Where Are KV4006 Past Papers?,"Dear Dr Smith,
+Sam"
+Where Are KV4006 Past Papers?,"Dear Dr Smith,
 
 I'm looking for past exam papers for KV4006 to help with my revision. I've searched the library website and the module Blackboard page but can't find any. Are they available somewhere I haven't looked?
 
 Thank you,
-Amara Okafor",resources,KV4006,low,FALSE
-DUP_020,past papers kv4006?,"hi
+Amara Okafor"
+past papers kv4006?,"hi
 
 have u got any past exam papers for kv4006?? checked the library and blackboard but theres nothing there. even just one paper would be helpful for revision
 
 cheers
-poppy",resources,KV4006,low,FALSE
-DUP_021,KV6003 - Can I Use spaCy or NLTK?,"Dear Dr Smith,
+poppy"
+KV6003 - Can I Use spaCy or NLTK?,"Dear Dr Smith,
 
 For the KV6003 project, is there a preferred NLP library we should use? I've been looking at both spaCy and NLTK and I'm unsure which would be more appropriate. Or are we free to choose?
 
 Thank you,
-Grace Li",assessment,KV6003,medium,FALSE
-DUP_022,spacy vs nltk for kv6003,"hi dr smith
+Grace Li"
+spacy vs nltk for kv6003,"hi dr smith
 
 quick one — for the kv6003 project does it matter if i use spacy or nltk?? ive started with nltk but someone said spacy is better. do u have a preference or is either fine
 
 thx
-eleanor",assessment,KV6003,medium,FALSE
-DUP_023,Is the KV5002 Presentation Individual or Group?,"Dear Dr Smith,
+eleanor"
+Is the KV5002 Presentation Individual or Group?,"Dear Dr Smith,
 
 Could you clarify whether the KV5002 presentation is done individually or in groups? I've heard different things from different people and the brief doesn't seem to specify clearly.
 
 Thanks,
-Nina Patel",assessment,KV5002,medium,FALSE
-DUP_024,kv5002 presentation - groups or solo??,"hi
+Nina Patel"
+kv5002 presentation - groups or solo??,"hi
 
 is the kv5002 presentation a group thing or do we present on our own?? need to know so i can start preparing
 
 thx
-will",assessment,KV5002,medium,FALSE
-DUP_025,Presentation Format Query KV5002,"Hi Dr Smith,
+will"
+Presentation Format Query KV5002,"Hi Dr Smith,
 
 Apologies if this has already been addressed but is the upcoming KV5002 presentation a group or individual assessment? Our group wasn't sure and we want to start planning.
 
 Cheers,
-Marcus Johnson",assessment,KV5002,medium,FALSE
+Marcus Johnson"
