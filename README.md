@@ -29,6 +29,8 @@ before running fresh:
 - first run of inferance had a lot of escalations so the code needs tweaking
 - struggling to get high confidence results (lowered escalation rule)
 - the system only flags no_label_above threshold
+- generated more emails to improve f1 
+- added per label threshold
 
 ### Preprocessing notes
 

@@ -1,7 +1,7 @@
 label,label_id,threshold
-admin,0,0.5500000000000002
-assessment,1,0.5500000000000002
-extenuating_circumstances,2,0.5500000000000002
-feedback,3,0.5500000000000002
-resources,4,0.5000000000000001
-timetabling,5,0.5500000000000002
+admin,0,0.5
+assessment,1,0.5
+extenuating_circumstances,2,0.55
+feedback,3,0.55
+resources,4,0.5
+timetabling,5,0.5
