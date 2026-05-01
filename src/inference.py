@@ -167,7 +167,7 @@ def run_inference(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run local email inference")
-    parser.add_argument("--input-csv", default="data/raw_batch1/emails.csv")
+    parser.add_argument("--input-csv", default="data/processed/splits/test.csv")
     parser.add_argument("--output-csv", default="data/processed/inference/predictions.csv")
     parser.add_argument("--escalation-csv", default="data/processed/inference/escalations.csv")
     parser.add_argument("--processed-dir", default="data/processed")
