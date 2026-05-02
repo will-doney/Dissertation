@@ -8,7 +8,7 @@ import numpy as np
 import torch
 from transformers import DistilBertForSequenceClassification, DistilBertTokenizerFast
 
-from src.preprocessing import preprocess_records
+from preprocessing import preprocess_records
 
 
 def _resolve_project_root() -> Path:
@@ -125,27 +125,45 @@ def run_inference(
     ]
 
     explanations = [
-        _format_explanation(labels, probabilities_row, predictions_row)
-        for probabilities_row, predictions_row in zip(probabilities, predictions)
+    _format_explanation(labels, probabilities_row, predictions_row)
+    for probabilities_row, predictions_row in zip(probabilities, predictions)
     ]
 
-    escalation_reasons = [
-        "" if np.any(predictions_row) else "no_label_above_threshold"
-        for predictions_row in predictions
-    ]
-    low_confidence = [reason != "" for reason in escalation_reasons]
+    # --- Improved escalation logic ---
+    escalation_reasons = []
+    low_confidence = []
 
-    for row, predicted, explanation, reason, low in zip(
+    for probabilities_row, predictions_row in zip(probabilities, predictions):
+        reason = ""
+
+        max_prob = probabilities_row.max()
+        sorted_probs = np.sort(probabilities_row)[::-1]
+
+        if not np.any(predictions_row):
+            reason = "no_label_above_threshold"
+
+        elif max_prob < 0.5:
+            reason = "low_max_confidence"
+
+        elif predictions_row.sum() > 3:
+            reason = "too_many_labels"
+
+        escalation_reasons.append(reason)
+        low_confidence.append(reason != "")
+
+    for row, predicted, explanation, reason, low, probs in zip(
         output,
         predicted_labels,
         explanations,
         escalation_reasons,
         low_confidence,
+        probabilities,
     ):
         row["predicted_labels"] = predicted
-        row["explanation"] = explanation
+        row["explanation"] = explanation + (f" Escalated due to {reason}." if reason else "")
         row["escalation_reason"] = reason
         row["low_confidence"] = low
+        row["confidence_score"] = float(probs.max())
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = list(output[0].keys()) if output else []
@@ -171,7 +189,7 @@ def main() -> None:
     parser.add_argument("--output-csv", default="data/processed/inference/predictions.csv")
     parser.add_argument("--escalation-csv", default="data/processed/inference/escalations.csv")
     parser.add_argument("--processed-dir", default="data/processed")
-    parser.add_argument("--model-dir", default="models/distilbert_multilabel")
+    parser.add_argument("--model-dir", default="models/8.distilbert_multilabel")
     parser.add_argument("--max-len", type=int, default=256)
     parser.add_argument("--batch-size", type=int, default=16)
     args = parser.parse_args()

@@ -1,1 +1,23 @@
-subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids,prob_admin,pred_admin,prob_assessment,pred_assessment,prob_extenuating_circumstances,pred_extenuating_circumstances,prob_feedback,pred_feedback,prob_resources,pred_resources,prob_timetabling,pred_timetabling,predicted_labels,explanation,escalation_reason,low_confidence
+subject,body,subject_masked,body_masked,subject_clean,body_clean,text_clean,label_list,n_labels,y_admin,y_assessment,y_extenuating_circumstances,y_feedback,y_resources,y_timetabling,label_ids,prob_admin,pred_admin,prob_assessment,pred_assessment,prob_extenuating_circumstances,pred_extenuating_circumstances,prob_feedback,pred_feedback,prob_resources,pred_resources,prob_timetabling,pred_timetabling,predicted_labels,explanation,escalation_reason,low_confidence,confidence_score
+HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+REGARDS
+MICHAEL",HELP WITH ASSIGNMENT,"HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS?
+
+[SIGN_OFF]
+MICHAEL",HELP WITH ASSIGNMENT,HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,HELP WITH ASSIGNMENT [SEP] HI I DONT UNDERSTAND THE ASSIGNMENT AT ALL. I MISSED THE LECTURES WHERE YOU EXPLAINED IT AND THE BRIEF DOESNT MAKE SENSE TO ME. CAN I COME TO YOUR OFFICE TO DISCUSS? WHEN ARE YOUR OFFICE HOURS? [SIGN_OFF] MICHAEL,['assessment'],1,0,1,0,0,0,0,[1],0.4753992557525635,0,0.4842308461666107,0,0.3931137025356293,0,0.4591871500015259,0,0.3847431242465973,0,0.5292102694511414,0,,"No label passed threshold; highest probabilities were timetabling=0.53, assessment=0.48, admin=0.48. Escalated due to no_label_above_threshold.",no_label_above_threshold,True,0.5292102694511414
+Data Protection Query - Project Data,"Dear Dr Smith,
+
+For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this.
+
+Could you advise or point me to the right person?
+
+Kind regards,
+Amara Okafor",Data Protection Query - Project Data,"Dear Dr Smith,
+
+For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this.
+
+Could you advise or point me to the right person?
+
+[SIGN_OFF]
+Amara Okafor",Data Protection Query - Project Data,"Dear Dr Smith, For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this. Could you advise or point me to the right person? [SIGN_OFF] Amara Okafor","Data Protection Query - Project Data [SEP] Dear Dr Smith, For my KV6003 project, I'm generating synthetic emails but I want to make sure I'm compliant with data protection regulations. Even though the data is AI-generated, do I still need to complete a Data Protection Impact Assessment? The ethics page on the university website isn't clear on this. Could you advise or point me to the right person? [SIGN_OFF] Amara Okafor",['admin'],1,1,0,0,0,0,0,[0],0.5039812326431274,0,0.5480997562408447,0,0.37513256072998047,0,0.47583848237991333,0,0.47359028458595276,0,0.2829956114292145,0,,"No label passed threshold; highest probabilities were assessment=0.55, admin=0.50, feedback=0.48. Escalated due to no_label_above_threshold.",no_label_above_threshold,True,0.5480997562408447
